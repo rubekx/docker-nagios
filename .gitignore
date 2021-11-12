@@ -1,4 +1,1 @@
 .env
-nagios/*
-!nagios/nagiosetc/objects/kifarunix-demo/*
-!nagios/nagiosetc/nagios.cfg
