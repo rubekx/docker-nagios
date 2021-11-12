@@ -1,8 +1,10 @@
 version: '3'
 services:
-  nagios:
+  nagios:    
+    env_file: 
+      - .env
     image: jasonrivers/nagios:latest
-    container_name: nagios-app
+    container_name: ${MYSQL_CONTAINER_NAME}
     volumes:
       - ./nagios/nagiosetc:/opt/nagios/etc
       - ./nagios/nagiosvar:/opt/nagios/var
