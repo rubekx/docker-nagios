@@ -1,0 +1,137 @@
+1636729861||localhost||Current Load||OK - load average: 1.80, 1.32, 1.16||load1=1.800;5.000;10.000;0; load5=1.320;4.000;6.000;0; load15=1.160;3.000;4.000;0;
+1636729904||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636729947||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000285s;;;0.000000 size=695B;;;0
+1636729990||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.043000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636730007||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000464s;;;0.000000 size=695B;;;0
+1636730033||localhost||Root Partition||DISK OK - free space: / 89887 MiB (35.55% inode=96%):||/=162951MiB;213156;239800;0;266445
+1636730067||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000318s;;;0.000000 size=695B;;;0
+1636730076||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636730119||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636730127||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000316s;;;0.000000 size=695B;;;0
+1636730161||localhost||Current Load||OK - load average: 0.05, 0.63, 0.91||load1=0.050;5.000;10.000;0; load5=0.630;4.000;6.000;0; load15=0.910;3.000;4.000;0;
+1636730204||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636730290||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.042000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636730333||localhost||Root Partition||DISK OK - free space: / 89888 MiB (35.55% inode=96%):||/=162951MiB;213156;239800;0;266445
+1636730376||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636730419||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636730427||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000275s;;;0.000000 size=695B;;;0
+1636730461||localhost||Current Load||OK - load average: 0.43, 0.66, 0.86||load1=0.430;5.000;10.000;0; load5=0.660;4.000;6.000;0; load15=0.860;3.000;4.000;0;
+1636730504||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636730590||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.044000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636730633||localhost||Root Partition||DISK OK - free space: / 91352 MiB (36.13% inode=96%):||/=161486MiB;213156;239800;0;266445
+1636730676||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636730719||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636730727||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000257s;;;0.000000 size=695B;;;0
+1636730761||localhost||Current Load||OK - load average: 0.53, 0.61, 0.79||load1=0.530;5.000;10.000;0; load5=0.610;4.000;6.000;0; load15=0.790;3.000;4.000;0;
+1636730804||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636730890||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.044000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636730933||localhost||Root Partition||DISK OK - free space: / 91350 MiB (36.12% inode=96%):||/=161488MiB;213156;239800;0;266445
+1636730976||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636731019||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636731027||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000255s;;;0.000000 size=695B;;;0
+1636731061||localhost||Current Load||OK - load average: 0.83, 0.83, 0.83||load1=0.830;5.000;10.000;0; load5=0.830;4.000;6.000;0; load15=0.830;3.000;4.000;0;
+1636731104||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636731190||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.037000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636732334||localhost||Current Load||OK - load average: 1.61, 1.13, 0.98||load1=1.610;5.000;10.000;0; load5=1.130;4.000;6.000;0; load15=0.980;3.000;4.000;0;
+1636732377||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636732420||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000298s;;;0.000000 size=695B;;;0
+1636733752||localhost||Current Load||OK - load average: 0.90, 0.92, 1.06||load1=0.900;5.000;10.000;0; load5=0.920;4.000;6.000;0; load15=1.060;3.000;4.000;0;
+1636733795||localhost||Root Partition||DISK OK - free space: / 91172 MiB (36.05% inode=96%):||/=161667MiB;213156;239800;0;266445
+1636733838||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636733881||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636733924||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000307s;;;0.000000 size=695B;;;0
+1636733967||localhost||Total Processes||PROCS OK: 36 processes with STATE = RSZDT||procs=36;250;400;0;
+1636733967||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.046000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636734052||localhost||Current Load||OK - load average: 0.95, 0.91, 1.02||load1=0.950;5.000;10.000;0; load5=0.910;4.000;6.000;0; load15=1.020;3.000;4.000;0;
+1636734095||localhost||Root Partition||DISK OK - free space: / 91166 MiB (36.05% inode=96%):||/=161672MiB;213156;239800;0;266445
+1636734138||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636734181||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636734224||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000322s;;;0.000000 size=695B;;;0
+1636734267||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636734267||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.038000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636734352||localhost||Current Load||OK - load average: 0.01, 0.34, 0.73||load1=0.010;5.000;10.000;0; load5=0.340;4.000;6.000;0; load15=0.730;3.000;4.000;0;
+1636734395||localhost||Root Partition||DISK OK - free space: / 91166 MiB (36.05% inode=96%):||/=161672MiB;213156;239800;0;266445
+1636734438||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636734481||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636734524||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000317s;;;0.000000 size=695B;;;0
+1636734567||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636734567||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.044000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636734652||localhost||Current Load||OK - load average: 0.04, 0.13, 0.52||load1=0.040;5.000;10.000;0; load5=0.130;4.000;6.000;0; load15=0.520;3.000;4.000;0;
+1636734695||localhost||Root Partition||DISK OK - free space: / 91166 MiB (36.05% inode=96%):||/=161673MiB;213156;239800;0;266445
+1636734738||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636734781||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636734824||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000317s;;;0.000000 size=695B;;;0
+1636734867||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636734867||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.042000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636734952||localhost||Current Load||OK - load average: 0.04, 0.06, 0.38||load1=0.040;5.000;10.000;0; load5=0.060;4.000;6.000;0; load15=0.380;3.000;4.000;0;
+1636734995||localhost||Root Partition||DISK OK - free space: / 91165 MiB (36.05% inode=96%):||/=161673MiB;213156;239800;0;266445
+1636735038||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636735081||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636735124||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000320s;;;0.000000 size=695B;;;0
+1636735167||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636735167||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.044000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636735252||localhost||Current Load||OK - load average: 0.12, 0.08, 0.29||load1=0.120;5.000;10.000;0; load5=0.080;4.000;6.000;0; load15=0.290;3.000;4.000;0;
+1636735295||localhost||Root Partition||DISK OK - free space: / 91165 MiB (36.05% inode=96%):||/=161673MiB;213156;239800;0;266445
+1636735338||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636735381||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636735424||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000315s;;;0.000000 size=695B;;;0
+1636735467||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636735467||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.043000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636735552||localhost||Current Load||OK - load average: 0.04, 0.09, 0.23||load1=0.040;5.000;10.000;0; load5=0.090;4.000;6.000;0; load15=0.230;3.000;4.000;0;
+1636735595||localhost||Root Partition||DISK OK - free space: / 91164 MiB (36.05% inode=96%):||/=161675MiB;213156;239800;0;266445
+1636735638||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636735681||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636735724||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000328s;;;0.000000 size=695B;;;0
+1636735767||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636735767||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.040000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636735852||localhost||Current Load||OK - load average: 0.04, 0.04, 0.16||load1=0.040;5.000;10.000;0; load5=0.040;4.000;6.000;0; load15=0.160;3.000;4.000;0;
+1636735895||localhost||Root Partition||DISK OK - free space: / 91163 MiB (36.05% inode=96%):||/=161676MiB;213156;239800;0;266445
+1636735938||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636735981||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636736024||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000310s;;;0.000000 size=695B;;;0
+1636736067||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636736067||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.041000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636736152||localhost||Current Load||OK - load average: 0.43, 0.19, 0.19||load1=0.430;5.000;10.000;0; load5=0.190;4.000;6.000;0; load15=0.190;3.000;4.000;0;
+1636736195||localhost||Root Partition||DISK OK - free space: / 91161 MiB (36.05% inode=96%):||/=161678MiB;213156;239800;0;266445
+1636736238||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636736281||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636736324||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000304s;;;0.000000 size=695B;;;0
+1636736367||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636736367||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.052000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636736452||localhost||Current Load||OK - load average: 3.33, 2.26, 1.10||load1=3.330;5.000;10.000;0; load5=2.260;4.000;6.000;0; load15=1.100;3.000;4.000;0;
+1636736495||localhost||Root Partition||DISK OK - free space: / 91163 MiB (36.05% inode=96%):||/=161676MiB;213156;239800;0;266445
+1636736538||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636736581||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636736624||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000218s;;;0.000000 size=695B;;;0
+1636736667||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636736667||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.055000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636736752||localhost||Current Load||OK - load average: 2.54, 2.56, 1.57||load1=2.540;5.000;10.000;0; load5=2.560;4.000;6.000;0; load15=1.570;3.000;4.000;0;
+1636736795||localhost||Root Partition||DISK OK - free space: / 91160 MiB (36.05% inode=96%):||/=161678MiB;213156;239800;0;266445
+1636736838||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636736881||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636736924||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000314s;;;0.000000 size=695B;;;0
+1636736967||localhost||Total Processes||PROCS OK: 36 processes with STATE = RSZDT||procs=36;250;400;0;
+1636736967||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.055000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636737052||localhost||Current Load||OK - load average: 2.74, 3.08, 2.09||load1=2.740;5.000;10.000;0; load5=3.080;4.000;6.000;0; load15=2.090;3.000;4.000;0;
+1636737095||localhost||Root Partition||DISK OK - free space: / 91168 MiB (36.05% inode=96%):||/=161671MiB;213156;239800;0;266445
+1636737138||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636737181||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636737224||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000290s;;;0.000000 size=695B;;;0
+1636737267||localhost||Total Processes||PROCS OK: 38 processes with STATE = RSZDT||procs=38;250;400;0;
+1636737267||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.051000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636737352||localhost||Current Load||OK - load average: 3.12, 3.15, 2.40||load1=3.120;5.000;10.000;0; load5=3.150;4.000;6.000;0; load15=2.400;3.000;4.000;0;
+1636737395||localhost||Root Partition||DISK OK - free space: / 91162 MiB (36.05% inode=96%):||/=161677MiB;213156;239800;0;266445
+1636737438||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636737481||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636737524||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000316s;;;0.000000 size=695B;;;0
+1636737567||localhost||Total Processes||PROCS OK: 38 processes with STATE = RSZDT||procs=38;250;400;0;
+1636737567||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.041000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636737652||localhost||Current Load||OK - load average: 0.44, 1.65, 1.99||load1=0.440;5.000;10.000;0; load5=1.650;4.000;6.000;0; load15=1.990;3.000;4.000;0;
+1636737695||localhost||Root Partition||DISK OK - free space: / 91163 MiB (36.05% inode=96%):||/=161675MiB;213156;239800;0;266445
+1636737738||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636737781||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636737824||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000330s;;;0.000000 size=695B;;;0
+1636737867||localhost||Total Processes||PROCS OK: 38 processes with STATE = RSZDT||procs=38;250;400;0;
+1636737867||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.045000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636737952||localhost||Current Load||OK - load average: 0.98, 1.17, 1.68||load1=0.980;5.000;10.000;0; load5=1.170;4.000;6.000;0; load15=1.680;3.000;4.000;0;
+1636737995||localhost||Root Partition||DISK OK - free space: / 91163 MiB (36.05% inode=96%):||/=161676MiB;213156;239800;0;266445
