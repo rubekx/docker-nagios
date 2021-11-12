@@ -1,0 +1,2644 @@
+[1636740172] Nagios 4.4.6 starting... (PID=20)
+[1636740172] Local time is Fri Nov 12 18:02:52 UTC 2021
+[1636740172] LOG VERSION: 2.0
+[1636740172] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636740172] qh: core query handler registered
+[1636740172] qh: echo service query handler registered
+[1636740172] qh: help for the query handler registered
+[1636740172] wproc: Successfully registered manager as @wproc with query handler
+[1636740172] wproc: Registry request: name=Core Worker 42;pid=42
+[1636740172] wproc: Registry request: name=Core Worker 40;pid=40
+[1636740172] wproc: Registry request: name=Core Worker 41;pid=41
+[1636740172] wproc: Registry request: name=Core Worker 45;pid=45
+[1636740172] wproc: Registry request: name=Core Worker 43;pid=43
+[1636740172] wproc: Registry request: name=Core Worker 46;pid=46
+[1636740172] wproc: Registry request: name=Core Worker 44;pid=44
+[1636740172] wproc: Registry request: name=Core Worker 47;pid=47
+[1636740172] wproc: Registry request: name=Core Worker 50;pid=50
+[1636740172] wproc: Registry request: name=Core Worker 52;pid=52
+[1636740172] wproc: Registry request: name=Core Worker 48;pid=48
+[1636740172] wproc: Registry request: name=Core Worker 49;pid=49
+[1636740172] wproc: Registry request: name=Core Worker 53;pid=53
+[1636740172] wproc: Registry request: name=Core Worker 51;pid=51
+[1636740172] wproc: Registry request: name=Core Worker 55;pid=55
+[1636740172] wproc: Registry request: name=Core Worker 54;pid=54
+[1636740172] wproc: Registry request: name=Core Worker 57;pid=57
+[1636740172] wproc: Registry request: name=Core Worker 56;pid=56
+[1636740173] Successfully launched command file worker with pid 58
+[1636740300] SERVICE ALERT: localhost;HTTP;WARNING;SOFT;1;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time
+[1636740359] Caught SIGTERM, shutting down...
+[1636740359] Successfully shutdown... (PID=20)
+[1636740362] Nagios 4.4.6 starting... (PID=15)
+[1636740362] Local time is Fri Nov 12 18:06:02 UTC 2021
+[1636740362] LOG VERSION: 2.0
+[1636740362] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636740362] qh: core query handler registered
+[1636740362] qh: echo service query handler registered
+[1636740362] qh: help for the query handler registered
+[1636740362] wproc: Successfully registered manager as @wproc with query handler
+[1636740362] wproc: Registry request: name=Core Worker 30;pid=30
+[1636740362] wproc: Registry request: name=Core Worker 31;pid=31
+[1636740362] wproc: Registry request: name=Core Worker 32;pid=32
+[1636740362] wproc: Registry request: name=Core Worker 33;pid=33
+[1636740362] wproc: Registry request: name=Core Worker 34;pid=34
+[1636740362] wproc: Registry request: name=Core Worker 35;pid=35
+[1636740362] wproc: Registry request: name=Core Worker 37;pid=37
+[1636740362] wproc: Registry request: name=Core Worker 38;pid=38
+[1636740362] wproc: Registry request: name=Core Worker 40;pid=40
+[1636740362] wproc: Registry request: name=Core Worker 42;pid=42
+[1636740362] wproc: Registry request: name=Core Worker 41;pid=41
+[1636740362] wproc: Registry request: name=Core Worker 43;pid=43
+[1636740362] wproc: Registry request: name=Core Worker 45;pid=45
+[1636740362] wproc: Registry request: name=Core Worker 36;pid=36
+[1636740362] wproc: Registry request: name=Core Worker 46;pid=46
+[1636740362] wproc: Registry request: name=Core Worker 44;pid=44
+[1636740362] wproc: Registry request: name=Core Worker 47;pid=47
+[1636740362] wproc: Registry request: name=Core Worker 39;pid=39
+[1636740362] Successfully launched command file worker with pid 48
+[1636740422] SERVICE ALERT: localhost;HTTP;WARNING;SOFT;2;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time
+[1636740482] SERVICE ALERT: localhost;HTTP;WARNING;SOFT;3;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time
+[1636740542] SERVICE ALERT: localhost;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time
+[1636741415] Caught SIGTERM, shutting down...
+[1636741415] Successfully shutdown... (PID=15)
+[1636741418] Nagios 4.4.6 starting... (PID=16)
+[1636741418] Local time is Fri Nov 12 18:23:38 UTC 2021
+[1636741418] LOG VERSION: 2.0
+[1636741418] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741418] qh: core query handler registered
+[1636741418] qh: echo service query handler registered
+[1636741418] qh: help for the query handler registered
+[1636741418] wproc: Successfully registered manager as @wproc with query handler
+[1636741418] wproc: Registry request: name=Core Worker 30;pid=30
+[1636741418] wproc: Registry request: name=Core Worker 31;pid=31
+[1636741418] wproc: Registry request: name=Core Worker 32;pid=32
+[1636741418] wproc: Registry request: name=Core Worker 33;pid=33
+[1636741418] wproc: Registry request: name=Core Worker 34;pid=34
+[1636741418] wproc: Registry request: name=Core Worker 35;pid=35
+[1636741418] wproc: Registry request: name=Core Worker 36;pid=36
+[1636741418] wproc: Registry request: name=Core Worker 37;pid=37
+[1636741418] wproc: Registry request: name=Core Worker 38;pid=38
+[1636741418] wproc: Registry request: name=Core Worker 39;pid=39
+[1636741418] wproc: Registry request: name=Core Worker 40;pid=40
+[1636741418] wproc: Registry request: name=Core Worker 41;pid=41
+[1636741418] wproc: Registry request: name=Core Worker 42;pid=42
+[1636741418] wproc: Registry request: name=Core Worker 43;pid=43
+[1636741418] wproc: Registry request: name=Core Worker 44;pid=44
+[1636741418] wproc: Registry request: name=Core Worker 45;pid=45
+[1636741418] wproc: Registry request: name=Core Worker 46;pid=46
+[1636741418] wproc: Registry request: name=Core Worker 47;pid=47
+[1636741418] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741418] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741418] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741418] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=16)
+[1636741419] Nagios 4.4.6 starting... (PID=53)
+[1636741419] Local time is Fri Nov 12 18:23:39 UTC 2021
+[1636741419] LOG VERSION: 2.0
+[1636741419] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741419] qh: core query handler registered
+[1636741419] qh: echo service query handler registered
+[1636741419] qh: help for the query handler registered
+[1636741419] wproc: Successfully registered manager as @wproc with query handler
+[1636741419] wproc: Registry request: name=Core Worker 57;pid=57
+[1636741419] wproc: Registry request: name=Core Worker 59;pid=59
+[1636741419] wproc: Registry request: name=Core Worker 58;pid=58
+[1636741419] wproc: Registry request: name=Core Worker 61;pid=61
+[1636741419] wproc: Registry request: name=Core Worker 60;pid=60
+[1636741419] wproc: Registry request: name=Core Worker 62;pid=62
+[1636741419] wproc: Registry request: name=Core Worker 63;pid=63
+[1636741419] wproc: Registry request: name=Core Worker 64;pid=64
+[1636741419] wproc: Registry request: name=Core Worker 67;pid=67
+[1636741419] wproc: Registry request: name=Core Worker 66;pid=66
+[1636741419] wproc: Registry request: name=Core Worker 65;pid=65
+[1636741419] wproc: Registry request: name=Core Worker 68;pid=68
+[1636741419] wproc: Registry request: name=Core Worker 69;pid=69
+[1636741419] wproc: Registry request: name=Core Worker 70;pid=70
+[1636741419] wproc: Registry request: name=Core Worker 71;pid=71
+[1636741419] wproc: Registry request: name=Core Worker 74;pid=74
+[1636741419] wproc: Registry request: name=Core Worker 72;pid=72
+[1636741419] wproc: Registry request: name=Core Worker 73;pid=73
+[1636741419] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741419] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741419] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741419] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=53)
+[1636741420] Nagios 4.4.6 starting... (PID=77)
+[1636741420] Local time is Fri Nov 12 18:23:40 UTC 2021
+[1636741420] LOG VERSION: 2.0
+[1636741420] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741420] qh: core query handler registered
+[1636741420] qh: echo service query handler registered
+[1636741420] qh: help for the query handler registered
+[1636741420] wproc: Successfully registered manager as @wproc with query handler
+[1636741420] wproc: Registry request: name=Core Worker 81;pid=81
+[1636741420] wproc: Registry request: name=Core Worker 82;pid=82
+[1636741420] wproc: Registry request: name=Core Worker 83;pid=83
+[1636741420] wproc: Registry request: name=Core Worker 84;pid=84
+[1636741420] wproc: Registry request: name=Core Worker 86;pid=86
+[1636741420] wproc: Registry request: name=Core Worker 87;pid=87
+[1636741420] wproc: Registry request: name=Core Worker 85;pid=85
+[1636741420] wproc: Registry request: name=Core Worker 88;pid=88
+[1636741420] wproc: Registry request: name=Core Worker 89;pid=89
+[1636741420] wproc: Registry request: name=Core Worker 92;pid=92
+[1636741420] wproc: Registry request: name=Core Worker 90;pid=90
+[1636741420] wproc: Registry request: name=Core Worker 91;pid=91
+[1636741420] wproc: Registry request: name=Core Worker 93;pid=93
+[1636741420] wproc: Registry request: name=Core Worker 94;pid=94
+[1636741420] wproc: Registry request: name=Core Worker 96;pid=96
+[1636741420] wproc: Registry request: name=Core Worker 95;pid=95
+[1636741420] wproc: Registry request: name=Core Worker 98;pid=98
+[1636741420] wproc: Registry request: name=Core Worker 97;pid=97
+[1636741420] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741420] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741420] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741420] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=77)
+[1636741421] Nagios 4.4.6 starting... (PID=99)
+[1636741421] Local time is Fri Nov 12 18:23:41 UTC 2021
+[1636741421] LOG VERSION: 2.0
+[1636741421] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741421] qh: core query handler registered
+[1636741421] qh: echo service query handler registered
+[1636741421] qh: help for the query handler registered
+[1636741421] wproc: Successfully registered manager as @wproc with query handler
+[1636741421] wproc: Registry request: name=Core Worker 103;pid=103
+[1636741421] wproc: Registry request: name=Core Worker 106;pid=106
+[1636741421] wproc: Registry request: name=Core Worker 104;pid=104
+[1636741421] wproc: Registry request: name=Core Worker 105;pid=105
+[1636741421] wproc: Registry request: name=Core Worker 107;pid=107
+[1636741421] wproc: Registry request: name=Core Worker 110;pid=110
+[1636741421] wproc: Registry request: name=Core Worker 108;pid=108
+[1636741421] wproc: Registry request: name=Core Worker 111;pid=111
+[1636741421] wproc: Registry request: name=Core Worker 109;pid=109
+[1636741421] wproc: Registry request: name=Core Worker 112;pid=112
+[1636741421] wproc: Registry request: name=Core Worker 113;pid=113
+[1636741421] wproc: Registry request: name=Core Worker 115;pid=115
+[1636741421] wproc: Registry request: name=Core Worker 114;pid=114
+[1636741421] wproc: Registry request: name=Core Worker 118;pid=118
+[1636741421] wproc: Registry request: name=Core Worker 116;pid=116
+[1636741421] wproc: Registry request: name=Core Worker 117;pid=117
+[1636741421] wproc: Registry request: name=Core Worker 119;pid=119
+[1636741421] wproc: Registry request: name=Core Worker 120;pid=120
+[1636741421] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741421] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741421] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741421] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=99)
+[1636741422] Nagios 4.4.6 starting... (PID=121)
+[1636741422] Local time is Fri Nov 12 18:23:42 UTC 2021
+[1636741422] LOG VERSION: 2.0
+[1636741422] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741422] qh: core query handler registered
+[1636741422] qh: echo service query handler registered
+[1636741422] qh: help for the query handler registered
+[1636741422] wproc: Successfully registered manager as @wproc with query handler
+[1636741422] wproc: Registry request: name=Core Worker 125;pid=125
+[1636741422] wproc: Registry request: name=Core Worker 126;pid=126
+[1636741422] wproc: Registry request: name=Core Worker 129;pid=129
+[1636741422] wproc: Registry request: name=Core Worker 127;pid=127
+[1636741422] wproc: Registry request: name=Core Worker 128;pid=128
+[1636741422] wproc: Registry request: name=Core Worker 130;pid=130
+[1636741422] wproc: Registry request: name=Core Worker 131;pid=131
+[1636741422] wproc: Registry request: name=Core Worker 133;pid=133
+[1636741422] wproc: Registry request: name=Core Worker 132;pid=132
+[1636741422] wproc: Registry request: name=Core Worker 135;pid=135
+[1636741422] wproc: Registry request: name=Core Worker 134;pid=134
+[1636741422] wproc: Registry request: name=Core Worker 137;pid=137
+[1636741422] wproc: Registry request: name=Core Worker 136;pid=136
+[1636741422] wproc: Registry request: name=Core Worker 138;pid=138
+[1636741422] wproc: Registry request: name=Core Worker 139;pid=139
+[1636741422] wproc: Registry request: name=Core Worker 140;pid=140
+[1636741422] wproc: Registry request: name=Core Worker 142;pid=142
+[1636741422] wproc: Registry request: name=Core Worker 141;pid=141
+[1636741422] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741422] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741422] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741422] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=121)
+[1636741423] Nagios 4.4.6 starting... (PID=143)
+[1636741423] Local time is Fri Nov 12 18:23:43 UTC 2021
+[1636741423] LOG VERSION: 2.0
+[1636741423] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741423] qh: core query handler registered
+[1636741423] qh: echo service query handler registered
+[1636741423] qh: help for the query handler registered
+[1636741423] wproc: Successfully registered manager as @wproc with query handler
+[1636741423] wproc: Registry request: name=Core Worker 147;pid=147
+[1636741423] wproc: Registry request: name=Core Worker 149;pid=149
+[1636741423] wproc: Registry request: name=Core Worker 148;pid=148
+[1636741423] wproc: Registry request: name=Core Worker 152;pid=152
+[1636741423] wproc: Registry request: name=Core Worker 151;pid=151
+[1636741423] wproc: Registry request: name=Core Worker 150;pid=150
+[1636741423] wproc: Registry request: name=Core Worker 156;pid=156
+[1636741423] wproc: Registry request: name=Core Worker 154;pid=154
+[1636741423] wproc: Registry request: name=Core Worker 153;pid=153
+[1636741423] wproc: Registry request: name=Core Worker 159;pid=159
+[1636741423] wproc: Registry request: name=Core Worker 160;pid=160
+[1636741423] wproc: Registry request: name=Core Worker 157;pid=157
+[1636741423] wproc: Registry request: name=Core Worker 158;pid=158
+[1636741423] wproc: Registry request: name=Core Worker 162;pid=162
+[1636741423] wproc: Registry request: name=Core Worker 155;pid=155
+[1636741423] wproc: Registry request: name=Core Worker 161;pid=161
+[1636741423] wproc: Registry request: name=Core Worker 163;pid=163
+[1636741423] wproc: Registry request: name=Core Worker 164;pid=164
+[1636741423] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741423] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741423] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741423] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=143)
+[1636741424] Nagios 4.4.6 starting... (PID=165)
+[1636741424] Local time is Fri Nov 12 18:23:44 UTC 2021
+[1636741424] LOG VERSION: 2.0
+[1636741424] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741424] qh: core query handler registered
+[1636741424] qh: echo service query handler registered
+[1636741424] qh: help for the query handler registered
+[1636741424] wproc: Successfully registered manager as @wproc with query handler
+[1636741424] wproc: Registry request: name=Core Worker 169;pid=169
+[1636741424] wproc: Registry request: name=Core Worker 170;pid=170
+[1636741424] wproc: Registry request: name=Core Worker 171;pid=171
+[1636741424] wproc: Registry request: name=Core Worker 172;pid=172
+[1636741424] wproc: Registry request: name=Core Worker 174;pid=174
+[1636741424] wproc: Registry request: name=Core Worker 173;pid=173
+[1636741424] wproc: Registry request: name=Core Worker 177;pid=177
+[1636741424] wproc: Registry request: name=Core Worker 176;pid=176
+[1636741424] wproc: Registry request: name=Core Worker 175;pid=175
+[1636741424] wproc: Registry request: name=Core Worker 178;pid=178
+[1636741424] wproc: Registry request: name=Core Worker 179;pid=179
+[1636741424] wproc: Registry request: name=Core Worker 181;pid=181
+[1636741424] wproc: Registry request: name=Core Worker 180;pid=180
+[1636741424] wproc: Registry request: name=Core Worker 182;pid=182
+[1636741424] wproc: Registry request: name=Core Worker 184;pid=184
+[1636741424] wproc: Registry request: name=Core Worker 186;pid=186
+[1636741424] wproc: Registry request: name=Core Worker 183;pid=183
+[1636741424] wproc: Registry request: name=Core Worker 185;pid=185
+[1636741424] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741424] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741424] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741424] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=165)
+[1636741425] Nagios 4.4.6 starting... (PID=187)
+[1636741425] Local time is Fri Nov 12 18:23:45 UTC 2021
+[1636741425] LOG VERSION: 2.0
+[1636741425] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741425] qh: core query handler registered
+[1636741425] qh: echo service query handler registered
+[1636741425] qh: help for the query handler registered
+[1636741425] wproc: Successfully registered manager as @wproc with query handler
+[1636741425] wproc: Registry request: name=Core Worker 192;pid=192
+[1636741425] wproc: Registry request: name=Core Worker 191;pid=191
+[1636741425] wproc: Registry request: name=Core Worker 193;pid=193
+[1636741425] wproc: Registry request: name=Core Worker 197;pid=197
+[1636741425] wproc: Registry request: name=Core Worker 194;pid=194
+[1636741425] wproc: Registry request: name=Core Worker 198;pid=198
+[1636741425] wproc: Registry request: name=Core Worker 195;pid=195
+[1636741425] wproc: Registry request: name=Core Worker 196;pid=196
+[1636741425] wproc: Registry request: name=Core Worker 200;pid=200
+[1636741425] wproc: Registry request: name=Core Worker 201;pid=201
+[1636741425] wproc: Registry request: name=Core Worker 199;pid=199
+[1636741425] wproc: Registry request: name=Core Worker 203;pid=203
+[1636741425] wproc: Registry request: name=Core Worker 202;pid=202
+[1636741425] wproc: Registry request: name=Core Worker 205;pid=205
+[1636741425] wproc: Registry request: name=Core Worker 204;pid=204
+[1636741425] wproc: Registry request: name=Core Worker 207;pid=207
+[1636741425] wproc: Registry request: name=Core Worker 206;pid=206
+[1636741425] wproc: Registry request: name=Core Worker 208;pid=208
+[1636741425] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741425] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741425] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741425] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=187)
+[1636741427] Nagios 4.4.6 starting... (PID=209)
+[1636741427] Local time is Fri Nov 12 18:23:47 UTC 2021
+[1636741427] LOG VERSION: 2.0
+[1636741427] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741427] qh: core query handler registered
+[1636741427] qh: echo service query handler registered
+[1636741427] qh: help for the query handler registered
+[1636741427] wproc: Successfully registered manager as @wproc with query handler
+[1636741427] wproc: Registry request: name=Core Worker 215;pid=215
+[1636741427] wproc: Registry request: name=Core Worker 213;pid=213
+[1636741427] wproc: Registry request: name=Core Worker 216;pid=216
+[1636741427] wproc: Registry request: name=Core Worker 217;pid=217
+[1636741427] wproc: Registry request: name=Core Worker 214;pid=214
+[1636741427] wproc: Registry request: name=Core Worker 218;pid=218
+[1636741427] wproc: Registry request: name=Core Worker 220;pid=220
+[1636741427] wproc: Registry request: name=Core Worker 219;pid=219
+[1636741427] wproc: Registry request: name=Core Worker 223;pid=223
+[1636741427] wproc: Registry request: name=Core Worker 222;pid=222
+[1636741427] wproc: Registry request: name=Core Worker 225;pid=225
+[1636741427] wproc: Registry request: name=Core Worker 224;pid=224
+[1636741427] wproc: Registry request: name=Core Worker 227;pid=227
+[1636741427] wproc: Registry request: name=Core Worker 228;pid=228
+[1636741427] wproc: Registry request: name=Core Worker 226;pid=226
+[1636741427] wproc: Registry request: name=Core Worker 221;pid=221
+[1636741427] wproc: Registry request: name=Core Worker 230;pid=230
+[1636741427] wproc: Registry request: name=Core Worker 229;pid=229
+[1636741427] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741427] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741427] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741427] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=209)
+[1636741428] Nagios 4.4.6 starting... (PID=231)
+[1636741428] Local time is Fri Nov 12 18:23:48 UTC 2021
+[1636741428] LOG VERSION: 2.0
+[1636741428] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741428] qh: core query handler registered
+[1636741428] qh: echo service query handler registered
+[1636741428] qh: help for the query handler registered
+[1636741428] wproc: Successfully registered manager as @wproc with query handler
+[1636741428] wproc: Registry request: name=Core Worker 236;pid=236
+[1636741428] wproc: Registry request: name=Core Worker 235;pid=235
+[1636741428] wproc: Registry request: name=Core Worker 239;pid=239
+[1636741428] wproc: Registry request: name=Core Worker 241;pid=241
+[1636741428] wproc: Registry request: name=Core Worker 237;pid=237
+[1636741428] wproc: Registry request: name=Core Worker 238;pid=238
+[1636741428] wproc: Registry request: name=Core Worker 240;pid=240
+[1636741428] wproc: Registry request: name=Core Worker 242;pid=242
+[1636741428] wproc: Registry request: name=Core Worker 243;pid=243
+[1636741428] wproc: Registry request: name=Core Worker 244;pid=244
+[1636741428] wproc: Registry request: name=Core Worker 249;pid=249
+[1636741428] wproc: Registry request: name=Core Worker 251;pid=251
+[1636741428] wproc: Registry request: name=Core Worker 246;pid=246
+[1636741428] wproc: Registry request: name=Core Worker 247;pid=247
+[1636741428] wproc: Registry request: name=Core Worker 248;pid=248
+[1636741428] wproc: Registry request: name=Core Worker 245;pid=245
+[1636741428] wproc: Registry request: name=Core Worker 250;pid=250
+[1636741428] wproc: Registry request: name=Core Worker 252;pid=252
+[1636741428] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741428] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741428] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741428] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=231)
+[1636741429] Nagios 4.4.6 starting... (PID=253)
+[1636741429] Local time is Fri Nov 12 18:23:49 UTC 2021
+[1636741429] LOG VERSION: 2.0
+[1636741429] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741429] qh: core query handler registered
+[1636741429] qh: echo service query handler registered
+[1636741429] qh: help for the query handler registered
+[1636741429] wproc: Successfully registered manager as @wproc with query handler
+[1636741429] wproc: Registry request: name=Core Worker 257;pid=257
+[1636741429] wproc: Registry request: name=Core Worker 260;pid=260
+[1636741429] wproc: Registry request: name=Core Worker 259;pid=259
+[1636741429] wproc: Registry request: name=Core Worker 258;pid=258
+[1636741429] wproc: Registry request: name=Core Worker 261;pid=261
+[1636741429] wproc: Registry request: name=Core Worker 264;pid=264
+[1636741429] wproc: Registry request: name=Core Worker 263;pid=263
+[1636741429] wproc: Registry request: name=Core Worker 262;pid=262
+[1636741429] wproc: Registry request: name=Core Worker 267;pid=267
+[1636741429] wproc: Registry request: name=Core Worker 268;pid=268
+[1636741429] wproc: Registry request: name=Core Worker 265;pid=265
+[1636741429] wproc: Registry request: name=Core Worker 266;pid=266
+[1636741429] wproc: Registry request: name=Core Worker 270;pid=270
+[1636741429] wproc: Registry request: name=Core Worker 272;pid=272
+[1636741429] wproc: Registry request: name=Core Worker 269;pid=269
+[1636741429] wproc: Registry request: name=Core Worker 271;pid=271
+[1636741429] wproc: Registry request: name=Core Worker 274;pid=274
+[1636741429] wproc: Registry request: name=Core Worker 273;pid=273
+[1636741429] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741429] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741429] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741429] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=253)
+[1636741430] Nagios 4.4.6 starting... (PID=275)
+[1636741430] Local time is Fri Nov 12 18:23:50 UTC 2021
+[1636741430] LOG VERSION: 2.0
+[1636741430] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741430] qh: core query handler registered
+[1636741430] qh: echo service query handler registered
+[1636741430] qh: help for the query handler registered
+[1636741430] wproc: Successfully registered manager as @wproc with query handler
+[1636741430] wproc: Registry request: name=Core Worker 279;pid=279
+[1636741430] wproc: Registry request: name=Core Worker 280;pid=280
+[1636741430] wproc: Registry request: name=Core Worker 281;pid=281
+[1636741430] wproc: Registry request: name=Core Worker 282;pid=282
+[1636741430] wproc: Registry request: name=Core Worker 284;pid=284
+[1636741430] wproc: Registry request: name=Core Worker 285;pid=285
+[1636741430] wproc: Registry request: name=Core Worker 286;pid=286
+[1636741430] wproc: Registry request: name=Core Worker 283;pid=283
+[1636741430] wproc: Registry request: name=Core Worker 287;pid=287
+[1636741430] wproc: Registry request: name=Core Worker 288;pid=288
+[1636741430] wproc: Registry request: name=Core Worker 291;pid=291
+[1636741430] wproc: Registry request: name=Core Worker 290;pid=290
+[1636741430] wproc: Registry request: name=Core Worker 292;pid=292
+[1636741430] wproc: Registry request: name=Core Worker 293;pid=293
+[1636741430] wproc: Registry request: name=Core Worker 289;pid=289
+[1636741430] wproc: Registry request: name=Core Worker 294;pid=294
+[1636741430] wproc: Registry request: name=Core Worker 295;pid=295
+[1636741430] wproc: Registry request: name=Core Worker 296;pid=296
+[1636741430] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741430] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741430] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741430] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=275)
+[1636741431] Nagios 4.4.6 starting... (PID=297)
+[1636741431] Local time is Fri Nov 12 18:23:51 UTC 2021
+[1636741431] LOG VERSION: 2.0
+[1636741431] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741431] qh: core query handler registered
+[1636741431] qh: echo service query handler registered
+[1636741431] qh: help for the query handler registered
+[1636741431] wproc: Successfully registered manager as @wproc with query handler
+[1636741431] wproc: Registry request: name=Core Worker 301;pid=301
+[1636741431] wproc: Registry request: name=Core Worker 303;pid=303
+[1636741431] wproc: Registry request: name=Core Worker 302;pid=302
+[1636741431] wproc: Registry request: name=Core Worker 304;pid=304
+[1636741431] wproc: Registry request: name=Core Worker 308;pid=308
+[1636741431] wproc: Registry request: name=Core Worker 305;pid=305
+[1636741431] wproc: Registry request: name=Core Worker 307;pid=307
+[1636741431] wproc: Registry request: name=Core Worker 306;pid=306
+[1636741431] wproc: Registry request: name=Core Worker 309;pid=309
+[1636741431] wproc: Registry request: name=Core Worker 310;pid=310
+[1636741431] wproc: Registry request: name=Core Worker 312;pid=312
+[1636741431] wproc: Registry request: name=Core Worker 311;pid=311
+[1636741431] wproc: Registry request: name=Core Worker 313;pid=313
+[1636741431] wproc: Registry request: name=Core Worker 316;pid=316
+[1636741431] wproc: Registry request: name=Core Worker 314;pid=314
+[1636741431] wproc: Registry request: name=Core Worker 315;pid=315
+[1636741431] wproc: Registry request: name=Core Worker 317;pid=317
+[1636741431] wproc: Registry request: name=Core Worker 318;pid=318
+[1636741431] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741431] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741431] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741431] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=297)
+[1636741432] Nagios 4.4.6 starting... (PID=319)
+[1636741432] Local time is Fri Nov 12 18:23:52 UTC 2021
+[1636741432] LOG VERSION: 2.0
+[1636741432] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741432] qh: core query handler registered
+[1636741432] qh: echo service query handler registered
+[1636741432] qh: help for the query handler registered
+[1636741432] wproc: Successfully registered manager as @wproc with query handler
+[1636741432] wproc: Registry request: name=Core Worker 323;pid=323
+[1636741432] wproc: Registry request: name=Core Worker 325;pid=325
+[1636741432] wproc: Registry request: name=Core Worker 324;pid=324
+[1636741432] wproc: Registry request: name=Core Worker 326;pid=326
+[1636741432] wproc: Registry request: name=Core Worker 329;pid=329
+[1636741432] wproc: Registry request: name=Core Worker 328;pid=328
+[1636741432] wproc: Registry request: name=Core Worker 327;pid=327
+[1636741432] wproc: Registry request: name=Core Worker 332;pid=332
+[1636741432] wproc: Registry request: name=Core Worker 330;pid=330
+[1636741432] wproc: Registry request: name=Core Worker 331;pid=331
+[1636741432] wproc: Registry request: name=Core Worker 333;pid=333
+[1636741432] wproc: Registry request: name=Core Worker 334;pid=334
+[1636741432] wproc: Registry request: name=Core Worker 338;pid=338
+[1636741432] wproc: Registry request: name=Core Worker 337;pid=337
+[1636741432] wproc: Registry request: name=Core Worker 335;pid=335
+[1636741432] wproc: Registry request: name=Core Worker 336;pid=336
+[1636741432] wproc: Registry request: name=Core Worker 339;pid=339
+[1636741432] wproc: Registry request: name=Core Worker 340;pid=340
+[1636741432] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741432] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741432] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741432] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=319)
+[1636741433] Nagios 4.4.6 starting... (PID=341)
+[1636741433] Local time is Fri Nov 12 18:23:53 UTC 2021
+[1636741433] LOG VERSION: 2.0
+[1636741433] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741433] qh: core query handler registered
+[1636741433] qh: echo service query handler registered
+[1636741433] qh: help for the query handler registered
+[1636741433] wproc: Successfully registered manager as @wproc with query handler
+[1636741433] wproc: Registry request: name=Core Worker 346;pid=346
+[1636741433] wproc: Registry request: name=Core Worker 345;pid=345
+[1636741433] wproc: Registry request: name=Core Worker 350;pid=350
+[1636741433] wproc: Registry request: name=Core Worker 351;pid=351
+[1636741433] wproc: Registry request: name=Core Worker 348;pid=348
+[1636741433] wproc: Registry request: name=Core Worker 347;pid=347
+[1636741433] wproc: Registry request: name=Core Worker 349;pid=349
+[1636741433] wproc: Registry request: name=Core Worker 353;pid=353
+[1636741433] wproc: Registry request: name=Core Worker 354;pid=354
+[1636741433] wproc: Registry request: name=Core Worker 355;pid=355
+[1636741433] wproc: Registry request: name=Core Worker 352;pid=352
+[1636741433] wproc: Registry request: name=Core Worker 357;pid=357
+[1636741433] wproc: Registry request: name=Core Worker 356;pid=356
+[1636741433] wproc: Registry request: name=Core Worker 358;pid=358
+[1636741433] wproc: Registry request: name=Core Worker 359;pid=359
+[1636741433] wproc: Registry request: name=Core Worker 361;pid=361
+[1636741433] wproc: Registry request: name=Core Worker 360;pid=360
+[1636741433] wproc: Registry request: name=Core Worker 362;pid=362
+[1636741433] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741433] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741433] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741433] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=341)
+[1636741434] Nagios 4.4.6 starting... (PID=363)
+[1636741434] Local time is Fri Nov 12 18:23:54 UTC 2021
+[1636741434] LOG VERSION: 2.0
+[1636741434] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741434] qh: core query handler registered
+[1636741434] qh: echo service query handler registered
+[1636741434] qh: help for the query handler registered
+[1636741434] wproc: Successfully registered manager as @wproc with query handler
+[1636741434] wproc: Registry request: name=Core Worker 367;pid=367
+[1636741434] wproc: Registry request: name=Core Worker 369;pid=369
+[1636741434] wproc: Registry request: name=Core Worker 371;pid=371
+[1636741434] wproc: Registry request: name=Core Worker 370;pid=370
+[1636741434] wproc: Registry request: name=Core Worker 368;pid=368
+[1636741434] wproc: Registry request: name=Core Worker 372;pid=372
+[1636741434] wproc: Registry request: name=Core Worker 373;pid=373
+[1636741434] wproc: Registry request: name=Core Worker 374;pid=374
+[1636741434] wproc: Registry request: name=Core Worker 377;pid=377
+[1636741434] wproc: Registry request: name=Core Worker 375;pid=375
+[1636741434] wproc: Registry request: name=Core Worker 376;pid=376
+[1636741434] wproc: Registry request: name=Core Worker 378;pid=378
+[1636741434] wproc: Registry request: name=Core Worker 379;pid=379
+[1636741434] wproc: Registry request: name=Core Worker 380;pid=380
+[1636741434] wproc: Registry request: name=Core Worker 382;pid=382
+[1636741434] wproc: Registry request: name=Core Worker 384;pid=384
+[1636741434] wproc: Registry request: name=Core Worker 383;pid=383
+[1636741434] wproc: Registry request: name=Core Worker 381;pid=381
+[1636741434] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741434] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741434] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741434] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=363)
+[1636741435] Nagios 4.4.6 starting... (PID=385)
+[1636741435] Local time is Fri Nov 12 18:23:55 UTC 2021
+[1636741435] LOG VERSION: 2.0
+[1636741435] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741435] qh: core query handler registered
+[1636741435] qh: echo service query handler registered
+[1636741435] qh: help for the query handler registered
+[1636741435] wproc: Successfully registered manager as @wproc with query handler
+[1636741435] wproc: Registry request: name=Core Worker 390;pid=390
+[1636741435] wproc: Registry request: name=Core Worker 389;pid=389
+[1636741435] wproc: Registry request: name=Core Worker 392;pid=392
+[1636741435] wproc: Registry request: name=Core Worker 391;pid=391
+[1636741435] wproc: Registry request: name=Core Worker 395;pid=395
+[1636741435] wproc: Registry request: name=Core Worker 394;pid=394
+[1636741435] wproc: Registry request: name=Core Worker 393;pid=393
+[1636741435] wproc: Registry request: name=Core Worker 396;pid=396
+[1636741435] wproc: Registry request: name=Core Worker 400;pid=400
+[1636741435] wproc: Registry request: name=Core Worker 397;pid=397
+[1636741435] wproc: Registry request: name=Core Worker 398;pid=398
+[1636741435] wproc: Registry request: name=Core Worker 402;pid=402
+[1636741435] wproc: Registry request: name=Core Worker 401;pid=401
+[1636741435] wproc: Registry request: name=Core Worker 399;pid=399
+[1636741435] wproc: Registry request: name=Core Worker 404;pid=404
+[1636741435] wproc: Registry request: name=Core Worker 403;pid=403
+[1636741435] wproc: Registry request: name=Core Worker 406;pid=406
+[1636741435] wproc: Registry request: name=Core Worker 405;pid=405
+[1636741435] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741435] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741435] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741435] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=385)
+[1636741436] Nagios 4.4.6 starting... (PID=407)
+[1636741436] Local time is Fri Nov 12 18:23:56 UTC 2021
+[1636741436] LOG VERSION: 2.0
+[1636741436] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741436] qh: core query handler registered
+[1636741436] qh: echo service query handler registered
+[1636741436] qh: help for the query handler registered
+[1636741436] wproc: Successfully registered manager as @wproc with query handler
+[1636741436] wproc: Registry request: name=Core Worker 413;pid=413
+[1636741436] wproc: Registry request: name=Core Worker 411;pid=411
+[1636741436] wproc: Registry request: name=Core Worker 412;pid=412
+[1636741436] wproc: Registry request: name=Core Worker 414;pid=414
+[1636741436] wproc: Registry request: name=Core Worker 419;pid=419
+[1636741436] wproc: Registry request: name=Core Worker 416;pid=416
+[1636741436] wproc: Registry request: name=Core Worker 415;pid=415
+[1636741436] wproc: Registry request: name=Core Worker 417;pid=417
+[1636741436] wproc: Registry request: name=Core Worker 423;pid=423
+[1636741436] wproc: Registry request: name=Core Worker 420;pid=420
+[1636741436] wproc: Registry request: name=Core Worker 424;pid=424
+[1636741436] wproc: Registry request: name=Core Worker 418;pid=418
+[1636741436] wproc: Registry request: name=Core Worker 422;pid=422
+[1636741436] wproc: Registry request: name=Core Worker 425;pid=425
+[1636741436] wproc: Registry request: name=Core Worker 421;pid=421
+[1636741436] wproc: Registry request: name=Core Worker 426;pid=426
+[1636741436] wproc: Registry request: name=Core Worker 427;pid=427
+[1636741436] wproc: Registry request: name=Core Worker 428;pid=428
+[1636741436] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741436] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741436] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741436] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=407)
+[1636741437] Nagios 4.4.6 starting... (PID=429)
+[1636741437] Local time is Fri Nov 12 18:23:57 UTC 2021
+[1636741437] LOG VERSION: 2.0
+[1636741437] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741437] qh: core query handler registered
+[1636741437] qh: echo service query handler registered
+[1636741437] qh: help for the query handler registered
+[1636741437] wproc: Successfully registered manager as @wproc with query handler
+[1636741437] wproc: Registry request: name=Core Worker 434;pid=434
+[1636741437] wproc: Registry request: name=Core Worker 433;pid=433
+[1636741437] wproc: Registry request: name=Core Worker 436;pid=436
+[1636741437] wproc: Registry request: name=Core Worker 438;pid=438
+[1636741437] wproc: Registry request: name=Core Worker 435;pid=435
+[1636741437] wproc: Registry request: name=Core Worker 437;pid=437
+[1636741437] wproc: Registry request: name=Core Worker 439;pid=439
+[1636741437] wproc: Registry request: name=Core Worker 440;pid=440
+[1636741437] wproc: Registry request: name=Core Worker 441;pid=441
+[1636741437] wproc: Registry request: name=Core Worker 444;pid=444
+[1636741437] wproc: Registry request: name=Core Worker 442;pid=442
+[1636741437] wproc: Registry request: name=Core Worker 443;pid=443
+[1636741437] wproc: Registry request: name=Core Worker 445;pid=445
+[1636741437] wproc: Registry request: name=Core Worker 446;pid=446
+[1636741437] wproc: Registry request: name=Core Worker 448;pid=448
+[1636741437] wproc: Registry request: name=Core Worker 447;pid=447
+[1636741437] wproc: Registry request: name=Core Worker 450;pid=450
+[1636741437] wproc: Registry request: name=Core Worker 449;pid=449
+[1636741437] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741437] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741437] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741437] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=429)
+[1636741438] Nagios 4.4.6 starting... (PID=451)
+[1636741438] Local time is Fri Nov 12 18:23:58 UTC 2021
+[1636741438] LOG VERSION: 2.0
+[1636741438] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741438] qh: core query handler registered
+[1636741438] qh: echo service query handler registered
+[1636741438] qh: help for the query handler registered
+[1636741438] wproc: Successfully registered manager as @wproc with query handler
+[1636741438] wproc: Registry request: name=Core Worker 456;pid=456
+[1636741438] wproc: Registry request: name=Core Worker 455;pid=455
+[1636741438] wproc: Registry request: name=Core Worker 457;pid=457
+[1636741438] wproc: Registry request: name=Core Worker 460;pid=460
+[1636741438] wproc: Registry request: name=Core Worker 458;pid=458
+[1636741438] wproc: Registry request: name=Core Worker 459;pid=459
+[1636741438] wproc: Registry request: name=Core Worker 464;pid=464
+[1636741438] wproc: Registry request: name=Core Worker 461;pid=461
+[1636741438] wproc: Registry request: name=Core Worker 462;pid=462
+[1636741438] wproc: Registry request: name=Core Worker 465;pid=465
+[1636741438] wproc: Registry request: name=Core Worker 463;pid=463
+[1636741438] wproc: Registry request: name=Core Worker 467;pid=467
+[1636741438] wproc: Registry request: name=Core Worker 466;pid=466
+[1636741438] wproc: Registry request: name=Core Worker 468;pid=468
+[1636741438] wproc: Registry request: name=Core Worker 469;pid=469
+[1636741438] wproc: Registry request: name=Core Worker 470;pid=470
+[1636741438] wproc: Registry request: name=Core Worker 472;pid=472
+[1636741438] wproc: Registry request: name=Core Worker 471;pid=471
+[1636741438] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741438] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741438] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741438] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=451)
+[1636741439] Nagios 4.4.6 starting... (PID=473)
+[1636741439] Local time is Fri Nov 12 18:23:59 UTC 2021
+[1636741439] LOG VERSION: 2.0
+[1636741439] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741439] qh: core query handler registered
+[1636741439] qh: echo service query handler registered
+[1636741439] qh: help for the query handler registered
+[1636741439] wproc: Successfully registered manager as @wproc with query handler
+[1636741439] wproc: Registry request: name=Core Worker 479;pid=479
+[1636741439] wproc: Registry request: name=Core Worker 477;pid=477
+[1636741439] wproc: Registry request: name=Core Worker 478;pid=478
+[1636741439] wproc: Registry request: name=Core Worker 482;pid=482
+[1636741439] wproc: Registry request: name=Core Worker 483;pid=483
+[1636741439] wproc: Registry request: name=Core Worker 480;pid=480
+[1636741439] wproc: Registry request: name=Core Worker 481;pid=481
+[1636741439] wproc: Registry request: name=Core Worker 486;pid=486
+[1636741439] wproc: Registry request: name=Core Worker 485;pid=485
+[1636741439] wproc: Registry request: name=Core Worker 484;pid=484
+[1636741439] wproc: Registry request: name=Core Worker 488;pid=488
+[1636741439] wproc: Registry request: name=Core Worker 487;pid=487
+[1636741439] wproc: Registry request: name=Core Worker 491;pid=491
+[1636741439] wproc: Registry request: name=Core Worker 490;pid=490
+[1636741439] wproc: Registry request: name=Core Worker 489;pid=489
+[1636741439] wproc: Registry request: name=Core Worker 493;pid=493
+[1636741439] wproc: Registry request: name=Core Worker 492;pid=492
+[1636741439] wproc: Registry request: name=Core Worker 494;pid=494
+[1636741439] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741439] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741439] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741439] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=473)
+[1636741440] Nagios 4.4.6 starting... (PID=495)
+[1636741440] Local time is Fri Nov 12 18:24:00 UTC 2021
+[1636741440] LOG VERSION: 2.0
+[1636741440] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741440] qh: core query handler registered
+[1636741440] qh: echo service query handler registered
+[1636741440] qh: help for the query handler registered
+[1636741440] wproc: Successfully registered manager as @wproc with query handler
+[1636741440] wproc: Registry request: name=Core Worker 499;pid=499
+[1636741440] wproc: Registry request: name=Core Worker 500;pid=500
+[1636741440] wproc: Registry request: name=Core Worker 501;pid=501
+[1636741440] wproc: Registry request: name=Core Worker 504;pid=504
+[1636741440] wproc: Registry request: name=Core Worker 502;pid=502
+[1636741440] wproc: Registry request: name=Core Worker 503;pid=503
+[1636741440] wproc: Registry request: name=Core Worker 507;pid=507
+[1636741440] wproc: Registry request: name=Core Worker 505;pid=505
+[1636741440] wproc: Registry request: name=Core Worker 506;pid=506
+[1636741440] wproc: Registry request: name=Core Worker 510;pid=510
+[1636741440] wproc: Registry request: name=Core Worker 508;pid=508
+[1636741440] wproc: Registry request: name=Core Worker 509;pid=509
+[1636741440] wproc: Registry request: name=Core Worker 511;pid=511
+[1636741440] wproc: Registry request: name=Core Worker 514;pid=514
+[1636741440] wproc: Registry request: name=Core Worker 512;pid=512
+[1636741440] wproc: Registry request: name=Core Worker 513;pid=513
+[1636741440] wproc: Registry request: name=Core Worker 515;pid=515
+[1636741440] wproc: Registry request: name=Core Worker 516;pid=516
+[1636741440] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741440] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741440] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741440] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=495)
+[1636741441] Nagios 4.4.6 starting... (PID=517)
+[1636741441] Local time is Fri Nov 12 18:24:01 UTC 2021
+[1636741441] LOG VERSION: 2.0
+[1636741441] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741441] qh: core query handler registered
+[1636741441] qh: echo service query handler registered
+[1636741441] qh: help for the query handler registered
+[1636741441] wproc: Successfully registered manager as @wproc with query handler
+[1636741441] wproc: Registry request: name=Core Worker 521;pid=521
+[1636741441] wproc: Registry request: name=Core Worker 524;pid=524
+[1636741441] wproc: Registry request: name=Core Worker 522;pid=522
+[1636741441] wproc: Registry request: name=Core Worker 525;pid=525
+[1636741441] wproc: Registry request: name=Core Worker 523;pid=523
+[1636741441] wproc: Registry request: name=Core Worker 527;pid=527
+[1636741441] wproc: Registry request: name=Core Worker 528;pid=528
+[1636741441] wproc: Registry request: name=Core Worker 526;pid=526
+[1636741441] wproc: Registry request: name=Core Worker 531;pid=531
+[1636741441] wproc: Registry request: name=Core Worker 533;pid=533
+[1636741441] wproc: Registry request: name=Core Worker 529;pid=529
+[1636741441] wproc: Registry request: name=Core Worker 534;pid=534
+[1636741441] wproc: Registry request: name=Core Worker 536;pid=536
+[1636741441] wproc: Registry request: name=Core Worker 532;pid=532
+[1636741441] wproc: Registry request: name=Core Worker 535;pid=535
+[1636741441] wproc: Registry request: name=Core Worker 537;pid=537
+[1636741441] wproc: Registry request: name=Core Worker 538;pid=538
+[1636741441] wproc: Registry request: name=Core Worker 530;pid=530
+[1636741441] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741441] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741441] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741441] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=517)
+[1636741442] Nagios 4.4.6 starting... (PID=539)
+[1636741442] Local time is Fri Nov 12 18:24:02 UTC 2021
+[1636741442] LOG VERSION: 2.0
+[1636741442] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741442] qh: core query handler registered
+[1636741442] qh: echo service query handler registered
+[1636741442] qh: help for the query handler registered
+[1636741442] wproc: Successfully registered manager as @wproc with query handler
+[1636741442] wproc: Registry request: name=Core Worker 544;pid=544
+[1636741442] wproc: Registry request: name=Core Worker 543;pid=543
+[1636741442] wproc: Registry request: name=Core Worker 545;pid=545
+[1636741442] wproc: Registry request: name=Core Worker 547;pid=547
+[1636741442] wproc: Registry request: name=Core Worker 548;pid=548
+[1636741442] wproc: Registry request: name=Core Worker 549;pid=549
+[1636741442] wproc: Registry request: name=Core Worker 546;pid=546
+[1636741442] wproc: Registry request: name=Core Worker 551;pid=551
+[1636741442] wproc: Registry request: name=Core Worker 550;pid=550
+[1636741442] wproc: Registry request: name=Core Worker 553;pid=553
+[1636741442] wproc: Registry request: name=Core Worker 552;pid=552
+[1636741442] wproc: Registry request: name=Core Worker 554;pid=554
+[1636741442] wproc: Registry request: name=Core Worker 556;pid=556
+[1636741442] wproc: Registry request: name=Core Worker 555;pid=555
+[1636741442] wproc: Registry request: name=Core Worker 558;pid=558
+[1636741442] wproc: Registry request: name=Core Worker 557;pid=557
+[1636741442] wproc: Registry request: name=Core Worker 560;pid=560
+[1636741442] wproc: Registry request: name=Core Worker 559;pid=559
+[1636741442] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741442] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741442] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741442] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=539)
+[1636741443] Nagios 4.4.6 starting... (PID=561)
+[1636741443] Local time is Fri Nov 12 18:24:03 UTC 2021
+[1636741443] LOG VERSION: 2.0
+[1636741443] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741443] qh: core query handler registered
+[1636741443] qh: echo service query handler registered
+[1636741443] qh: help for the query handler registered
+[1636741443] wproc: Successfully registered manager as @wproc with query handler
+[1636741443] wproc: Registry request: name=Core Worker 566;pid=566
+[1636741443] wproc: Registry request: name=Core Worker 567;pid=567
+[1636741443] wproc: Registry request: name=Core Worker 565;pid=565
+[1636741443] wproc: Registry request: name=Core Worker 571;pid=571
+[1636741443] wproc: Registry request: name=Core Worker 568;pid=568
+[1636741443] wproc: Registry request: name=Core Worker 569;pid=569
+[1636741443] wproc: Registry request: name=Core Worker 570;pid=570
+[1636741443] wproc: Registry request: name=Core Worker 572;pid=572
+[1636741443] wproc: Registry request: name=Core Worker 574;pid=574
+[1636741443] wproc: Registry request: name=Core Worker 573;pid=573
+[1636741443] wproc: Registry request: name=Core Worker 575;pid=575
+[1636741443] wproc: Registry request: name=Core Worker 576;pid=576
+[1636741443] wproc: Registry request: name=Core Worker 579;pid=579
+[1636741443] wproc: Registry request: name=Core Worker 577;pid=577
+[1636741443] wproc: Registry request: name=Core Worker 578;pid=578
+[1636741443] wproc: Registry request: name=Core Worker 580;pid=580
+[1636741443] wproc: Registry request: name=Core Worker 581;pid=581
+[1636741443] wproc: Registry request: name=Core Worker 582;pid=582
+[1636741443] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741443] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741443] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741443] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=561)
+[1636741444] Nagios 4.4.6 starting... (PID=584)
+[1636741444] Local time is Fri Nov 12 18:24:04 UTC 2021
+[1636741444] LOG VERSION: 2.0
+[1636741444] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741444] qh: core query handler registered
+[1636741444] qh: echo service query handler registered
+[1636741444] qh: help for the query handler registered
+[1636741444] wproc: Successfully registered manager as @wproc with query handler
+[1636741444] wproc: Registry request: name=Core Worker 589;pid=589
+[1636741444] wproc: Registry request: name=Core Worker 588;pid=588
+[1636741444] wproc: Registry request: name=Core Worker 592;pid=592
+[1636741444] wproc: Registry request: name=Core Worker 590;pid=590
+[1636741444] wproc: Registry request: name=Core Worker 593;pid=593
+[1636741444] wproc: Registry request: name=Core Worker 591;pid=591
+[1636741444] wproc: Registry request: name=Core Worker 595;pid=595
+[1636741444] wproc: Registry request: name=Core Worker 597;pid=597
+[1636741444] wproc: Registry request: name=Core Worker 594;pid=594
+[1636741444] wproc: Registry request: name=Core Worker 596;pid=596
+[1636741444] wproc: Registry request: name=Core Worker 600;pid=600
+[1636741444] wproc: Registry request: name=Core Worker 602;pid=602
+[1636741444] wproc: Registry request: name=Core Worker 599;pid=599
+[1636741444] wproc: Registry request: name=Core Worker 598;pid=598
+[1636741444] wproc: Registry request: name=Core Worker 604;pid=604
+[1636741444] wproc: Registry request: name=Core Worker 603;pid=603
+[1636741444] wproc: Registry request: name=Core Worker 601;pid=601
+[1636741444] wproc: Registry request: name=Core Worker 605;pid=605
+[1636741444] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741444] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741444] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741444] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=584)
+[1636741445] Nagios 4.4.6 starting... (PID=607)
+[1636741445] Local time is Fri Nov 12 18:24:05 UTC 2021
+[1636741445] LOG VERSION: 2.0
+[1636741445] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741445] qh: core query handler registered
+[1636741445] qh: echo service query handler registered
+[1636741445] qh: help for the query handler registered
+[1636741445] wproc: Successfully registered manager as @wproc with query handler
+[1636741445] wproc: Registry request: name=Core Worker 611;pid=611
+[1636741445] wproc: Registry request: name=Core Worker 613;pid=613
+[1636741445] wproc: Registry request: name=Core Worker 614;pid=614
+[1636741445] wproc: Registry request: name=Core Worker 615;pid=615
+[1636741445] wproc: Registry request: name=Core Worker 612;pid=612
+[1636741445] wproc: Registry request: name=Core Worker 618;pid=618
+[1636741445] wproc: Registry request: name=Core Worker 619;pid=619
+[1636741445] wproc: Registry request: name=Core Worker 620;pid=620
+[1636741445] wproc: Registry request: name=Core Worker 616;pid=616
+[1636741445] wproc: Registry request: name=Core Worker 621;pid=621
+[1636741445] wproc: Registry request: name=Core Worker 617;pid=617
+[1636741445] wproc: Registry request: name=Core Worker 624;pid=624
+[1636741445] wproc: Registry request: name=Core Worker 625;pid=625
+[1636741445] wproc: Registry request: name=Core Worker 622;pid=622
+[1636741445] wproc: Registry request: name=Core Worker 623;pid=623
+[1636741445] wproc: Registry request: name=Core Worker 626;pid=626
+[1636741445] wproc: Registry request: name=Core Worker 628;pid=628
+[1636741445] wproc: Registry request: name=Core Worker 627;pid=627
+[1636741445] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741445] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741445] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741445] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=607)
+[1636741446] Nagios 4.4.6 starting... (PID=632)
+[1636741446] Local time is Fri Nov 12 18:24:06 UTC 2021
+[1636741446] LOG VERSION: 2.0
+[1636741446] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741446] qh: core query handler registered
+[1636741446] qh: echo service query handler registered
+[1636741446] qh: help for the query handler registered
+[1636741446] wproc: Successfully registered manager as @wproc with query handler
+[1636741446] wproc: Registry request: name=Core Worker 637;pid=637
+[1636741446] wproc: Registry request: name=Core Worker 638;pid=638
+[1636741446] wproc: Registry request: name=Core Worker 636;pid=636
+[1636741446] wproc: Registry request: name=Core Worker 640;pid=640
+[1636741446] wproc: Registry request: name=Core Worker 643;pid=643
+[1636741446] wproc: Registry request: name=Core Worker 642;pid=642
+[1636741446] wproc: Registry request: name=Core Worker 644;pid=644
+[1636741446] wproc: Registry request: name=Core Worker 639;pid=639
+[1636741446] wproc: Registry request: name=Core Worker 641;pid=641
+[1636741446] wproc: Registry request: name=Core Worker 646;pid=646
+[1636741446] wproc: Registry request: name=Core Worker 647;pid=647
+[1636741446] wproc: Registry request: name=Core Worker 645;pid=645
+[1636741446] wproc: Registry request: name=Core Worker 650;pid=650
+[1636741446] wproc: Registry request: name=Core Worker 649;pid=649
+[1636741446] wproc: Registry request: name=Core Worker 648;pid=648
+[1636741446] wproc: Registry request: name=Core Worker 653;pid=653
+[1636741446] wproc: Registry request: name=Core Worker 652;pid=652
+[1636741446] wproc: Registry request: name=Core Worker 651;pid=651
+[1636741446] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741446] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741446] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741446] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=632)
+[1636741447] Nagios 4.4.6 starting... (PID=655)
+[1636741447] Local time is Fri Nov 12 18:24:07 UTC 2021
+[1636741447] LOG VERSION: 2.0
+[1636741447] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741447] qh: core query handler registered
+[1636741447] qh: echo service query handler registered
+[1636741447] qh: help for the query handler registered
+[1636741447] wproc: Successfully registered manager as @wproc with query handler
+[1636741447] wproc: Registry request: name=Core Worker 659;pid=659
+[1636741447] wproc: Registry request: name=Core Worker 661;pid=661
+[1636741447] wproc: Registry request: name=Core Worker 660;pid=660
+[1636741447] wproc: Registry request: name=Core Worker 662;pid=662
+[1636741447] wproc: Registry request: name=Core Worker 663;pid=663
+[1636741447] wproc: Registry request: name=Core Worker 665;pid=665
+[1636741447] wproc: Registry request: name=Core Worker 667;pid=667
+[1636741447] wproc: Registry request: name=Core Worker 664;pid=664
+[1636741447] wproc: Registry request: name=Core Worker 666;pid=666
+[1636741447] wproc: Registry request: name=Core Worker 670;pid=670
+[1636741447] wproc: Registry request: name=Core Worker 668;pid=668
+[1636741447] wproc: Registry request: name=Core Worker 669;pid=669
+[1636741447] wproc: Registry request: name=Core Worker 671;pid=671
+[1636741447] wproc: Registry request: name=Core Worker 673;pid=673
+[1636741447] wproc: Registry request: name=Core Worker 674;pid=674
+[1636741447] wproc: Registry request: name=Core Worker 672;pid=672
+[1636741447] wproc: Registry request: name=Core Worker 675;pid=675
+[1636741447] wproc: Registry request: name=Core Worker 676;pid=676
+[1636741447] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741447] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741447] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741447] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=655)
+[1636741448] Nagios 4.4.6 starting... (PID=678)
+[1636741448] Local time is Fri Nov 12 18:24:08 UTC 2021
+[1636741448] LOG VERSION: 2.0
+[1636741448] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741448] qh: core query handler registered
+[1636741448] qh: echo service query handler registered
+[1636741448] qh: help for the query handler registered
+[1636741448] wproc: Successfully registered manager as @wproc with query handler
+[1636741448] wproc: Registry request: name=Core Worker 682;pid=682
+[1636741448] wproc: Registry request: name=Core Worker 684;pid=684
+[1636741448] wproc: Registry request: name=Core Worker 683;pid=683
+[1636741448] wproc: Registry request: name=Core Worker 686;pid=686
+[1636741448] wproc: Registry request: name=Core Worker 687;pid=687
+[1636741448] wproc: Registry request: name=Core Worker 685;pid=685
+[1636741448] wproc: Registry request: name=Core Worker 690;pid=690
+[1636741448] wproc: Registry request: name=Core Worker 688;pid=688
+[1636741448] wproc: Registry request: name=Core Worker 691;pid=691
+[1636741448] wproc: Registry request: name=Core Worker 692;pid=692
+[1636741448] wproc: Registry request: name=Core Worker 689;pid=689
+[1636741448] wproc: Registry request: name=Core Worker 694;pid=694
+[1636741448] wproc: Registry request: name=Core Worker 693;pid=693
+[1636741448] wproc: Registry request: name=Core Worker 696;pid=696
+[1636741448] wproc: Registry request: name=Core Worker 697;pid=697
+[1636741448] wproc: Registry request: name=Core Worker 695;pid=695
+[1636741448] wproc: Registry request: name=Core Worker 699;pid=699
+[1636741448] wproc: Registry request: name=Core Worker 698;pid=698
+[1636741448] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741448] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741448] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741448] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=678)
+[1636741449] Nagios 4.4.6 starting... (PID=700)
+[1636741449] Local time is Fri Nov 12 18:24:09 UTC 2021
+[1636741449] LOG VERSION: 2.0
+[1636741449] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741449] qh: core query handler registered
+[1636741449] qh: echo service query handler registered
+[1636741449] qh: help for the query handler registered
+[1636741449] wproc: Successfully registered manager as @wproc with query handler
+[1636741449] wproc: Registry request: name=Core Worker 705;pid=705
+[1636741449] wproc: Registry request: name=Core Worker 704;pid=704
+[1636741449] wproc: Registry request: name=Core Worker 707;pid=707
+[1636741449] wproc: Registry request: name=Core Worker 708;pid=708
+[1636741449] wproc: Registry request: name=Core Worker 706;pid=706
+[1636741449] wproc: Registry request: name=Core Worker 711;pid=711
+[1636741449] wproc: Registry request: name=Core Worker 709;pid=709
+[1636741449] wproc: Registry request: name=Core Worker 710;pid=710
+[1636741449] wproc: Registry request: name=Core Worker 713;pid=713
+[1636741449] wproc: Registry request: name=Core Worker 712;pid=712
+[1636741449] wproc: Registry request: name=Core Worker 716;pid=716
+[1636741449] wproc: Registry request: name=Core Worker 715;pid=715
+[1636741449] wproc: Registry request: name=Core Worker 714;pid=714
+[1636741449] wproc: Registry request: name=Core Worker 718;pid=718
+[1636741449] wproc: Registry request: name=Core Worker 717;pid=717
+[1636741449] wproc: Registry request: name=Core Worker 721;pid=721
+[1636741449] wproc: Registry request: name=Core Worker 720;pid=720
+[1636741449] wproc: Registry request: name=Core Worker 719;pid=719
+[1636741449] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741449] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741449] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741449] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=700)
+[1636741450] Nagios 4.4.6 starting... (PID=722)
+[1636741450] Local time is Fri Nov 12 18:24:10 UTC 2021
+[1636741450] LOG VERSION: 2.0
+[1636741450] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741450] qh: core query handler registered
+[1636741450] qh: echo service query handler registered
+[1636741450] qh: help for the query handler registered
+[1636741450] wproc: Successfully registered manager as @wproc with query handler
+[1636741450] wproc: Registry request: name=Core Worker 726;pid=726
+[1636741450] wproc: Registry request: name=Core Worker 730;pid=730
+[1636741450] wproc: Registry request: name=Core Worker 729;pid=729
+[1636741450] wproc: Registry request: name=Core Worker 728;pid=728
+[1636741450] wproc: Registry request: name=Core Worker 727;pid=727
+[1636741450] wproc: Registry request: name=Core Worker 733;pid=733
+[1636741450] wproc: Registry request: name=Core Worker 731;pid=731
+[1636741450] wproc: Registry request: name=Core Worker 734;pid=734
+[1636741450] wproc: Registry request: name=Core Worker 736;pid=736
+[1636741450] wproc: Registry request: name=Core Worker 732;pid=732
+[1636741450] wproc: Registry request: name=Core Worker 735;pid=735
+[1636741450] wproc: Registry request: name=Core Worker 738;pid=738
+[1636741450] wproc: Registry request: name=Core Worker 739;pid=739
+[1636741450] wproc: Registry request: name=Core Worker 737;pid=737
+[1636741450] wproc: Registry request: name=Core Worker 741;pid=741
+[1636741450] wproc: Registry request: name=Core Worker 743;pid=743
+[1636741450] wproc: Registry request: name=Core Worker 740;pid=740
+[1636741450] wproc: Registry request: name=Core Worker 742;pid=742
+[1636741450] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741450] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741450] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741450] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=722)
+[1636741451] Nagios 4.4.6 starting... (PID=744)
+[1636741451] Local time is Fri Nov 12 18:24:11 UTC 2021
+[1636741451] LOG VERSION: 2.0
+[1636741451] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741451] qh: core query handler registered
+[1636741451] qh: echo service query handler registered
+[1636741451] qh: help for the query handler registered
+[1636741451] wproc: Successfully registered manager as @wproc with query handler
+[1636741451] wproc: Registry request: name=Core Worker 749;pid=749
+[1636741451] wproc: Registry request: name=Core Worker 752;pid=752
+[1636741451] wproc: Registry request: name=Core Worker 748;pid=748
+[1636741451] wproc: Registry request: name=Core Worker 750;pid=750
+[1636741451] wproc: Registry request: name=Core Worker 751;pid=751
+[1636741451] wproc: Registry request: name=Core Worker 753;pid=753
+[1636741451] wproc: Registry request: name=Core Worker 757;pid=757
+[1636741451] wproc: Registry request: name=Core Worker 754;pid=754
+[1636741451] wproc: Registry request: name=Core Worker 755;pid=755
+[1636741451] wproc: Registry request: name=Core Worker 756;pid=756
+[1636741451] wproc: Registry request: name=Core Worker 758;pid=758
+[1636741451] wproc: Registry request: name=Core Worker 759;pid=759
+[1636741451] wproc: Registry request: name=Core Worker 762;pid=762
+[1636741451] wproc: Registry request: name=Core Worker 761;pid=761
+[1636741451] wproc: Registry request: name=Core Worker 760;pid=760
+[1636741451] wproc: Registry request: name=Core Worker 763;pid=763
+[1636741451] wproc: Registry request: name=Core Worker 764;pid=764
+[1636741451] wproc: Registry request: name=Core Worker 765;pid=765
+[1636741451] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741451] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741451] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741451] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=744)
+[1636741452] Nagios 4.4.6 starting... (PID=766)
+[1636741452] Local time is Fri Nov 12 18:24:12 UTC 2021
+[1636741452] LOG VERSION: 2.0
+[1636741452] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741452] qh: core query handler registered
+[1636741452] qh: echo service query handler registered
+[1636741452] qh: help for the query handler registered
+[1636741452] wproc: Successfully registered manager as @wproc with query handler
+[1636741452] wproc: Registry request: name=Core Worker 770;pid=770
+[1636741452] wproc: Registry request: name=Core Worker 771;pid=771
+[1636741452] wproc: Registry request: name=Core Worker 774;pid=774
+[1636741452] wproc: Registry request: name=Core Worker 772;pid=772
+[1636741452] wproc: Registry request: name=Core Worker 773;pid=773
+[1636741452] wproc: Registry request: name=Core Worker 777;pid=777
+[1636741452] wproc: Registry request: name=Core Worker 775;pid=775
+[1636741452] wproc: Registry request: name=Core Worker 776;pid=776
+[1636741452] wproc: Registry request: name=Core Worker 778;pid=778
+[1636741452] wproc: Registry request: name=Core Worker 781;pid=781
+[1636741452] wproc: Registry request: name=Core Worker 779;pid=779
+[1636741452] wproc: Registry request: name=Core Worker 780;pid=780
+[1636741452] wproc: Registry request: name=Core Worker 782;pid=782
+[1636741452] wproc: Registry request: name=Core Worker 785;pid=785
+[1636741452] wproc: Registry request: name=Core Worker 783;pid=783
+[1636741452] wproc: Registry request: name=Core Worker 784;pid=784
+[1636741452] wproc: Registry request: name=Core Worker 786;pid=786
+[1636741452] wproc: Registry request: name=Core Worker 787;pid=787
+[1636741452] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741452] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741452] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741452] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=766)
+[1636741453] Nagios 4.4.6 starting... (PID=788)
+[1636741453] Local time is Fri Nov 12 18:24:13 UTC 2021
+[1636741453] LOG VERSION: 2.0
+[1636741453] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741453] qh: core query handler registered
+[1636741453] qh: echo service query handler registered
+[1636741453] qh: help for the query handler registered
+[1636741453] wproc: Successfully registered manager as @wproc with query handler
+[1636741453] wproc: Registry request: name=Core Worker 792;pid=792
+[1636741453] wproc: Registry request: name=Core Worker 793;pid=793
+[1636741453] wproc: Registry request: name=Core Worker 796;pid=796
+[1636741453] wproc: Registry request: name=Core Worker 794;pid=794
+[1636741453] wproc: Registry request: name=Core Worker 795;pid=795
+[1636741453] wproc: Registry request: name=Core Worker 798;pid=798
+[1636741453] wproc: Registry request: name=Core Worker 797;pid=797
+[1636741453] wproc: Registry request: name=Core Worker 799;pid=799
+[1636741453] wproc: Registry request: name=Core Worker 803;pid=803
+[1636741453] wproc: Registry request: name=Core Worker 800;pid=800
+[1636741453] wproc: Registry request: name=Core Worker 802;pid=802
+[1636741453] wproc: Registry request: name=Core Worker 801;pid=801
+[1636741453] wproc: Registry request: name=Core Worker 806;pid=806
+[1636741453] wproc: Registry request: name=Core Worker 804;pid=804
+[1636741453] wproc: Registry request: name=Core Worker 805;pid=805
+[1636741453] wproc: Registry request: name=Core Worker 807;pid=807
+[1636741453] wproc: Registry request: name=Core Worker 808;pid=808
+[1636741453] wproc: Registry request: name=Core Worker 809;pid=809
+[1636741453] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741453] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741453] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741453] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=788)
+[1636741454] Nagios 4.4.6 starting... (PID=822)
+[1636741454] Local time is Fri Nov 12 18:24:14 UTC 2021
+[1636741454] LOG VERSION: 2.0
+[1636741454] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741454] qh: core query handler registered
+[1636741454] qh: echo service query handler registered
+[1636741454] qh: help for the query handler registered
+[1636741454] wproc: Successfully registered manager as @wproc with query handler
+[1636741454] wproc: Registry request: name=Core Worker 826;pid=826
+[1636741454] wproc: Registry request: name=Core Worker 829;pid=829
+[1636741454] wproc: Registry request: name=Core Worker 827;pid=827
+[1636741454] wproc: Registry request: name=Core Worker 828;pid=828
+[1636741454] wproc: Registry request: name=Core Worker 831;pid=831
+[1636741454] wproc: Registry request: name=Core Worker 830;pid=830
+[1636741454] wproc: Registry request: name=Core Worker 832;pid=832
+[1636741454] wproc: Registry request: name=Core Worker 835;pid=835
+[1636741454] wproc: Registry request: name=Core Worker 833;pid=833
+[1636741454] wproc: Registry request: name=Core Worker 834;pid=834
+[1636741454] wproc: Registry request: name=Core Worker 836;pid=836
+[1636741454] wproc: Registry request: name=Core Worker 837;pid=837
+[1636741454] wproc: Registry request: name=Core Worker 838;pid=838
+[1636741454] wproc: Registry request: name=Core Worker 839;pid=839
+[1636741454] wproc: Registry request: name=Core Worker 842;pid=842
+[1636741454] wproc: Registry request: name=Core Worker 840;pid=840
+[1636741454] wproc: Registry request: name=Core Worker 841;pid=841
+[1636741454] wproc: Registry request: name=Core Worker 843;pid=843
+[1636741454] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741454] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741454] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741454] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=822)
+[1636741455] Nagios 4.4.6 starting... (PID=844)
+[1636741455] Local time is Fri Nov 12 18:24:15 UTC 2021
+[1636741455] LOG VERSION: 2.0
+[1636741455] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741455] qh: core query handler registered
+[1636741455] qh: echo service query handler registered
+[1636741455] qh: help for the query handler registered
+[1636741455] wproc: Successfully registered manager as @wproc with query handler
+[1636741455] wproc: Registry request: name=Core Worker 848;pid=848
+[1636741455] wproc: Registry request: name=Core Worker 849;pid=849
+[1636741455] wproc: Registry request: name=Core Worker 850;pid=850
+[1636741455] wproc: Registry request: name=Core Worker 853;pid=853
+[1636741455] wproc: Registry request: name=Core Worker 852;pid=852
+[1636741455] wproc: Registry request: name=Core Worker 851;pid=851
+[1636741455] wproc: Registry request: name=Core Worker 855;pid=855
+[1636741455] wproc: Registry request: name=Core Worker 854;pid=854
+[1636741455] wproc: Registry request: name=Core Worker 857;pid=857
+[1636741455] wproc: Registry request: name=Core Worker 859;pid=859
+[1636741455] wproc: Registry request: name=Core Worker 856;pid=856
+[1636741455] wproc: Registry request: name=Core Worker 858;pid=858
+[1636741455] wproc: Registry request: name=Core Worker 862;pid=862
+[1636741455] wproc: Registry request: name=Core Worker 864;pid=864
+[1636741455] wproc: Registry request: name=Core Worker 860;pid=860
+[1636741455] wproc: Registry request: name=Core Worker 861;pid=861
+[1636741455] wproc: Registry request: name=Core Worker 863;pid=863
+[1636741455] wproc: Registry request: name=Core Worker 865;pid=865
+[1636741455] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741455] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741455] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741455] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=844)
+[1636741456] Nagios 4.4.6 starting... (PID=866)
+[1636741456] Local time is Fri Nov 12 18:24:16 UTC 2021
+[1636741456] LOG VERSION: 2.0
+[1636741456] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741456] qh: core query handler registered
+[1636741456] qh: echo service query handler registered
+[1636741456] qh: help for the query handler registered
+[1636741456] wproc: Successfully registered manager as @wproc with query handler
+[1636741456] wproc: Registry request: name=Core Worker 871;pid=871
+[1636741456] wproc: Registry request: name=Core Worker 870;pid=870
+[1636741456] wproc: Registry request: name=Core Worker 875;pid=875
+[1636741456] wproc: Registry request: name=Core Worker 872;pid=872
+[1636741456] wproc: Registry request: name=Core Worker 874;pid=874
+[1636741456] wproc: Registry request: name=Core Worker 873;pid=873
+[1636741456] wproc: Registry request: name=Core Worker 878;pid=878
+[1636741456] wproc: Registry request: name=Core Worker 876;pid=876
+[1636741456] wproc: Registry request: name=Core Worker 880;pid=880
+[1636741456] wproc: Registry request: name=Core Worker 877;pid=877
+[1636741456] wproc: Registry request: name=Core Worker 879;pid=879
+[1636741456] wproc: Registry request: name=Core Worker 881;pid=881
+[1636741456] wproc: Registry request: name=Core Worker 884;pid=884
+[1636741456] wproc: Registry request: name=Core Worker 882;pid=882
+[1636741456] wproc: Registry request: name=Core Worker 883;pid=883
+[1636741456] wproc: Registry request: name=Core Worker 885;pid=885
+[1636741456] wproc: Registry request: name=Core Worker 886;pid=886
+[1636741456] wproc: Registry request: name=Core Worker 887;pid=887
+[1636741456] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741456] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741456] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741456] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=866)
+[1636741457] Nagios 4.4.6 starting... (PID=889)
+[1636741457] Local time is Fri Nov 12 18:24:17 UTC 2021
+[1636741457] LOG VERSION: 2.0
+[1636741457] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741457] qh: core query handler registered
+[1636741457] qh: echo service query handler registered
+[1636741457] qh: help for the query handler registered
+[1636741457] wproc: Successfully registered manager as @wproc with query handler
+[1636741457] wproc: Registry request: name=Core Worker 893;pid=893
+[1636741457] wproc: Registry request: name=Core Worker 894;pid=894
+[1636741457] wproc: Registry request: name=Core Worker 896;pid=896
+[1636741457] wproc: Registry request: name=Core Worker 895;pid=895
+[1636741457] wproc: Registry request: name=Core Worker 898;pid=898
+[1636741457] wproc: Registry request: name=Core Worker 897;pid=897
+[1636741457] wproc: Registry request: name=Core Worker 900;pid=900
+[1636741457] wproc: Registry request: name=Core Worker 902;pid=902
+[1636741457] wproc: Registry request: name=Core Worker 899;pid=899
+[1636741457] wproc: Registry request: name=Core Worker 901;pid=901
+[1636741457] wproc: Registry request: name=Core Worker 903;pid=903
+[1636741457] wproc: Registry request: name=Core Worker 906;pid=906
+[1636741457] wproc: Registry request: name=Core Worker 907;pid=907
+[1636741457] wproc: Registry request: name=Core Worker 904;pid=904
+[1636741457] wproc: Registry request: name=Core Worker 905;pid=905
+[1636741457] wproc: Registry request: name=Core Worker 909;pid=909
+[1636741457] wproc: Registry request: name=Core Worker 908;pid=908
+[1636741457] wproc: Registry request: name=Core Worker 910;pid=910
+[1636741457] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741457] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741457] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741457] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=889)
+[1636741458] Nagios 4.4.6 starting... (PID=911)
+[1636741458] Local time is Fri Nov 12 18:24:18 UTC 2021
+[1636741458] LOG VERSION: 2.0
+[1636741458] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741458] qh: core query handler registered
+[1636741458] qh: echo service query handler registered
+[1636741458] qh: help for the query handler registered
+[1636741458] wproc: Successfully registered manager as @wproc with query handler
+[1636741458] wproc: Registry request: name=Core Worker 915;pid=915
+[1636741458] wproc: Registry request: name=Core Worker 916;pid=916
+[1636741458] wproc: Registry request: name=Core Worker 917;pid=917
+[1636741458] wproc: Registry request: name=Core Worker 920;pid=920
+[1636741458] wproc: Registry request: name=Core Worker 918;pid=918
+[1636741458] wproc: Registry request: name=Core Worker 919;pid=919
+[1636741458] wproc: Registry request: name=Core Worker 921;pid=921
+[1636741458] wproc: Registry request: name=Core Worker 922;pid=922
+[1636741458] wproc: Registry request: name=Core Worker 923;pid=923
+[1636741458] wproc: Registry request: name=Core Worker 924;pid=924
+[1636741458] wproc: Registry request: name=Core Worker 925;pid=925
+[1636741458] wproc: Registry request: name=Core Worker 926;pid=926
+[1636741458] wproc: Registry request: name=Core Worker 927;pid=927
+[1636741458] wproc: Registry request: name=Core Worker 928;pid=928
+[1636741458] wproc: Registry request: name=Core Worker 929;pid=929
+[1636741458] wproc: Registry request: name=Core Worker 930;pid=930
+[1636741458] wproc: Registry request: name=Core Worker 931;pid=931
+[1636741458] wproc: Registry request: name=Core Worker 932;pid=932
+[1636741458] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741458] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741458] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741458] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=911)
+[1636741459] Nagios 4.4.6 starting... (PID=933)
+[1636741459] Local time is Fri Nov 12 18:24:19 UTC 2021
+[1636741459] LOG VERSION: 2.0
+[1636741459] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741459] qh: core query handler registered
+[1636741459] qh: echo service query handler registered
+[1636741459] qh: help for the query handler registered
+[1636741459] wproc: Successfully registered manager as @wproc with query handler
+[1636741459] wproc: Registry request: name=Core Worker 937;pid=937
+[1636741459] wproc: Registry request: name=Core Worker 938;pid=938
+[1636741459] wproc: Registry request: name=Core Worker 941;pid=941
+[1636741459] wproc: Registry request: name=Core Worker 939;pid=939
+[1636741459] wproc: Registry request: name=Core Worker 940;pid=940
+[1636741459] wproc: Registry request: name=Core Worker 943;pid=943
+[1636741459] wproc: Registry request: name=Core Worker 942;pid=942
+[1636741459] wproc: Registry request: name=Core Worker 946;pid=946
+[1636741459] wproc: Registry request: name=Core Worker 944;pid=944
+[1636741459] wproc: Registry request: name=Core Worker 945;pid=945
+[1636741459] wproc: Registry request: name=Core Worker 947;pid=947
+[1636741459] wproc: Registry request: name=Core Worker 948;pid=948
+[1636741459] wproc: Registry request: name=Core Worker 949;pid=949
+[1636741459] wproc: Registry request: name=Core Worker 950;pid=950
+[1636741459] wproc: Registry request: name=Core Worker 952;pid=952
+[1636741459] wproc: Registry request: name=Core Worker 951;pid=951
+[1636741459] wproc: Registry request: name=Core Worker 953;pid=953
+[1636741459] wproc: Registry request: name=Core Worker 954;pid=954
+[1636741459] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741459] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741459] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741459] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=933)
+[1636741460] Nagios 4.4.6 starting... (PID=955)
+[1636741460] Local time is Fri Nov 12 18:24:20 UTC 2021
+[1636741460] LOG VERSION: 2.0
+[1636741460] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741460] qh: core query handler registered
+[1636741460] qh: echo service query handler registered
+[1636741460] qh: help for the query handler registered
+[1636741460] wproc: Successfully registered manager as @wproc with query handler
+[1636741460] wproc: Registry request: name=Core Worker 960;pid=960
+[1636741460] wproc: Registry request: name=Core Worker 959;pid=959
+[1636741460] wproc: Registry request: name=Core Worker 961;pid=961
+[1636741460] wproc: Registry request: name=Core Worker 962;pid=962
+[1636741460] wproc: Registry request: name=Core Worker 965;pid=965
+[1636741460] wproc: Registry request: name=Core Worker 963;pid=963
+[1636741460] wproc: Registry request: name=Core Worker 964;pid=964
+[1636741460] wproc: Registry request: name=Core Worker 967;pid=967
+[1636741460] wproc: Registry request: name=Core Worker 966;pid=966
+[1636741460] wproc: Registry request: name=Core Worker 968;pid=968
+[1636741460] wproc: Registry request: name=Core Worker 970;pid=970
+[1636741460] wproc: Registry request: name=Core Worker 969;pid=969
+[1636741460] wproc: Registry request: name=Core Worker 973;pid=973
+[1636741460] wproc: Registry request: name=Core Worker 971;pid=971
+[1636741460] wproc: Registry request: name=Core Worker 972;pid=972
+[1636741460] wproc: Registry request: name=Core Worker 974;pid=974
+[1636741460] wproc: Registry request: name=Core Worker 975;pid=975
+[1636741460] wproc: Registry request: name=Core Worker 976;pid=976
+[1636741460] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741460] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741460] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741460] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=955)
+[1636741461] Nagios 4.4.6 starting... (PID=977)
+[1636741461] Local time is Fri Nov 12 18:24:21 UTC 2021
+[1636741461] LOG VERSION: 2.0
+[1636741461] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741461] qh: core query handler registered
+[1636741461] qh: echo service query handler registered
+[1636741461] qh: help for the query handler registered
+[1636741461] wproc: Successfully registered manager as @wproc with query handler
+[1636741461] wproc: Registry request: name=Core Worker 982;pid=982
+[1636741461] wproc: Registry request: name=Core Worker 981;pid=981
+[1636741461] wproc: Registry request: name=Core Worker 983;pid=983
+[1636741461] wproc: Registry request: name=Core Worker 986;pid=986
+[1636741461] wproc: Registry request: name=Core Worker 984;pid=984
+[1636741461] wproc: Registry request: name=Core Worker 985;pid=985
+[1636741461] wproc: Registry request: name=Core Worker 989;pid=989
+[1636741461] wproc: Registry request: name=Core Worker 988;pid=988
+[1636741461] wproc: Registry request: name=Core Worker 987;pid=987
+[1636741461] wproc: Registry request: name=Core Worker 990;pid=990
+[1636741461] wproc: Registry request: name=Core Worker 991;pid=991
+[1636741461] wproc: Registry request: name=Core Worker 994;pid=994
+[1636741461] wproc: Registry request: name=Core Worker 992;pid=992
+[1636741461] wproc: Registry request: name=Core Worker 993;pid=993
+[1636741461] wproc: Registry request: name=Core Worker 995;pid=995
+[1636741461] wproc: Registry request: name=Core Worker 996;pid=996
+[1636741461] wproc: Registry request: name=Core Worker 997;pid=997
+[1636741461] wproc: Registry request: name=Core Worker 998;pid=998
+[1636741461] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741461] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741461] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741461] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=977)
+[1636741462] Nagios 4.4.6 starting... (PID=999)
+[1636741462] Local time is Fri Nov 12 18:24:22 UTC 2021
+[1636741462] LOG VERSION: 2.0
+[1636741462] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741462] qh: core query handler registered
+[1636741462] qh: echo service query handler registered
+[1636741462] qh: help for the query handler registered
+[1636741462] wproc: Successfully registered manager as @wproc with query handler
+[1636741462] wproc: Registry request: name=Core Worker 1003;pid=1003
+[1636741462] wproc: Registry request: name=Core Worker 1004;pid=1004
+[1636741462] wproc: Registry request: name=Core Worker 1005;pid=1005
+[1636741462] wproc: Registry request: name=Core Worker 1006;pid=1006
+[1636741462] wproc: Registry request: name=Core Worker 1008;pid=1008
+[1636741462] wproc: Registry request: name=Core Worker 1007;pid=1007
+[1636741462] wproc: Registry request: name=Core Worker 1009;pid=1009
+[1636741462] wproc: Registry request: name=Core Worker 1011;pid=1011
+[1636741462] wproc: Registry request: name=Core Worker 1010;pid=1010
+[1636741462] wproc: Registry request: name=Core Worker 1012;pid=1012
+[1636741462] wproc: Registry request: name=Core Worker 1013;pid=1013
+[1636741462] wproc: Registry request: name=Core Worker 1015;pid=1015
+[1636741462] wproc: Registry request: name=Core Worker 1014;pid=1014
+[1636741462] wproc: Registry request: name=Core Worker 1016;pid=1016
+[1636741462] wproc: Registry request: name=Core Worker 1018;pid=1018
+[1636741462] wproc: Registry request: name=Core Worker 1017;pid=1017
+[1636741462] wproc: Registry request: name=Core Worker 1019;pid=1019
+[1636741462] wproc: Registry request: name=Core Worker 1020;pid=1020
+[1636741462] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741462] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741462] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741462] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=999)
+[1636741463] Nagios 4.4.6 starting... (PID=1021)
+[1636741463] Local time is Fri Nov 12 18:24:23 UTC 2021
+[1636741463] LOG VERSION: 2.0
+[1636741463] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741463] qh: core query handler registered
+[1636741463] qh: echo service query handler registered
+[1636741463] qh: help for the query handler registered
+[1636741463] wproc: Successfully registered manager as @wproc with query handler
+[1636741463] wproc: Registry request: name=Core Worker 1025;pid=1025
+[1636741463] wproc: Registry request: name=Core Worker 1026;pid=1026
+[1636741463] wproc: Registry request: name=Core Worker 1027;pid=1027
+[1636741463] wproc: Registry request: name=Core Worker 1028;pid=1028
+[1636741463] wproc: Registry request: name=Core Worker 1029;pid=1029
+[1636741463] wproc: Registry request: name=Core Worker 1031;pid=1031
+[1636741463] wproc: Registry request: name=Core Worker 1033;pid=1033
+[1636741463] wproc: Registry request: name=Core Worker 1032;pid=1032
+[1636741463] wproc: Registry request: name=Core Worker 1030;pid=1030
+[1636741463] wproc: Registry request: name=Core Worker 1034;pid=1034
+[1636741463] wproc: Registry request: name=Core Worker 1035;pid=1035
+[1636741463] wproc: Registry request: name=Core Worker 1038;pid=1038
+[1636741463] wproc: Registry request: name=Core Worker 1037;pid=1037
+[1636741463] wproc: Registry request: name=Core Worker 1036;pid=1036
+[1636741463] wproc: Registry request: name=Core Worker 1039;pid=1039
+[1636741463] wproc: Registry request: name=Core Worker 1042;pid=1042
+[1636741463] wproc: Registry request: name=Core Worker 1040;pid=1040
+[1636741463] wproc: Registry request: name=Core Worker 1041;pid=1041
+[1636741463] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741463] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741463] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741463] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=1021)
+[1636741464] Nagios 4.4.6 starting... (PID=1043)
+[1636741464] Local time is Fri Nov 12 18:24:24 UTC 2021
+[1636741464] LOG VERSION: 2.0
+[1636741464] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741464] qh: core query handler registered
+[1636741464] qh: echo service query handler registered
+[1636741464] qh: help for the query handler registered
+[1636741464] wproc: Successfully registered manager as @wproc with query handler
+[1636741464] wproc: Registry request: name=Core Worker 1048;pid=1048
+[1636741464] wproc: Registry request: name=Core Worker 1047;pid=1047
+[1636741464] wproc: Registry request: name=Core Worker 1049;pid=1049
+[1636741464] wproc: Registry request: name=Core Worker 1050;pid=1050
+[1636741464] wproc: Registry request: name=Core Worker 1052;pid=1052
+[1636741464] wproc: Registry request: name=Core Worker 1051;pid=1051
+[1636741464] wproc: Registry request: name=Core Worker 1053;pid=1053
+[1636741464] wproc: Registry request: name=Core Worker 1055;pid=1055
+[1636741464] wproc: Registry request: name=Core Worker 1054;pid=1054
+[1636741464] wproc: Registry request: name=Core Worker 1056;pid=1056
+[1636741464] wproc: Registry request: name=Core Worker 1058;pid=1058
+[1636741464] wproc: Registry request: name=Core Worker 1061;pid=1061
+[1636741464] wproc: Registry request: name=Core Worker 1057;pid=1057
+[1636741464] wproc: Registry request: name=Core Worker 1059;pid=1059
+[1636741464] wproc: Registry request: name=Core Worker 1062;pid=1062
+[1636741464] wproc: Registry request: name=Core Worker 1060;pid=1060
+[1636741464] wproc: Registry request: name=Core Worker 1064;pid=1064
+[1636741464] wproc: Registry request: name=Core Worker 1063;pid=1063
+[1636741464] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741464] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741464] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741464] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=1043)
+[1636741465] Nagios 4.4.6 starting... (PID=1065)
+[1636741465] Local time is Fri Nov 12 18:24:25 UTC 2021
+[1636741465] LOG VERSION: 2.0
+[1636741465] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741465] qh: core query handler registered
+[1636741465] qh: echo service query handler registered
+[1636741465] qh: help for the query handler registered
+[1636741465] wproc: Successfully registered manager as @wproc with query handler
+[1636741465] wproc: Registry request: name=Core Worker 1069;pid=1069
+[1636741465] wproc: Registry request: name=Core Worker 1071;pid=1071
+[1636741465] wproc: Registry request: name=Core Worker 1072;pid=1072
+[1636741465] wproc: Registry request: name=Core Worker 1070;pid=1070
+[1636741465] wproc: Registry request: name=Core Worker 1073;pid=1073
+[1636741465] wproc: Registry request: name=Core Worker 1077;pid=1077
+[1636741465] wproc: Registry request: name=Core Worker 1078;pid=1078
+[1636741465] wproc: Registry request: name=Core Worker 1079;pid=1079
+[1636741465] wproc: Registry request: name=Core Worker 1074;pid=1074
+[1636741465] wproc: Registry request: name=Core Worker 1080;pid=1080
+[1636741465] wproc: Registry request: name=Core Worker 1083;pid=1083
+[1636741465] wproc: Registry request: name=Core Worker 1084;pid=1084
+[1636741465] wproc: Registry request: name=Core Worker 1076;pid=1076
+[1636741465] wproc: Registry request: name=Core Worker 1086;pid=1086
+[1636741465] wproc: Registry request: name=Core Worker 1081;pid=1081
+[1636741465] wproc: Registry request: name=Core Worker 1075;pid=1075
+[1636741465] wproc: Registry request: name=Core Worker 1082;pid=1082
+[1636741465] wproc: Registry request: name=Core Worker 1085;pid=1085
+[1636741465] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741465] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741465] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741465] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=1065)
+[1636741466] Nagios 4.4.6 starting... (PID=1087)
+[1636741466] Local time is Fri Nov 12 18:24:26 UTC 2021
+[1636741466] LOG VERSION: 2.0
+[1636741466] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741466] qh: core query handler registered
+[1636741466] qh: echo service query handler registered
+[1636741466] qh: help for the query handler registered
+[1636741466] wproc: Successfully registered manager as @wproc with query handler
+[1636741466] wproc: Registry request: name=Core Worker 1091;pid=1091
+[1636741466] wproc: Registry request: name=Core Worker 1092;pid=1092
+[1636741466] wproc: Registry request: name=Core Worker 1095;pid=1095
+[1636741466] wproc: Registry request: name=Core Worker 1093;pid=1093
+[1636741466] wproc: Registry request: name=Core Worker 1098;pid=1098
+[1636741466] wproc: Registry request: name=Core Worker 1094;pid=1094
+[1636741466] wproc: Registry request: name=Core Worker 1096;pid=1096
+[1636741466] wproc: Registry request: name=Core Worker 1097;pid=1097
+[1636741466] wproc: Registry request: name=Core Worker 1100;pid=1100
+[1636741466] wproc: Registry request: name=Core Worker 1101;pid=1101
+[1636741466] wproc: Registry request: name=Core Worker 1099;pid=1099
+[1636741466] wproc: Registry request: name=Core Worker 1102;pid=1102
+[1636741466] wproc: Registry request: name=Core Worker 1105;pid=1105
+[1636741466] wproc: Registry request: name=Core Worker 1103;pid=1103
+[1636741466] wproc: Registry request: name=Core Worker 1106;pid=1106
+[1636741466] wproc: Registry request: name=Core Worker 1104;pid=1104
+[1636741466] wproc: Registry request: name=Core Worker 1107;pid=1107
+[1636741466] wproc: Registry request: name=Core Worker 1108;pid=1108
+[1636741466] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741466] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741466] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741466] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=1087)
+[1636741467] Nagios 4.4.6 starting... (PID=1109)
+[1636741467] Local time is Fri Nov 12 18:24:27 UTC 2021
+[1636741467] LOG VERSION: 2.0
+[1636741467] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741467] qh: core query handler registered
+[1636741467] qh: echo service query handler registered
+[1636741467] qh: help for the query handler registered
+[1636741467] wproc: Successfully registered manager as @wproc with query handler
+[1636741467] wproc: Registry request: name=Core Worker 1114;pid=1114
+[1636741467] wproc: Registry request: name=Core Worker 1113;pid=1113
+[1636741467] wproc: Registry request: name=Core Worker 1115;pid=1115
+[1636741467] wproc: Registry request: name=Core Worker 1116;pid=1116
+[1636741467] wproc: Registry request: name=Core Worker 1119;pid=1119
+[1636741467] wproc: Registry request: name=Core Worker 1117;pid=1117
+[1636741467] wproc: Registry request: name=Core Worker 1118;pid=1118
+[1636741467] wproc: Registry request: name=Core Worker 1120;pid=1120
+[1636741467] wproc: Registry request: name=Core Worker 1121;pid=1121
+[1636741467] wproc: Registry request: name=Core Worker 1123;pid=1123
+[1636741467] wproc: Registry request: name=Core Worker 1122;pid=1122
+[1636741467] wproc: Registry request: name=Core Worker 1124;pid=1124
+[1636741467] wproc: Registry request: name=Core Worker 1125;pid=1125
+[1636741467] wproc: Registry request: name=Core Worker 1126;pid=1126
+[1636741467] wproc: Registry request: name=Core Worker 1128;pid=1128
+[1636741467] wproc: Registry request: name=Core Worker 1127;pid=1127
+[1636741467] wproc: Registry request: name=Core Worker 1129;pid=1129
+[1636741467] wproc: Registry request: name=Core Worker 1130;pid=1130
+[1636741467] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741467] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741467] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741467] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=1109)
+[1636741468] Nagios 4.4.6 starting... (PID=1131)
+[1636741468] Local time is Fri Nov 12 18:24:28 UTC 2021
+[1636741468] LOG VERSION: 2.0
+[1636741468] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741468] qh: core query handler registered
+[1636741468] qh: echo service query handler registered
+[1636741468] qh: help for the query handler registered
+[1636741468] wproc: Successfully registered manager as @wproc with query handler
+[1636741468] wproc: Registry request: name=Core Worker 1135;pid=1135
+[1636741468] wproc: Registry request: name=Core Worker 1136;pid=1136
+[1636741468] wproc: Registry request: name=Core Worker 1138;pid=1138
+[1636741468] wproc: Registry request: name=Core Worker 1137;pid=1137
+[1636741468] wproc: Registry request: name=Core Worker 1141;pid=1141
+[1636741468] wproc: Registry request: name=Core Worker 1139;pid=1139
+[1636741468] wproc: Registry request: name=Core Worker 1140;pid=1140
+[1636741468] wproc: Registry request: name=Core Worker 1142;pid=1142
+[1636741468] wproc: Registry request: name=Core Worker 1144;pid=1144
+[1636741468] wproc: Registry request: name=Core Worker 1143;pid=1143
+[1636741468] wproc: Registry request: name=Core Worker 1148;pid=1148
+[1636741468] wproc: Registry request: name=Core Worker 1145;pid=1145
+[1636741468] wproc: Registry request: name=Core Worker 1146;pid=1146
+[1636741468] wproc: Registry request: name=Core Worker 1147;pid=1147
+[1636741468] wproc: Registry request: name=Core Worker 1150;pid=1150
+[1636741468] wproc: Registry request: name=Core Worker 1151;pid=1151
+[1636741468] wproc: Registry request: name=Core Worker 1149;pid=1149
+[1636741468] wproc: Registry request: name=Core Worker 1152;pid=1152
+[1636741468] Error: Could not open config directory '/opt/nagios/etc/servers' for reading.
+[1636741468] Error: Invalid max_check_attempts value for host 'localhost'
+[1636741468] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636741468] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=1131)
+[1636741469] Nagios 4.4.6 starting... (PID=1153)
+[1636741469] Local time is Fri Nov 12 18:24:29 UTC 2021
+[1636741469] LOG VERSION: 2.0
+[1636741469] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741469] qh: core query handler registered
+[1636741469] qh: echo service query handler registered
+[1636741469] qh: help for the query handler registered
+[1636741469] wproc: Successfully registered manager as @wproc with query handler
+[1636741469] wproc: Registry request: name=Core Worker 1157;pid=1157
+[1636741469] wproc: Registry request: name=Core Worker 1158;pid=1158
+[1636741469] wproc: Registry request: name=Core Worker 1161;pid=1161
+[1636741469] wproc: Registry request: name=Core Worker 1160;pid=1160
+[1636741469] wproc: Registry request: name=Core Worker 1159;pid=1159
+[1636741469] wproc: Registry request: name=Core Worker 1162;pid=1162
+[1636741469] wproc: Registry request: name=Core Worker 1164;pid=1164
+[1636741469] wproc: Registry request: name=Core Worker 1165;pid=1165
+[1636741469] wproc: Registry request: name=Core Worker 1163;pid=1163
+[1636741469] wproc: Registry request: name=Core Worker 1166;pid=1166
+[1636741469] wproc: Registry request: name=Core Worker 1168;pid=1168
+[1636741469] wproc: Registry request: name=Core Worker 1167;pid=1167
+[1636741469] wproc: Registry request: name=Core Worker 1170;pid=1170
+[1636741469] wproc: Registry request: name=Core Worker 1169;pid=1169
+[1636741469] wproc: Registry request: name=Core Worker 1172;pid=1172
+[1636741469] wproc: Registry request: name=Core Worker 1171;pid=1171
+[1636741469] wproc: Registry request: name=Core Worker 1173;pid=1173
+[1636741469] wproc: Registry request: name=Core Worker 1174;pid=1174
+[1636741469] Successfully launched command file worker with pid 1175
+[1636741625] Caught SIGTERM, shutting down...
+[1636741625] Successfully shutdown... (PID=1153)
+[1636741628] Nagios 4.4.6 starting... (PID=15)
+[1636741628] Local time is Fri Nov 12 18:27:08 UTC 2021
+[1636741628] LOG VERSION: 2.0
+[1636741628] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741628] qh: core query handler registered
+[1636741628] qh: echo service query handler registered
+[1636741628] qh: help for the query handler registered
+[1636741628] wproc: Successfully registered manager as @wproc with query handler
+[1636741628] wproc: Registry request: name=Core Worker 30;pid=30
+[1636741628] wproc: Registry request: name=Core Worker 32;pid=32
+[1636741628] wproc: Registry request: name=Core Worker 31;pid=31
+[1636741628] wproc: Registry request: name=Core Worker 33;pid=33
+[1636741628] wproc: Registry request: name=Core Worker 34;pid=34
+[1636741628] wproc: Registry request: name=Core Worker 36;pid=36
+[1636741628] wproc: Registry request: name=Core Worker 37;pid=37
+[1636741628] wproc: Registry request: name=Core Worker 38;pid=38
+[1636741628] wproc: Registry request: name=Core Worker 39;pid=39
+[1636741628] wproc: Registry request: name=Core Worker 35;pid=35
+[1636741628] wproc: Registry request: name=Core Worker 41;pid=41
+[1636741628] wproc: Registry request: name=Core Worker 40;pid=40
+[1636741628] wproc: Registry request: name=Core Worker 42;pid=42
+[1636741628] wproc: Registry request: name=Core Worker 43;pid=43
+[1636741628] wproc: Registry request: name=Core Worker 44;pid=44
+[1636741628] wproc: Registry request: name=Core Worker 45;pid=45
+[1636741628] wproc: Registry request: name=Core Worker 46;pid=46
+[1636741628] wproc: Registry request: name=Core Worker 47;pid=47
+[1636741628] Successfully launched command file worker with pid 48
+[1636741769] Caught SIGTERM, shutting down...
+[1636741769] Successfully shutdown... (PID=15)
+[1636741772] Nagios 4.4.6 starting... (PID=19)
+[1636741772] Local time is Fri Nov 12 18:29:32 UTC 2021
+[1636741772] LOG VERSION: 2.0
+[1636741772] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636741772] qh: core query handler registered
+[1636741772] qh: echo service query handler registered
+[1636741772] qh: help for the query handler registered
+[1636741772] wproc: Successfully registered manager as @wproc with query handler
+[1636741772] wproc: Registry request: name=Core Worker 30;pid=30
+[1636741772] wproc: Registry request: name=Core Worker 31;pid=31
+[1636741772] wproc: Registry request: name=Core Worker 32;pid=32
+[1636741772] wproc: Registry request: name=Core Worker 33;pid=33
+[1636741772] wproc: Registry request: name=Core Worker 34;pid=34
+[1636741772] wproc: Registry request: name=Core Worker 36;pid=36
+[1636741772] wproc: Registry request: name=Core Worker 37;pid=37
+[1636741772] wproc: Registry request: name=Core Worker 35;pid=35
+[1636741772] wproc: Registry request: name=Core Worker 39;pid=39
+[1636741772] wproc: Registry request: name=Core Worker 40;pid=40
+[1636741772] wproc: Registry request: name=Core Worker 43;pid=43
+[1636741772] wproc: Registry request: name=Core Worker 42;pid=42
+[1636741772] wproc: Registry request: name=Core Worker 41;pid=41
+[1636741772] wproc: Registry request: name=Core Worker 47;pid=47
+[1636741772] wproc: Registry request: name=Core Worker 46;pid=46
+[1636741772] wproc: Registry request: name=Core Worker 44;pid=44
+[1636741772] wproc: Registry request: name=Core Worker 38;pid=38
+[1636741772] wproc: Registry request: name=Core Worker 45;pid=45
+[1636741772] Successfully launched command file worker with pid 48
+[1636742094] Caught SIGTERM, shutting down...
+[1636742094] Successfully shutdown... (PID=19)
+[1636742396] Nagios 4.4.6 starting... (PID=15)
+[1636742396] Local time is Fri Nov 12 18:39:56 UTC 2021
+[1636742396] LOG VERSION: 2.0
+[1636742396] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742396] qh: core query handler registered
+[1636742396] qh: echo service query handler registered
+[1636742396] qh: help for the query handler registered
+[1636742396] wproc: Successfully registered manager as @wproc with query handler
+[1636742396] wproc: Registry request: name=Core Worker 30;pid=30
+[1636742396] wproc: Registry request: name=Core Worker 32;pid=32
+[1636742396] wproc: Registry request: name=Core Worker 33;pid=33
+[1636742396] wproc: Registry request: name=Core Worker 35;pid=35
+[1636742396] wproc: Registry request: name=Core Worker 34;pid=34
+[1636742396] wproc: Registry request: name=Core Worker 31;pid=31
+[1636742396] wproc: Registry request: name=Core Worker 37;pid=37
+[1636742396] wproc: Registry request: name=Core Worker 38;pid=38
+[1636742396] wproc: Registry request: name=Core Worker 40;pid=40
+[1636742396] wproc: Registry request: name=Core Worker 39;pid=39
+[1636742396] wproc: Registry request: name=Core Worker 36;pid=36
+[1636742396] wproc: Registry request: name=Core Worker 41;pid=41
+[1636742396] wproc: Registry request: name=Core Worker 43;pid=43
+[1636742396] wproc: Registry request: name=Core Worker 44;pid=44
+[1636742396] wproc: Registry request: name=Core Worker 45;pid=45
+[1636742396] wproc: Registry request: name=Core Worker 42;pid=42
+[1636742396] wproc: Registry request: name=Core Worker 47;pid=47
+[1636742396] wproc: Registry request: name=Core Worker 46;pid=46
+[1636742396] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742396] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742396] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742396] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=15)
+[1636742397] Nagios 4.4.6 starting... (PID=54)
+[1636742397] Local time is Fri Nov 12 18:39:57 UTC 2021
+[1636742397] LOG VERSION: 2.0
+[1636742397] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742397] qh: core query handler registered
+[1636742397] qh: echo service query handler registered
+[1636742397] qh: help for the query handler registered
+[1636742397] wproc: Successfully registered manager as @wproc with query handler
+[1636742397] wproc: Registry request: name=Core Worker 60;pid=60
+[1636742397] wproc: Registry request: name=Core Worker 59;pid=59
+[1636742397] wproc: Registry request: name=Core Worker 58;pid=58
+[1636742397] wproc: Registry request: name=Core Worker 61;pid=61
+[1636742397] wproc: Registry request: name=Core Worker 64;pid=64
+[1636742397] wproc: Registry request: name=Core Worker 65;pid=65
+[1636742397] wproc: Registry request: name=Core Worker 66;pid=66
+[1636742397] wproc: Registry request: name=Core Worker 68;pid=68
+[1636742397] wproc: Registry request: name=Core Worker 62;pid=62
+[1636742397] wproc: Registry request: name=Core Worker 69;pid=69
+[1636742397] wproc: Registry request: name=Core Worker 70;pid=70
+[1636742397] wproc: Registry request: name=Core Worker 72;pid=72
+[1636742397] wproc: Registry request: name=Core Worker 67;pid=67
+[1636742397] wproc: Registry request: name=Core Worker 73;pid=73
+[1636742397] wproc: Registry request: name=Core Worker 71;pid=71
+[1636742397] wproc: Registry request: name=Core Worker 63;pid=63
+[1636742397] wproc: Registry request: name=Core Worker 75;pid=75
+[1636742397] wproc: Registry request: name=Core Worker 74;pid=74
+[1636742397] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742397] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742397] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742397] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=54)
+[1636742398] Nagios 4.4.6 starting... (PID=77)
+[1636742398] Local time is Fri Nov 12 18:39:58 UTC 2021
+[1636742398] LOG VERSION: 2.0
+[1636742398] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742398] qh: core query handler registered
+[1636742398] qh: echo service query handler registered
+[1636742398] qh: help for the query handler registered
+[1636742398] wproc: Successfully registered manager as @wproc with query handler
+[1636742398] wproc: Registry request: name=Core Worker 83;pid=83
+[1636742398] wproc: Registry request: name=Core Worker 82;pid=82
+[1636742398] wproc: Registry request: name=Core Worker 81;pid=81
+[1636742398] wproc: Registry request: name=Core Worker 84;pid=84
+[1636742398] wproc: Registry request: name=Core Worker 86;pid=86
+[1636742398] wproc: Registry request: name=Core Worker 87;pid=87
+[1636742398] wproc: Registry request: name=Core Worker 85;pid=85
+[1636742398] wproc: Registry request: name=Core Worker 89;pid=89
+[1636742398] wproc: Registry request: name=Core Worker 90;pid=90
+[1636742398] wproc: Registry request: name=Core Worker 88;pid=88
+[1636742398] wproc: Registry request: name=Core Worker 91;pid=91
+[1636742398] wproc: Registry request: name=Core Worker 93;pid=93
+[1636742398] wproc: Registry request: name=Core Worker 92;pid=92
+[1636742398] wproc: Registry request: name=Core Worker 95;pid=95
+[1636742398] wproc: Registry request: name=Core Worker 96;pid=96
+[1636742398] wproc: Registry request: name=Core Worker 94;pid=94
+[1636742398] wproc: Registry request: name=Core Worker 97;pid=97
+[1636742398] wproc: Registry request: name=Core Worker 98;pid=98
+[1636742398] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742398] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742398] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742398] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=77)
+[1636742399] Nagios 4.4.6 starting... (PID=102)
+[1636742399] Local time is Fri Nov 12 18:39:59 UTC 2021
+[1636742399] LOG VERSION: 2.0
+[1636742399] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742399] qh: core query handler registered
+[1636742399] qh: echo service query handler registered
+[1636742399] qh: help for the query handler registered
+[1636742399] wproc: Successfully registered manager as @wproc with query handler
+[1636742399] wproc: Registry request: name=Core Worker 107;pid=107
+[1636742399] wproc: Registry request: name=Core Worker 106;pid=106
+[1636742399] wproc: Registry request: name=Core Worker 108;pid=108
+[1636742399] wproc: Registry request: name=Core Worker 109;pid=109
+[1636742399] wproc: Registry request: name=Core Worker 112;pid=112
+[1636742399] wproc: Registry request: name=Core Worker 110;pid=110
+[1636742399] wproc: Registry request: name=Core Worker 111;pid=111
+[1636742399] wproc: Registry request: name=Core Worker 113;pid=113
+[1636742399] wproc: Registry request: name=Core Worker 116;pid=116
+[1636742399] wproc: Registry request: name=Core Worker 118;pid=118
+[1636742399] wproc: Registry request: name=Core Worker 117;pid=117
+[1636742399] wproc: Registry request: name=Core Worker 119;pid=119
+[1636742399] wproc: Registry request: name=Core Worker 115;pid=115
+[1636742399] wproc: Registry request: name=Core Worker 114;pid=114
+[1636742399] wproc: Registry request: name=Core Worker 122;pid=122
+[1636742399] wproc: Registry request: name=Core Worker 120;pid=120
+[1636742399] wproc: Registry request: name=Core Worker 121;pid=121
+[1636742399] wproc: Registry request: name=Core Worker 123;pid=123
+[1636742399] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742399] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742399] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742399] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=102)
+[1636742400] Nagios 4.4.6 starting... (PID=125)
+[1636742400] Local time is Fri Nov 12 18:40:00 UTC 2021
+[1636742400] LOG VERSION: 2.0
+[1636742400] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742400] qh: core query handler registered
+[1636742400] qh: echo service query handler registered
+[1636742400] qh: help for the query handler registered
+[1636742400] wproc: Successfully registered manager as @wproc with query handler
+[1636742400] wproc: Registry request: name=Core Worker 131;pid=131
+[1636742400] wproc: Registry request: name=Core Worker 129;pid=129
+[1636742400] wproc: Registry request: name=Core Worker 130;pid=130
+[1636742400] wproc: Registry request: name=Core Worker 132;pid=132
+[1636742400] wproc: Registry request: name=Core Worker 135;pid=135
+[1636742400] wproc: Registry request: name=Core Worker 133;pid=133
+[1636742400] wproc: Registry request: name=Core Worker 134;pid=134
+[1636742400] wproc: Registry request: name=Core Worker 137;pid=137
+[1636742400] wproc: Registry request: name=Core Worker 136;pid=136
+[1636742400] wproc: Registry request: name=Core Worker 138;pid=138
+[1636742400] wproc: Registry request: name=Core Worker 139;pid=139
+[1636742400] wproc: Registry request: name=Core Worker 140;pid=140
+[1636742400] wproc: Registry request: name=Core Worker 141;pid=141
+[1636742400] wproc: Registry request: name=Core Worker 143;pid=143
+[1636742400] wproc: Registry request: name=Core Worker 142;pid=142
+[1636742400] wproc: Registry request: name=Core Worker 144;pid=144
+[1636742400] wproc: Registry request: name=Core Worker 145;pid=145
+[1636742400] wproc: Registry request: name=Core Worker 146;pid=146
+[1636742400] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742400] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742400] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742400] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=125)
+[1636742401] Nagios 4.4.6 starting... (PID=150)
+[1636742401] Local time is Fri Nov 12 18:40:01 UTC 2021
+[1636742401] LOG VERSION: 2.0
+[1636742401] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742401] qh: core query handler registered
+[1636742401] qh: echo service query handler registered
+[1636742401] qh: help for the query handler registered
+[1636742401] wproc: Successfully registered manager as @wproc with query handler
+[1636742401] wproc: Registry request: name=Core Worker 155;pid=155
+[1636742401] wproc: Registry request: name=Core Worker 154;pid=154
+[1636742401] wproc: Registry request: name=Core Worker 156;pid=156
+[1636742401] wproc: Registry request: name=Core Worker 157;pid=157
+[1636742401] wproc: Registry request: name=Core Worker 158;pid=158
+[1636742401] wproc: Registry request: name=Core Worker 159;pid=159
+[1636742401] wproc: Registry request: name=Core Worker 160;pid=160
+[1636742401] wproc: Registry request: name=Core Worker 161;pid=161
+[1636742401] wproc: Registry request: name=Core Worker 162;pid=162
+[1636742401] wproc: Registry request: name=Core Worker 165;pid=165
+[1636742401] wproc: Registry request: name=Core Worker 164;pid=164
+[1636742401] wproc: Registry request: name=Core Worker 166;pid=166
+[1636742401] wproc: Registry request: name=Core Worker 163;pid=163
+[1636742401] wproc: Registry request: name=Core Worker 167;pid=167
+[1636742401] wproc: Registry request: name=Core Worker 168;pid=168
+[1636742401] wproc: Registry request: name=Core Worker 169;pid=169
+[1636742401] wproc: Registry request: name=Core Worker 170;pid=170
+[1636742401] wproc: Registry request: name=Core Worker 171;pid=171
+[1636742401] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742401] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742401] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742401] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=150)
+[1636742402] Nagios 4.4.6 starting... (PID=176)
+[1636742402] Local time is Fri Nov 12 18:40:02 UTC 2021
+[1636742402] LOG VERSION: 2.0
+[1636742402] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742402] qh: core query handler registered
+[1636742402] qh: echo service query handler registered
+[1636742402] qh: help for the query handler registered
+[1636742402] wproc: Successfully registered manager as @wproc with query handler
+[1636742402] wproc: Registry request: name=Core Worker 180;pid=180
+[1636742402] wproc: Registry request: name=Core Worker 181;pid=181
+[1636742402] wproc: Registry request: name=Core Worker 182;pid=182
+[1636742402] wproc: Registry request: name=Core Worker 183;pid=183
+[1636742402] wproc: Registry request: name=Core Worker 185;pid=185
+[1636742402] wproc: Registry request: name=Core Worker 184;pid=184
+[1636742402] wproc: Registry request: name=Core Worker 187;pid=187
+[1636742402] wproc: Registry request: name=Core Worker 186;pid=186
+[1636742402] wproc: Registry request: name=Core Worker 188;pid=188
+[1636742402] wproc: Registry request: name=Core Worker 190;pid=190
+[1636742402] wproc: Registry request: name=Core Worker 189;pid=189
+[1636742402] wproc: Registry request: name=Core Worker 191;pid=191
+[1636742402] wproc: Registry request: name=Core Worker 192;pid=192
+[1636742402] wproc: Registry request: name=Core Worker 193;pid=193
+[1636742402] wproc: Registry request: name=Core Worker 194;pid=194
+[1636742402] wproc: Registry request: name=Core Worker 195;pid=195
+[1636742402] wproc: Registry request: name=Core Worker 196;pid=196
+[1636742402] wproc: Registry request: name=Core Worker 197;pid=197
+[1636742402] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742402] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742402] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742402] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=176)
+[1636742403] Nagios 4.4.6 starting... (PID=200)
+[1636742403] Local time is Fri Nov 12 18:40:03 UTC 2021
+[1636742403] LOG VERSION: 2.0
+[1636742403] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742403] qh: core query handler registered
+[1636742403] qh: echo service query handler registered
+[1636742403] qh: help for the query handler registered
+[1636742403] wproc: Successfully registered manager as @wproc with query handler
+[1636742403] wproc: Registry request: name=Core Worker 204;pid=204
+[1636742403] wproc: Registry request: name=Core Worker 206;pid=206
+[1636742403] wproc: Registry request: name=Core Worker 205;pid=205
+[1636742403] wproc: Registry request: name=Core Worker 207;pid=207
+[1636742403] wproc: Registry request: name=Core Worker 208;pid=208
+[1636742403] wproc: Registry request: name=Core Worker 209;pid=209
+[1636742403] wproc: Registry request: name=Core Worker 210;pid=210
+[1636742403] wproc: Registry request: name=Core Worker 213;pid=213
+[1636742403] wproc: Registry request: name=Core Worker 211;pid=211
+[1636742403] wproc: Registry request: name=Core Worker 215;pid=215
+[1636742403] wproc: Registry request: name=Core Worker 214;pid=214
+[1636742403] wproc: Registry request: name=Core Worker 216;pid=216
+[1636742403] wproc: Registry request: name=Core Worker 217;pid=217
+[1636742403] wproc: Registry request: name=Core Worker 220;pid=220
+[1636742403] wproc: Registry request: name=Core Worker 219;pid=219
+[1636742403] wproc: Registry request: name=Core Worker 218;pid=218
+[1636742403] wproc: Registry request: name=Core Worker 221;pid=221
+[1636742403] wproc: Registry request: name=Core Worker 212;pid=212
+[1636742403] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742403] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742403] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742403] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=200)
+[1636742404] Nagios 4.4.6 starting... (PID=223)
+[1636742404] Local time is Fri Nov 12 18:40:04 UTC 2021
+[1636742404] LOG VERSION: 2.0
+[1636742404] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742404] qh: core query handler registered
+[1636742404] qh: echo service query handler registered
+[1636742404] qh: help for the query handler registered
+[1636742404] wproc: Successfully registered manager as @wproc with query handler
+[1636742404] wproc: Registry request: name=Core Worker 228;pid=228
+[1636742404] wproc: Registry request: name=Core Worker 227;pid=227
+[1636742404] wproc: Registry request: name=Core Worker 229;pid=229
+[1636742404] wproc: Registry request: name=Core Worker 232;pid=232
+[1636742404] wproc: Registry request: name=Core Worker 231;pid=231
+[1636742404] wproc: Registry request: name=Core Worker 230;pid=230
+[1636742404] wproc: Registry request: name=Core Worker 233;pid=233
+[1636742404] wproc: Registry request: name=Core Worker 234;pid=234
+[1636742404] wproc: Registry request: name=Core Worker 235;pid=235
+[1636742404] wproc: Registry request: name=Core Worker 236;pid=236
+[1636742404] wproc: Registry request: name=Core Worker 237;pid=237
+[1636742404] wproc: Registry request: name=Core Worker 238;pid=238
+[1636742404] wproc: Registry request: name=Core Worker 239;pid=239
+[1636742404] wproc: Registry request: name=Core Worker 240;pid=240
+[1636742404] wproc: Registry request: name=Core Worker 241;pid=241
+[1636742404] wproc: Registry request: name=Core Worker 242;pid=242
+[1636742404] wproc: Registry request: name=Core Worker 243;pid=243
+[1636742404] wproc: Registry request: name=Core Worker 244;pid=244
+[1636742404] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742404] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742404] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742404] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=223)
+[1636742405] Nagios 4.4.6 starting... (PID=247)
+[1636742405] Local time is Fri Nov 12 18:40:05 UTC 2021
+[1636742405] LOG VERSION: 2.0
+[1636742405] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742405] qh: core query handler registered
+[1636742405] qh: echo service query handler registered
+[1636742405] qh: help for the query handler registered
+[1636742405] wproc: Successfully registered manager as @wproc with query handler
+[1636742405] wproc: Registry request: name=Core Worker 252;pid=252
+[1636742405] wproc: Registry request: name=Core Worker 251;pid=251
+[1636742405] wproc: Registry request: name=Core Worker 253;pid=253
+[1636742405] wproc: Registry request: name=Core Worker 255;pid=255
+[1636742405] wproc: Registry request: name=Core Worker 257;pid=257
+[1636742405] wproc: Registry request: name=Core Worker 254;pid=254
+[1636742405] wproc: Registry request: name=Core Worker 256;pid=256
+[1636742405] wproc: Registry request: name=Core Worker 259;pid=259
+[1636742405] wproc: Registry request: name=Core Worker 258;pid=258
+[1636742405] wproc: Registry request: name=Core Worker 260;pid=260
+[1636742405] wproc: Registry request: name=Core Worker 263;pid=263
+[1636742405] wproc: Registry request: name=Core Worker 262;pid=262
+[1636742405] wproc: Registry request: name=Core Worker 261;pid=261
+[1636742405] wproc: Registry request: name=Core Worker 266;pid=266
+[1636742405] wproc: Registry request: name=Core Worker 267;pid=267
+[1636742405] wproc: Registry request: name=Core Worker 264;pid=264
+[1636742405] wproc: Registry request: name=Core Worker 265;pid=265
+[1636742405] wproc: Registry request: name=Core Worker 268;pid=268
+[1636742405] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742405] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742405] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742405] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=247)
+[1636742406] Nagios 4.4.6 starting... (PID=270)
+[1636742406] Local time is Fri Nov 12 18:40:06 UTC 2021
+[1636742406] LOG VERSION: 2.0
+[1636742406] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742406] qh: core query handler registered
+[1636742406] qh: echo service query handler registered
+[1636742406] qh: help for the query handler registered
+[1636742406] wproc: Successfully registered manager as @wproc with query handler
+[1636742406] wproc: Registry request: name=Core Worker 274;pid=274
+[1636742406] wproc: Registry request: name=Core Worker 275;pid=275
+[1636742406] wproc: Registry request: name=Core Worker 276;pid=276
+[1636742406] wproc: Registry request: name=Core Worker 278;pid=278
+[1636742406] wproc: Registry request: name=Core Worker 280;pid=280
+[1636742406] wproc: Registry request: name=Core Worker 277;pid=277
+[1636742406] wproc: Registry request: name=Core Worker 279;pid=279
+[1636742406] wproc: Registry request: name=Core Worker 282;pid=282
+[1636742406] wproc: Registry request: name=Core Worker 281;pid=281
+[1636742406] wproc: Registry request: name=Core Worker 283;pid=283
+[1636742406] wproc: Registry request: name=Core Worker 284;pid=284
+[1636742406] wproc: Registry request: name=Core Worker 286;pid=286
+[1636742406] wproc: Registry request: name=Core Worker 285;pid=285
+[1636742406] wproc: Registry request: name=Core Worker 288;pid=288
+[1636742406] wproc: Registry request: name=Core Worker 287;pid=287
+[1636742406] wproc: Registry request: name=Core Worker 290;pid=290
+[1636742406] wproc: Registry request: name=Core Worker 289;pid=289
+[1636742406] wproc: Registry request: name=Core Worker 291;pid=291
+[1636742406] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742406] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742406] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742406] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=270)
+[1636742407] Nagios 4.4.6 starting... (PID=293)
+[1636742407] Local time is Fri Nov 12 18:40:07 UTC 2021
+[1636742407] LOG VERSION: 2.0
+[1636742407] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742407] qh: core query handler registered
+[1636742407] qh: echo service query handler registered
+[1636742407] qh: help for the query handler registered
+[1636742407] wproc: Successfully registered manager as @wproc with query handler
+[1636742407] wproc: Registry request: name=Core Worker 299;pid=299
+[1636742407] wproc: Registry request: name=Core Worker 297;pid=297
+[1636742407] wproc: Registry request: name=Core Worker 298;pid=298
+[1636742407] wproc: Registry request: name=Core Worker 300;pid=300
+[1636742407] wproc: Registry request: name=Core Worker 302;pid=302
+[1636742407] wproc: Registry request: name=Core Worker 301;pid=301
+[1636742407] wproc: Registry request: name=Core Worker 304;pid=304
+[1636742407] wproc: Registry request: name=Core Worker 303;pid=303
+[1636742407] wproc: Registry request: name=Core Worker 305;pid=305
+[1636742407] wproc: Registry request: name=Core Worker 307;pid=307
+[1636742407] wproc: Registry request: name=Core Worker 306;pid=306
+[1636742407] wproc: Registry request: name=Core Worker 309;pid=309
+[1636742407] wproc: Registry request: name=Core Worker 308;pid=308
+[1636742407] wproc: Registry request: name=Core Worker 311;pid=311
+[1636742407] wproc: Registry request: name=Core Worker 310;pid=310
+[1636742407] wproc: Registry request: name=Core Worker 313;pid=313
+[1636742407] wproc: Registry request: name=Core Worker 312;pid=312
+[1636742407] wproc: Registry request: name=Core Worker 314;pid=314
+[1636742407] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742407] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742407] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742407] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=293)
+[1636742408] Nagios 4.4.6 starting... (PID=316)
+[1636742408] Local time is Fri Nov 12 18:40:08 UTC 2021
+[1636742408] LOG VERSION: 2.0
+[1636742408] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742408] qh: core query handler registered
+[1636742408] qh: echo service query handler registered
+[1636742408] qh: help for the query handler registered
+[1636742408] wproc: Successfully registered manager as @wproc with query handler
+[1636742408] wproc: Registry request: name=Core Worker 320;pid=320
+[1636742408] wproc: Registry request: name=Core Worker 321;pid=321
+[1636742408] wproc: Registry request: name=Core Worker 322;pid=322
+[1636742408] wproc: Registry request: name=Core Worker 325;pid=325
+[1636742408] wproc: Registry request: name=Core Worker 324;pid=324
+[1636742408] wproc: Registry request: name=Core Worker 323;pid=323
+[1636742408] wproc: Registry request: name=Core Worker 326;pid=326
+[1636742408] wproc: Registry request: name=Core Worker 329;pid=329
+[1636742408] wproc: Registry request: name=Core Worker 327;pid=327
+[1636742408] wproc: Registry request: name=Core Worker 328;pid=328
+[1636742408] wproc: Registry request: name=Core Worker 332;pid=332
+[1636742408] wproc: Registry request: name=Core Worker 330;pid=330
+[1636742408] wproc: Registry request: name=Core Worker 331;pid=331
+[1636742408] wproc: Registry request: name=Core Worker 333;pid=333
+[1636742408] wproc: Registry request: name=Core Worker 336;pid=336
+[1636742408] wproc: Registry request: name=Core Worker 334;pid=334
+[1636742408] wproc: Registry request: name=Core Worker 335;pid=335
+[1636742408] wproc: Registry request: name=Core Worker 337;pid=337
+[1636742408] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742408] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742408] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742408] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=316)
+[1636742409] Nagios 4.4.6 starting... (PID=339)
+[1636742409] Local time is Fri Nov 12 18:40:09 UTC 2021
+[1636742409] LOG VERSION: 2.0
+[1636742409] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742409] qh: core query handler registered
+[1636742409] qh: echo service query handler registered
+[1636742409] qh: help for the query handler registered
+[1636742409] wproc: Successfully registered manager as @wproc with query handler
+[1636742409] wproc: Registry request: name=Core Worker 345;pid=345
+[1636742409] wproc: Registry request: name=Core Worker 343;pid=343
+[1636742409] wproc: Registry request: name=Core Worker 347;pid=347
+[1636742409] wproc: Registry request: name=Core Worker 346;pid=346
+[1636742409] wproc: Registry request: name=Core Worker 344;pid=344
+[1636742409] wproc: Registry request: name=Core Worker 350;pid=350
+[1636742409] wproc: Registry request: name=Core Worker 348;pid=348
+[1636742409] wproc: Registry request: name=Core Worker 351;pid=351
+[1636742409] wproc: Registry request: name=Core Worker 349;pid=349
+[1636742409] wproc: Registry request: name=Core Worker 353;pid=353
+[1636742409] wproc: Registry request: name=Core Worker 352;pid=352
+[1636742409] wproc: Registry request: name=Core Worker 354;pid=354
+[1636742409] wproc: Registry request: name=Core Worker 357;pid=357
+[1636742409] wproc: Registry request: name=Core Worker 358;pid=358
+[1636742409] wproc: Registry request: name=Core Worker 355;pid=355
+[1636742409] wproc: Registry request: name=Core Worker 356;pid=356
+[1636742409] wproc: Registry request: name=Core Worker 360;pid=360
+[1636742409] wproc: Registry request: name=Core Worker 359;pid=359
+[1636742409] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742409] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742409] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742409] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=339)
+[1636742410] Nagios 4.4.6 starting... (PID=374)
+[1636742410] Local time is Fri Nov 12 18:40:10 UTC 2021
+[1636742410] LOG VERSION: 2.0
+[1636742410] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742410] qh: core query handler registered
+[1636742410] qh: echo service query handler registered
+[1636742410] qh: help for the query handler registered
+[1636742410] wproc: Successfully registered manager as @wproc with query handler
+[1636742410] wproc: Registry request: name=Core Worker 378;pid=378
+[1636742410] wproc: Registry request: name=Core Worker 379;pid=379
+[1636742410] wproc: Registry request: name=Core Worker 381;pid=381
+[1636742410] wproc: Registry request: name=Core Worker 383;pid=383
+[1636742410] wproc: Registry request: name=Core Worker 380;pid=380
+[1636742410] wproc: Registry request: name=Core Worker 382;pid=382
+[1636742410] wproc: Registry request: name=Core Worker 384;pid=384
+[1636742410] wproc: Registry request: name=Core Worker 388;pid=388
+[1636742410] wproc: Registry request: name=Core Worker 387;pid=387
+[1636742410] wproc: Registry request: name=Core Worker 385;pid=385
+[1636742410] wproc: Registry request: name=Core Worker 386;pid=386
+[1636742410] wproc: Registry request: name=Core Worker 390;pid=390
+[1636742410] wproc: Registry request: name=Core Worker 389;pid=389
+[1636742410] wproc: Registry request: name=Core Worker 391;pid=391
+[1636742410] wproc: Registry request: name=Core Worker 395;pid=395
+[1636742410] wproc: Registry request: name=Core Worker 392;pid=392
+[1636742410] wproc: Registry request: name=Core Worker 393;pid=393
+[1636742410] wproc: Registry request: name=Core Worker 394;pid=394
+[1636742410] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742410] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742410] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742410] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=374)
+[1636742411] Nagios 4.4.6 starting... (PID=398)
+[1636742411] Local time is Fri Nov 12 18:40:11 UTC 2021
+[1636742411] LOG VERSION: 2.0
+[1636742411] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742411] qh: core query handler registered
+[1636742411] qh: echo service query handler registered
+[1636742411] qh: help for the query handler registered
+[1636742411] wproc: Successfully registered manager as @wproc with query handler
+[1636742411] wproc: Registry request: name=Core Worker 402;pid=402
+[1636742411] wproc: Registry request: name=Core Worker 405;pid=405
+[1636742411] wproc: Registry request: name=Core Worker 404;pid=404
+[1636742411] wproc: Registry request: name=Core Worker 403;pid=403
+[1636742411] wproc: Registry request: name=Core Worker 406;pid=406
+[1636742411] wproc: Registry request: name=Core Worker 407;pid=407
+[1636742411] wproc: Registry request: name=Core Worker 409;pid=409
+[1636742411] wproc: Registry request: name=Core Worker 410;pid=410
+[1636742411] wproc: Registry request: name=Core Worker 408;pid=408
+[1636742411] wproc: Registry request: name=Core Worker 411;pid=411
+[1636742411] wproc: Registry request: name=Core Worker 412;pid=412
+[1636742411] wproc: Registry request: name=Core Worker 413;pid=413
+[1636742411] wproc: Registry request: name=Core Worker 414;pid=414
+[1636742411] wproc: Registry request: name=Core Worker 415;pid=415
+[1636742411] wproc: Registry request: name=Core Worker 416;pid=416
+[1636742411] wproc: Registry request: name=Core Worker 419;pid=419
+[1636742411] wproc: Registry request: name=Core Worker 417;pid=417
+[1636742411] wproc: Registry request: name=Core Worker 418;pid=418
+[1636742411] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742411] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742411] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742411] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=398)
+[1636742412] Nagios 4.4.6 starting... (PID=421)
+[1636742412] Local time is Fri Nov 12 18:40:12 UTC 2021
+[1636742412] LOG VERSION: 2.0
+[1636742412] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742412] qh: core query handler registered
+[1636742412] qh: echo service query handler registered
+[1636742412] qh: help for the query handler registered
+[1636742412] wproc: Successfully registered manager as @wproc with query handler
+[1636742412] wproc: Registry request: name=Core Worker 425;pid=425
+[1636742412] wproc: Registry request: name=Core Worker 426;pid=426
+[1636742412] wproc: Registry request: name=Core Worker 427;pid=427
+[1636742412] wproc: Registry request: name=Core Worker 428;pid=428
+[1636742412] wproc: Registry request: name=Core Worker 429;pid=429
+[1636742412] wproc: Registry request: name=Core Worker 430;pid=430
+[1636742412] wproc: Registry request: name=Core Worker 431;pid=431
+[1636742412] wproc: Registry request: name=Core Worker 432;pid=432
+[1636742412] wproc: Registry request: name=Core Worker 433;pid=433
+[1636742412] wproc: Registry request: name=Core Worker 434;pid=434
+[1636742412] wproc: Registry request: name=Core Worker 435;pid=435
+[1636742412] wproc: Registry request: name=Core Worker 436;pid=436
+[1636742412] wproc: Registry request: name=Core Worker 440;pid=440
+[1636742412] wproc: Registry request: name=Core Worker 438;pid=438
+[1636742412] wproc: Registry request: name=Core Worker 439;pid=439
+[1636742412] wproc: Registry request: name=Core Worker 437;pid=437
+[1636742412] wproc: Registry request: name=Core Worker 441;pid=441
+[1636742412] wproc: Registry request: name=Core Worker 442;pid=442
+[1636742412] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742412] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742412] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742412] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=421)
+[1636742413] Nagios 4.4.6 starting... (PID=445)
+[1636742413] Local time is Fri Nov 12 18:40:13 UTC 2021
+[1636742413] LOG VERSION: 2.0
+[1636742413] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742413] qh: core query handler registered
+[1636742413] qh: echo service query handler registered
+[1636742413] qh: help for the query handler registered
+[1636742413] wproc: Successfully registered manager as @wproc with query handler
+[1636742413] wproc: Registry request: name=Core Worker 449;pid=449
+[1636742413] wproc: Registry request: name=Core Worker 452;pid=452
+[1636742413] wproc: Registry request: name=Core Worker 453;pid=453
+[1636742413] wproc: Registry request: name=Core Worker 451;pid=451
+[1636742413] wproc: Registry request: name=Core Worker 450;pid=450
+[1636742413] wproc: Registry request: name=Core Worker 455;pid=455
+[1636742413] wproc: Registry request: name=Core Worker 456;pid=456
+[1636742413] wproc: Registry request: name=Core Worker 454;pid=454
+[1636742413] wproc: Registry request: name=Core Worker 457;pid=457
+[1636742413] wproc: Registry request: name=Core Worker 459;pid=459
+[1636742413] wproc: Registry request: name=Core Worker 460;pid=460
+[1636742413] wproc: Registry request: name=Core Worker 458;pid=458
+[1636742413] wproc: Registry request: name=Core Worker 462;pid=462
+[1636742413] wproc: Registry request: name=Core Worker 461;pid=461
+[1636742413] wproc: Registry request: name=Core Worker 463;pid=463
+[1636742413] wproc: Registry request: name=Core Worker 466;pid=466
+[1636742413] wproc: Registry request: name=Core Worker 464;pid=464
+[1636742413] wproc: Registry request: name=Core Worker 465;pid=465
+[1636742413] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742413] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742413] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742413] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=445)
+[1636742414] Nagios 4.4.6 starting... (PID=468)
+[1636742414] Local time is Fri Nov 12 18:40:14 UTC 2021
+[1636742414] LOG VERSION: 2.0
+[1636742414] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742414] qh: core query handler registered
+[1636742414] qh: echo service query handler registered
+[1636742414] qh: help for the query handler registered
+[1636742414] wproc: Successfully registered manager as @wproc with query handler
+[1636742414] wproc: Registry request: name=Core Worker 472;pid=472
+[1636742414] wproc: Registry request: name=Core Worker 473;pid=473
+[1636742414] wproc: Registry request: name=Core Worker 475;pid=475
+[1636742414] wproc: Registry request: name=Core Worker 474;pid=474
+[1636742414] wproc: Registry request: name=Core Worker 477;pid=477
+[1636742414] wproc: Registry request: name=Core Worker 476;pid=476
+[1636742414] wproc: Registry request: name=Core Worker 478;pid=478
+[1636742414] wproc: Registry request: name=Core Worker 480;pid=480
+[1636742414] wproc: Registry request: name=Core Worker 479;pid=479
+[1636742414] wproc: Registry request: name=Core Worker 481;pid=481
+[1636742414] wproc: Registry request: name=Core Worker 483;pid=483
+[1636742414] wproc: Registry request: name=Core Worker 482;pid=482
+[1636742414] wproc: Registry request: name=Core Worker 484;pid=484
+[1636742414] wproc: Registry request: name=Core Worker 485;pid=485
+[1636742414] wproc: Registry request: name=Core Worker 487;pid=487
+[1636742414] wproc: Registry request: name=Core Worker 486;pid=486
+[1636742414] wproc: Registry request: name=Core Worker 488;pid=488
+[1636742414] wproc: Registry request: name=Core Worker 489;pid=489
+[1636742414] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742414] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742414] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742414] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=468)
+[1636742415] Nagios 4.4.6 starting... (PID=491)
+[1636742415] Local time is Fri Nov 12 18:40:15 UTC 2021
+[1636742415] LOG VERSION: 2.0
+[1636742415] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742415] qh: core query handler registered
+[1636742415] qh: echo service query handler registered
+[1636742415] qh: help for the query handler registered
+[1636742415] wproc: Successfully registered manager as @wproc with query handler
+[1636742415] wproc: Registry request: name=Core Worker 496;pid=496
+[1636742415] wproc: Registry request: name=Core Worker 495;pid=495
+[1636742415] wproc: Registry request: name=Core Worker 497;pid=497
+[1636742415] wproc: Registry request: name=Core Worker 498;pid=498
+[1636742415] wproc: Registry request: name=Core Worker 500;pid=500
+[1636742415] wproc: Registry request: name=Core Worker 499;pid=499
+[1636742415] wproc: Registry request: name=Core Worker 501;pid=501
+[1636742415] wproc: Registry request: name=Core Worker 503;pid=503
+[1636742415] wproc: Registry request: name=Core Worker 502;pid=502
+[1636742415] wproc: Registry request: name=Core Worker 504;pid=504
+[1636742415] wproc: Registry request: name=Core Worker 505;pid=505
+[1636742415] wproc: Registry request: name=Core Worker 506;pid=506
+[1636742415] wproc: Registry request: name=Core Worker 507;pid=507
+[1636742415] wproc: Registry request: name=Core Worker 509;pid=509
+[1636742415] wproc: Registry request: name=Core Worker 508;pid=508
+[1636742415] wproc: Registry request: name=Core Worker 512;pid=512
+[1636742415] wproc: Registry request: name=Core Worker 510;pid=510
+[1636742415] wproc: Registry request: name=Core Worker 511;pid=511
+[1636742415] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742415] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742415] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742415] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=491)
+[1636742416] Nagios 4.4.6 starting... (PID=514)
+[1636742416] Local time is Fri Nov 12 18:40:16 UTC 2021
+[1636742416] LOG VERSION: 2.0
+[1636742416] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742416] qh: core query handler registered
+[1636742416] qh: echo service query handler registered
+[1636742416] qh: help for the query handler registered
+[1636742416] wproc: Successfully registered manager as @wproc with query handler
+[1636742416] wproc: Registry request: name=Core Worker 518;pid=518
+[1636742416] wproc: Registry request: name=Core Worker 519;pid=519
+[1636742416] wproc: Registry request: name=Core Worker 520;pid=520
+[1636742416] wproc: Registry request: name=Core Worker 521;pid=521
+[1636742416] wproc: Registry request: name=Core Worker 522;pid=522
+[1636742416] wproc: Registry request: name=Core Worker 523;pid=523
+[1636742416] wproc: Registry request: name=Core Worker 524;pid=524
+[1636742416] wproc: Registry request: name=Core Worker 526;pid=526
+[1636742416] wproc: Registry request: name=Core Worker 525;pid=525
+[1636742416] wproc: Registry request: name=Core Worker 528;pid=528
+[1636742416] wproc: Registry request: name=Core Worker 529;pid=529
+[1636742416] wproc: Registry request: name=Core Worker 527;pid=527
+[1636742416] wproc: Registry request: name=Core Worker 530;pid=530
+[1636742416] wproc: Registry request: name=Core Worker 531;pid=531
+[1636742416] wproc: Registry request: name=Core Worker 533;pid=533
+[1636742416] wproc: Registry request: name=Core Worker 535;pid=535
+[1636742416] wproc: Registry request: name=Core Worker 532;pid=532
+[1636742416] wproc: Registry request: name=Core Worker 534;pid=534
+[1636742416] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742416] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742416] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742416] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=514)
+[1636742417] Nagios 4.4.6 starting... (PID=537)
+[1636742417] Local time is Fri Nov 12 18:40:17 UTC 2021
+[1636742417] LOG VERSION: 2.0
+[1636742417] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742417] qh: core query handler registered
+[1636742417] qh: echo service query handler registered
+[1636742417] qh: help for the query handler registered
+[1636742417] wproc: Successfully registered manager as @wproc with query handler
+[1636742417] wproc: Registry request: name=Core Worker 541;pid=541
+[1636742417] wproc: Registry request: name=Core Worker 543;pid=543
+[1636742417] wproc: Registry request: name=Core Worker 542;pid=542
+[1636742417] wproc: Registry request: name=Core Worker 544;pid=544
+[1636742417] wproc: Registry request: name=Core Worker 546;pid=546
+[1636742417] wproc: Registry request: name=Core Worker 547;pid=547
+[1636742417] wproc: Registry request: name=Core Worker 545;pid=545
+[1636742417] wproc: Registry request: name=Core Worker 548;pid=548
+[1636742417] wproc: Registry request: name=Core Worker 549;pid=549
+[1636742417] wproc: Registry request: name=Core Worker 550;pid=550
+[1636742417] wproc: Registry request: name=Core Worker 551;pid=551
+[1636742417] wproc: Registry request: name=Core Worker 552;pid=552
+[1636742417] wproc: Registry request: name=Core Worker 553;pid=553
+[1636742417] wproc: Registry request: name=Core Worker 554;pid=554
+[1636742417] wproc: Registry request: name=Core Worker 555;pid=555
+[1636742417] wproc: Registry request: name=Core Worker 557;pid=557
+[1636742417] wproc: Registry request: name=Core Worker 556;pid=556
+[1636742417] wproc: Registry request: name=Core Worker 558;pid=558
+[1636742417] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742417] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742417] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742417] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=537)
+[1636742418] Nagios 4.4.6 starting... (PID=560)
+[1636742418] Local time is Fri Nov 12 18:40:18 UTC 2021
+[1636742418] LOG VERSION: 2.0
+[1636742418] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742418] qh: core query handler registered
+[1636742418] qh: echo service query handler registered
+[1636742418] qh: help for the query handler registered
+[1636742418] wproc: Successfully registered manager as @wproc with query handler
+[1636742418] wproc: Registry request: name=Core Worker 564;pid=564
+[1636742418] wproc: Registry request: name=Core Worker 565;pid=565
+[1636742418] wproc: Registry request: name=Core Worker 568;pid=568
+[1636742418] wproc: Registry request: name=Core Worker 566;pid=566
+[1636742418] wproc: Registry request: name=Core Worker 570;pid=570
+[1636742418] wproc: Registry request: name=Core Worker 567;pid=567
+[1636742418] wproc: Registry request: name=Core Worker 571;pid=571
+[1636742418] wproc: Registry request: name=Core Worker 569;pid=569
+[1636742418] wproc: Registry request: name=Core Worker 572;pid=572
+[1636742418] wproc: Registry request: name=Core Worker 573;pid=573
+[1636742418] wproc: Registry request: name=Core Worker 575;pid=575
+[1636742418] wproc: Registry request: name=Core Worker 576;pid=576
+[1636742418] wproc: Registry request: name=Core Worker 574;pid=574
+[1636742418] wproc: Registry request: name=Core Worker 577;pid=577
+[1636742418] wproc: Registry request: name=Core Worker 579;pid=579
+[1636742418] wproc: Registry request: name=Core Worker 580;pid=580
+[1636742418] wproc: Registry request: name=Core Worker 581;pid=581
+[1636742418] wproc: Registry request: name=Core Worker 578;pid=578
+[1636742418] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742418] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742418] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742418] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=560)
+[1636742419] Nagios 4.4.6 starting... (PID=583)
+[1636742419] Local time is Fri Nov 12 18:40:19 UTC 2021
+[1636742419] LOG VERSION: 2.0
+[1636742419] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742419] qh: core query handler registered
+[1636742419] qh: echo service query handler registered
+[1636742419] qh: help for the query handler registered
+[1636742419] wproc: Successfully registered manager as @wproc with query handler
+[1636742419] wproc: Registry request: name=Core Worker 587;pid=587
+[1636742419] wproc: Registry request: name=Core Worker 588;pid=588
+[1636742419] wproc: Registry request: name=Core Worker 589;pid=589
+[1636742419] wproc: Registry request: name=Core Worker 593;pid=593
+[1636742419] wproc: Registry request: name=Core Worker 592;pid=592
+[1636742419] wproc: Registry request: name=Core Worker 591;pid=591
+[1636742419] wproc: Registry request: name=Core Worker 594;pid=594
+[1636742419] wproc: Registry request: name=Core Worker 590;pid=590
+[1636742419] wproc: Registry request: name=Core Worker 595;pid=595
+[1636742419] wproc: Registry request: name=Core Worker 596;pid=596
+[1636742419] wproc: Registry request: name=Core Worker 598;pid=598
+[1636742419] wproc: Registry request: name=Core Worker 597;pid=597
+[1636742419] wproc: Registry request: name=Core Worker 599;pid=599
+[1636742419] wproc: Registry request: name=Core Worker 601;pid=601
+[1636742419] wproc: Registry request: name=Core Worker 600;pid=600
+[1636742419] wproc: Registry request: name=Core Worker 602;pid=602
+[1636742419] wproc: Registry request: name=Core Worker 603;pid=603
+[1636742419] wproc: Registry request: name=Core Worker 604;pid=604
+[1636742419] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742419] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742419] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742419] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=583)
+[1636742420] Nagios 4.4.6 starting... (PID=606)
+[1636742420] Local time is Fri Nov 12 18:40:20 UTC 2021
+[1636742420] LOG VERSION: 2.0
+[1636742420] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742420] qh: core query handler registered
+[1636742420] qh: echo service query handler registered
+[1636742420] qh: help for the query handler registered
+[1636742420] wproc: Successfully registered manager as @wproc with query handler
+[1636742420] wproc: Registry request: name=Core Worker 611;pid=611
+[1636742420] wproc: Registry request: name=Core Worker 610;pid=610
+[1636742420] wproc: Registry request: name=Core Worker 614;pid=614
+[1636742420] wproc: Registry request: name=Core Worker 613;pid=613
+[1636742420] wproc: Registry request: name=Core Worker 612;pid=612
+[1636742420] wproc: Registry request: name=Core Worker 616;pid=616
+[1636742420] wproc: Registry request: name=Core Worker 615;pid=615
+[1636742420] wproc: Registry request: name=Core Worker 619;pid=619
+[1636742420] wproc: Registry request: name=Core Worker 617;pid=617
+[1636742420] wproc: Registry request: name=Core Worker 618;pid=618
+[1636742420] wproc: Registry request: name=Core Worker 622;pid=622
+[1636742420] wproc: Registry request: name=Core Worker 620;pid=620
+[1636742420] wproc: Registry request: name=Core Worker 621;pid=621
+[1636742420] wproc: Registry request: name=Core Worker 623;pid=623
+[1636742420] wproc: Registry request: name=Core Worker 626;pid=626
+[1636742420] wproc: Registry request: name=Core Worker 625;pid=625
+[1636742420] wproc: Registry request: name=Core Worker 624;pid=624
+[1636742420] wproc: Registry request: name=Core Worker 627;pid=627
+[1636742420] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742420] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742420] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742420] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=606)
+[1636742421] Nagios 4.4.6 starting... (PID=629)
+[1636742421] Local time is Fri Nov 12 18:40:21 UTC 2021
+[1636742421] LOG VERSION: 2.0
+[1636742421] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742421] qh: core query handler registered
+[1636742421] qh: echo service query handler registered
+[1636742421] qh: help for the query handler registered
+[1636742421] wproc: Successfully registered manager as @wproc with query handler
+[1636742421] wproc: Registry request: name=Core Worker 634;pid=634
+[1636742421] wproc: Registry request: name=Core Worker 633;pid=633
+[1636742421] wproc: Registry request: name=Core Worker 636;pid=636
+[1636742421] wproc: Registry request: name=Core Worker 635;pid=635
+[1636742421] wproc: Registry request: name=Core Worker 637;pid=637
+[1636742421] wproc: Registry request: name=Core Worker 638;pid=638
+[1636742421] wproc: Registry request: name=Core Worker 639;pid=639
+[1636742421] wproc: Registry request: name=Core Worker 640;pid=640
+[1636742421] wproc: Registry request: name=Core Worker 641;pid=641
+[1636742421] wproc: Registry request: name=Core Worker 643;pid=643
+[1636742421] wproc: Registry request: name=Core Worker 642;pid=642
+[1636742421] wproc: Registry request: name=Core Worker 644;pid=644
+[1636742421] wproc: Registry request: name=Core Worker 645;pid=645
+[1636742421] wproc: Registry request: name=Core Worker 646;pid=646
+[1636742421] wproc: Registry request: name=Core Worker 647;pid=647
+[1636742421] wproc: Registry request: name=Core Worker 649;pid=649
+[1636742421] wproc: Registry request: name=Core Worker 650;pid=650
+[1636742421] wproc: Registry request: name=Core Worker 648;pid=648
+[1636742421] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742421] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742421] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742421] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=629)
+[1636742422] Nagios 4.4.6 starting... (PID=652)
+[1636742422] Local time is Fri Nov 12 18:40:22 UTC 2021
+[1636742422] LOG VERSION: 2.0
+[1636742422] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742422] qh: core query handler registered
+[1636742422] qh: echo service query handler registered
+[1636742422] qh: help for the query handler registered
+[1636742422] wproc: Successfully registered manager as @wproc with query handler
+[1636742422] wproc: Registry request: name=Core Worker 656;pid=656
+[1636742422] wproc: Registry request: name=Core Worker 657;pid=657
+[1636742422] wproc: Registry request: name=Core Worker 658;pid=658
+[1636742422] wproc: Registry request: name=Core Worker 660;pid=660
+[1636742422] wproc: Registry request: name=Core Worker 659;pid=659
+[1636742422] wproc: Registry request: name=Core Worker 661;pid=661
+[1636742422] wproc: Registry request: name=Core Worker 662;pid=662
+[1636742422] wproc: Registry request: name=Core Worker 664;pid=664
+[1636742422] wproc: Registry request: name=Core Worker 663;pid=663
+[1636742422] wproc: Registry request: name=Core Worker 665;pid=665
+[1636742422] wproc: Registry request: name=Core Worker 666;pid=666
+[1636742422] wproc: Registry request: name=Core Worker 667;pid=667
+[1636742422] wproc: Registry request: name=Core Worker 669;pid=669
+[1636742422] wproc: Registry request: name=Core Worker 668;pid=668
+[1636742422] wproc: Registry request: name=Core Worker 671;pid=671
+[1636742422] wproc: Registry request: name=Core Worker 670;pid=670
+[1636742422] wproc: Registry request: name=Core Worker 672;pid=672
+[1636742422] wproc: Registry request: name=Core Worker 673;pid=673
+[1636742422] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742422] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742422] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742422] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=652)
+[1636742423] Nagios 4.4.6 starting... (PID=675)
+[1636742423] Local time is Fri Nov 12 18:40:23 UTC 2021
+[1636742423] LOG VERSION: 2.0
+[1636742423] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742423] qh: core query handler registered
+[1636742423] qh: echo service query handler registered
+[1636742423] qh: help for the query handler registered
+[1636742423] wproc: Successfully registered manager as @wproc with query handler
+[1636742423] wproc: Registry request: name=Core Worker 680;pid=680
+[1636742423] wproc: Registry request: name=Core Worker 683;pid=683
+[1636742423] wproc: Registry request: name=Core Worker 679;pid=679
+[1636742423] wproc: Registry request: name=Core Worker 681;pid=681
+[1636742423] wproc: Registry request: name=Core Worker 684;pid=684
+[1636742423] wproc: Registry request: name=Core Worker 682;pid=682
+[1636742423] wproc: Registry request: name=Core Worker 687;pid=687
+[1636742423] wproc: Registry request: name=Core Worker 685;pid=685
+[1636742423] wproc: Registry request: name=Core Worker 689;pid=689
+[1636742423] wproc: Registry request: name=Core Worker 688;pid=688
+[1636742423] wproc: Registry request: name=Core Worker 686;pid=686
+[1636742423] wproc: Registry request: name=Core Worker 692;pid=692
+[1636742423] wproc: Registry request: name=Core Worker 690;pid=690
+[1636742423] wproc: Registry request: name=Core Worker 695;pid=695
+[1636742423] wproc: Registry request: name=Core Worker 693;pid=693
+[1636742423] wproc: Registry request: name=Core Worker 691;pid=691
+[1636742423] wproc: Registry request: name=Core Worker 696;pid=696
+[1636742423] wproc: Registry request: name=Core Worker 694;pid=694
+[1636742423] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742423] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742423] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742423] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=675)
+[1636742424] Nagios 4.4.6 starting... (PID=698)
+[1636742424] Local time is Fri Nov 12 18:40:24 UTC 2021
+[1636742424] LOG VERSION: 2.0
+[1636742424] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742424] qh: core query handler registered
+[1636742424] qh: echo service query handler registered
+[1636742424] qh: help for the query handler registered
+[1636742424] wproc: Successfully registered manager as @wproc with query handler
+[1636742424] wproc: Registry request: name=Core Worker 704;pid=704
+[1636742424] wproc: Registry request: name=Core Worker 703;pid=703
+[1636742424] wproc: Registry request: name=Core Worker 705;pid=705
+[1636742424] wproc: Registry request: name=Core Worker 702;pid=702
+[1636742424] wproc: Registry request: name=Core Worker 706;pid=706
+[1636742424] wproc: Registry request: name=Core Worker 708;pid=708
+[1636742424] wproc: Registry request: name=Core Worker 709;pid=709
+[1636742424] wproc: Registry request: name=Core Worker 707;pid=707
+[1636742424] wproc: Registry request: name=Core Worker 712;pid=712
+[1636742424] wproc: Registry request: name=Core Worker 710;pid=710
+[1636742424] wproc: Registry request: name=Core Worker 711;pid=711
+[1636742424] wproc: Registry request: name=Core Worker 715;pid=715
+[1636742424] wproc: Registry request: name=Core Worker 713;pid=713
+[1636742424] wproc: Registry request: name=Core Worker 714;pid=714
+[1636742424] wproc: Registry request: name=Core Worker 716;pid=716
+[1636742424] wproc: Registry request: name=Core Worker 717;pid=717
+[1636742424] wproc: Registry request: name=Core Worker 718;pid=718
+[1636742424] wproc: Registry request: name=Core Worker 719;pid=719
+[1636742424] Error: Unexpected token or statement in file '/opt/nagios/etc/objects/kifarunix-demo/hosts.cfg' on line 13.
+[1636742424] Error: Invalid max_check_attempts value for host 'localhost'
+[1636742424] Error: Could not register host (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 24)
+[1636742424] Bailing out due to one or more errors encountered in the configuration files. Run Nagios from the command line with the -v option to verify your config before restarting. (PID=698)
+[1636742425] Nagios 4.4.6 starting... (PID=721)
+[1636742425] Local time is Fri Nov 12 18:40:25 UTC 2021
+[1636742425] LOG VERSION: 2.0
+[1636742425] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742425] qh: core query handler registered
+[1636742425] qh: echo service query handler registered
+[1636742425] qh: help for the query handler registered
+[1636742425] wproc: Successfully registered manager as @wproc with query handler
+[1636742425] wproc: Registry request: name=Core Worker 725;pid=725
+[1636742425] wproc: Registry request: name=Core Worker 726;pid=726
+[1636742425] wproc: Registry request: name=Core Worker 727;pid=727
+[1636742425] wproc: Registry request: name=Core Worker 728;pid=728
+[1636742425] wproc: Registry request: name=Core Worker 729;pid=729
+[1636742425] wproc: Registry request: name=Core Worker 732;pid=732
+[1636742425] wproc: Registry request: name=Core Worker 731;pid=731
+[1636742425] wproc: Registry request: name=Core Worker 730;pid=730
+[1636742425] wproc: Registry request: name=Core Worker 733;pid=733
+[1636742425] wproc: Registry request: name=Core Worker 734;pid=734
+[1636742425] wproc: Registry request: name=Core Worker 735;pid=735
+[1636742425] wproc: Registry request: name=Core Worker 736;pid=736
+[1636742425] wproc: Registry request: name=Core Worker 737;pid=737
+[1636742425] wproc: Registry request: name=Core Worker 738;pid=738
+[1636742425] wproc: Registry request: name=Core Worker 739;pid=739
+[1636742425] wproc: Registry request: name=Core Worker 740;pid=740
+[1636742425] wproc: Registry request: name=Core Worker 741;pid=741
+[1636742425] wproc: Registry request: name=Core Worker 742;pid=742
+[1636742425] Successfully launched command file worker with pid 743
+[1636742550] SERVICE ALERT: rubem.local;Current Users;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742610] SERVICE ALERT: rubem.local;Current Users;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742625] SERVICE ALERT: rubem.local;Root / Partition;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742660] Caught SIGTERM, shutting down...
+[1636742660] Successfully shutdown... (PID=721)
+[1636742663] Nagios 4.4.6 starting... (PID=19)
+[1636742663] Local time is Fri Nov 12 18:44:23 UTC 2021
+[1636742663] LOG VERSION: 2.0
+[1636742663] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636742663] qh: core query handler registered
+[1636742663] qh: echo service query handler registered
+[1636742663] qh: help for the query handler registered
+[1636742663] wproc: Successfully registered manager as @wproc with query handler
+[1636742663] wproc: Registry request: name=Core Worker 30;pid=30
+[1636742663] wproc: Registry request: name=Core Worker 32;pid=32
+[1636742663] wproc: Registry request: name=Core Worker 34;pid=34
+[1636742663] wproc: Registry request: name=Core Worker 35;pid=35
+[1636742663] wproc: Registry request: name=Core Worker 33;pid=33
+[1636742663] wproc: Registry request: name=Core Worker 31;pid=31
+[1636742663] wproc: Registry request: name=Core Worker 36;pid=36
+[1636742663] wproc: Registry request: name=Core Worker 37;pid=37
+[1636742663] wproc: Registry request: name=Core Worker 38;pid=38
+[1636742663] wproc: Registry request: name=Core Worker 39;pid=39
+[1636742663] wproc: Registry request: name=Core Worker 41;pid=41
+[1636742663] wproc: Registry request: name=Core Worker 43;pid=43
+[1636742663] wproc: Registry request: name=Core Worker 40;pid=40
+[1636742663] wproc: Registry request: name=Core Worker 45;pid=45
+[1636742663] wproc: Registry request: name=Core Worker 46;pid=46
+[1636742663] wproc: Registry request: name=Core Worker 44;pid=44
+[1636742663] wproc: Registry request: name=Core Worker 47;pid=47
+[1636742663] wproc: Registry request: name=Core Worker 42;pid=42
+[1636742663] Warning: Duplicate definition found for service 'HTTP' on host 'localhost' (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 136)
+[1636742663] Warning: Duplicate definition found for service 'PING' on host 'localhost' (config file '/opt/nagios/etc/objects/localhost.cfg', starting on line 64)
+[1636742663] Successfully launched command file worker with pid 48
+[1636742670] SERVICE ALERT: rubem.local;Current Users;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742685] SERVICE ALERT: rubem.local;Root / Partition;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742700] SERVICE ALERT: rubem.local;SWAP Uasge;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742725] SERVICE ALERT: rubem.local;Total Processes;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742725] SERVICE ALERT: rubem.local;Current Load;CRITICAL;SOFT;1;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742730] SERVICE NOTIFICATION: nagiosadmin;rubem.local;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742730] SERVICE ALERT: rubem.local;Current Users;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742745] SERVICE ALERT: rubem.local;Root / Partition;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742760] SERVICE ALERT: rubem.local;SWAP Uasge;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742785] SERVICE ALERT: rubem.local;Total Processes;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742785] SERVICE ALERT: rubem.local;Current Load;CRITICAL;SOFT;2;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742805] SERVICE NOTIFICATION: nagiosadmin;rubem.local;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742805] SERVICE ALERT: rubem.local;Root / Partition;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742820] SERVICE ALERT: rubem.local;SWAP Uasge;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742845] SERVICE ALERT: rubem.local;Total Processes;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742845] SERVICE ALERT: rubem.local;Current Load;CRITICAL;SOFT;3;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742880] SERVICE NOTIFICATION: nagiosadmin;rubem.local;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742880] SERVICE ALERT: rubem.local;SWAP Uasge;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742905] SERVICE NOTIFICATION: nagiosadmin;rubem.local;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742905] SERVICE ALERT: rubem.local;Total Processes;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742905] SERVICE NOTIFICATION: nagiosadmin;rubem.local;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636742905] SERVICE ALERT: rubem.local;Current Load;CRITICAL;HARD;4;CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer
+[1636743105] SERVICE NOTIFICATION: nagiosadmin;rubem.local;Root / Partition;OK;notify-service-by-email;DISK OK - free space: / 91207 MB (36% inode=96%):
+[1636743105] SERVICE ALERT: rubem.local;Root / Partition;OK;HARD;4;DISK OK - free space: / 91207 MB (36% inode=96%):
+[1636743180] SERVICE NOTIFICATION: nagiosadmin;rubem.local;SWAP Uasge;OK;notify-service-by-email;SWAP OK - 100% free (41128 MB out of 41128 MB)
+[1636743180] SERVICE ALERT: rubem.local;SWAP Uasge;OK;HARD;4;SWAP OK - 100% free (41128 MB out of 41128 MB)
+[1636743205] SERVICE NOTIFICATION: nagiosadmin;rubem.local;Current Load;OK;notify-service-by-email;OK - load average: 0.57, 0.71, 0.85
+[1636743205] SERVICE ALERT: rubem.local;Current Load;OK;HARD;4;OK - load average: 0.57, 0.71, 0.85
+[1636743224] Caught SIGTERM, shutting down...
+[1636743224] Successfully shutdown... (PID=19)
+[1636743228] Nagios 4.4.6 starting... (PID=16)
+[1636743228] Local time is Fri Nov 12 18:53:48 UTC 2021
+[1636743228] LOG VERSION: 2.0
+[1636743228] qh: Socket '/opt/nagios/var/rw/nagios.qh' successfully initialized
+[1636743228] qh: core query handler registered
+[1636743228] qh: echo service query handler registered
+[1636743228] qh: help for the query handler registered
+[1636743228] wproc: Successfully registered manager as @wproc with query handler
+[1636743228] wproc: Registry request: name=Core Worker 30;pid=30
+[1636743228] wproc: Registry request: name=Core Worker 31;pid=31
+[1636743228] wproc: Registry request: name=Core Worker 32;pid=32
+[1636743228] wproc: Registry request: name=Core Worker 33;pid=33
+[1636743228] wproc: Registry request: name=Core Worker 34;pid=34
+[1636743228] wproc: Registry request: name=Core Worker 35;pid=35
+[1636743228] wproc: Registry request: name=Core Worker 36;pid=36
+[1636743228] wproc: Registry request: name=Core Worker 37;pid=37
+[1636743228] wproc: Registry request: name=Core Worker 38;pid=38
+[1636743228] wproc: Registry request: name=Core Worker 39;pid=39
+[1636743228] wproc: Registry request: name=Core Worker 40;pid=40
+[1636743228] wproc: Registry request: name=Core Worker 41;pid=41
+[1636743228] wproc: Registry request: name=Core Worker 42;pid=42
+[1636743228] wproc: Registry request: name=Core Worker 43;pid=43
+[1636743228] wproc: Registry request: name=Core Worker 44;pid=44
+[1636743228] wproc: Registry request: name=Core Worker 45;pid=45
+[1636743228] wproc: Registry request: name=Core Worker 46;pid=46
+[1636743228] wproc: Registry request: name=Core Worker 47;pid=47
+[1636743228] Successfully launched command file worker with pid 48
+[1636743292] SERVICE ALERT: rubem.local;HTTP;CRITICAL;SOFT;1;connect to address 10.0.0.194 and port 80: Connection refused
+[1636743330] SERVICE NOTIFICATION: nagiosadmin;rubem.local;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1636743330] SERVICE ALERT: rubem.local;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1636743352] SERVICE ALERT: rubem.local;HTTP;CRITICAL;SOFT;2;connect to address 10.0.0.194 and port 80: Connection refused
+[1636743412] SERVICE ALERT: rubem.local;HTTP;CRITICAL;SOFT;3;connect to address 10.0.0.194 and port 80: Connection refused
+[1636743436] Caught SIGTERM, shutting down...
+[1636743436] Successfully shutdown... (PID=16)

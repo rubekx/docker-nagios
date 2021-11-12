@@ -1,0 +1,99 @@
+1636740214||localhost||Current Load||OK - load average: 0.81, 0.92, 0.94||load1=0.810;5.000;10.000;0; load5=0.920;4.000;6.000;0; load15=0.940;3.000;4.000;0;
+1636740257||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636740300||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000475s;;;0.000000 size=695B;;;0
+1636740343||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.046000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636740386||localhost||Root Partition||DISK OK - free space: / 91291 MiB (36.10% inode=96%):||/=161547MiB;213156;239800;0;266445
+1636740422||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000374s;;;0.000000 size=695B;;;0
+1636740429||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636740472||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636740482||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000338s;;;0.000000 size=695B;;;0
+1636740514||localhost||Current Load||OK - load average: 1.12, 1.03, 0.98||load1=1.120;5.000;10.000;0; load5=1.030;4.000;6.000;0; load15=0.980;3.000;4.000;0;
+1636740542||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000423s;;;0.000000 size=695B;;;0
+1636740557||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636740643||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.043000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636740686||localhost||Root Partition||DISK OK - free space: / 91273 MiB (36.09% inode=96%):||/=161565MiB;213156;239800;0;266445
+1636740729||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636740772||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636740814||localhost||Current Load||OK - load average: 0.55, 0.69, 0.84||load1=0.550;5.000;10.000;0; load5=0.690;4.000;6.000;0; load15=0.840;3.000;4.000;0;
+1636740842||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000254s;;;0.000000 size=695B;;;0
+1636740857||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636740943||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.041000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636740986||localhost||Root Partition||DISK OK - free space: / 91226 MiB (36.08% inode=96%):||/=161613MiB;213156;239800;0;266445
+1636741029||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636741072||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636741114||localhost||Current Load||OK - load average: 0.67, 0.76, 0.83||load1=0.670;5.000;10.000;0; load5=0.760;4.000;6.000;0; load15=0.830;3.000;4.000;0;
+1636741142||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000331s;;;0.000000 size=695B;;;0
+1636741157||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636741243||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.044000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636741286||localhost||Root Partition||DISK OK - free space: / 91192 MiB (36.06% inode=96%):||/=161646MiB;213156;239800;0;266445
+1636741329||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636741372||localhost||Total Processes||PROCS OK: 35 processes with STATE = RSZDT||procs=35;250;400;0;
+1636741414||localhost||Current Load||OK - load average: 0.89, 0.84, 0.84||load1=0.890;5.000;10.000;0; load5=0.840;4.000;6.000;0; load15=0.840;3.000;4.000;0;
+1636741543||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.044000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636741554||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636741586||localhost||Root Partition||DISK OK - free space: / 91191 MiB (36.06% inode=96%):||/=161647MiB;213156;239800;0;266445
+1636741629||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636741640||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000381s;;;0.000000 size=695B;;;0
+1636741672||localhost||Total Processes||PROCS OK: 32 processes with STATE = RSZDT||procs=32;250;400;0;
+1636741714||localhost||Current Load||OK - load average: 0.60, 0.78, 0.82||load1=0.600;5.000;10.000;0; load5=0.780;4.000;6.000;0; load15=0.820;3.000;4.000;0;
+1636741843||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.037000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636741854||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636741886||localhost||Root Partition||DISK OK - free space: / 91206 MiB (36.07% inode=96%):||/=161633MiB;213156;239800;0;266445
+1636741929||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636741940||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000341s;;;0.000000 size=695B;;;0
+1636741972||localhost||Total Processes||PROCS OK: 33 processes with STATE = RSZDT||procs=33;250;400;0;
+1636742014||localhost||Current Load||OK - load average: 1.45, 1.14, 0.97||load1=1.450;5.000;10.000;0; load5=1.140;4.000;6.000;0; load15=0.970;3.000;4.000;0;
+1636742500||localhost||Current Load||OK - load average: 1.51, 1.24, 1.05||load1=1.510;5.000;10.000;0; load5=1.240;4.000;6.000;0; load15=1.050;3.000;4.000;0;
+1636742525||localhost||Root Partition||DISK OK - free space: / 91202 MiB (36.07% inode=96%):||/=161636MiB;213156;239800;0;266445
+1636742550||rubem.local||Current Users||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742575||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636742600||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636742610||rubem.local||Current Users||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742625||rubem.local||Root / Partition||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742650||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000295s;;;0.000000 size=695B;;;0
+1636742670||rubem.local||Current Users||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742675||localhost||Total Processes||PROCS OK: 30 processes with STATE = RSZDT||procs=30;250;400;0;
+1636742685||rubem.local||Root / Partition||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742700||rubem.local||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742725||rubem.local||Total Processes||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742725||rubem.local||Current Load||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742725||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.045000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636742730||rubem.local||Current Users||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742745||rubem.local||Root / Partition||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742760||rubem.local||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742785||rubem.local||Total Processes||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742785||rubem.local||Current Load||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742800||localhost||Current Load||OK - load average: 0.63, 0.88, 0.95||load1=0.630;5.000;10.000;0; load5=0.880;4.000;6.000;0; load15=0.950;3.000;4.000;0;
+1636742805||rubem.local||Root / Partition||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742820||rubem.local||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742825||localhost||Root Partition||DISK OK - free space: / 91212 MiB (36.07% inode=96%):||/=161627MiB;213156;239800;0;266445
+1636742845||rubem.local||Total Processes||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742845||rubem.local||Current Load||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742875||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636742880||rubem.local||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742900||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636742905||rubem.local||Total Processes||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742905||rubem.local||Current Load||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636742950||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000282s;;;0.000000 size=695B;;;0
+1636742975||localhost||Total Processes||PROCS OK: 34 processes with STATE = RSZDT||procs=34;250;400;0;
+1636743025||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.04 ms||rta=0.036000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636743030||rubem.local||Current Users||CHECK_NRPE: Error - Could not connect to 10.0.0.194: Connection reset by peer||
+1636743100||localhost||Current Load||OK - load average: 0.87, 0.83, 0.90||load1=0.870;5.000;10.000;0; load5=0.830;4.000;6.000;0; load15=0.900;3.000;4.000;0;
+1636743105||rubem.local||Root / Partition||DISK OK - free space: / 91207 MB (36% inode=96%):||/=161631MB;213156;239800;0;266445
+1636743125||localhost||Root Partition||DISK OK - free space: / 91204 MiB (36.07% inode=96%):||/=161634MiB;213156;239800;0;266445
+1636743175||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1636743180||rubem.local||SWAP Uasge||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;8225;4112;0;41128
+1636743200||localhost||Swap Usage||SWAP OK - 100% free (41128 MB out of 41128 MB)||swap=41128MB;0;0;0;41128
+1636743205||rubem.local||Current Load||OK - load average: 0.57, 0.71, 0.85||load1=0.570;15.000;30.000;0; load5=0.710;10.000;25.000;0; load15=0.850;5.000;20.000;0;
+1636743205||rubem.local||Total Processes||PROCS CRITICAL: 452 processes||procs=452;150;200;0;
+1636743250||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000387s;;;0.000000 size=695B;;;0
+1636743275||localhost||Total Processes||PROCS OK: 30 processes with STATE = RSZDT||procs=30;250;400;0;
+1636743292||rubem.local||HTTP||connect to address 10.0.0.194 and port 80: Connection refused||
+1636743325||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.079000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636743330||rubem.local||Current Users||USERS OK - 1 users currently logged in||users=1;5;10;0
+1636743352||rubem.local||HTTP||connect to address 10.0.0.194 and port 80: Connection refused||
+1636743356||rubem.local||PING||PING OK - Packet loss = 0%, RTA = 0.05 ms||rta=0.055000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1636743400||localhost||Current Load||OK - load average: 0.96, 0.91, 0.90||load1=0.960;5.000;10.000;0; load5=0.910;4.000;6.000;0; load15=0.900;3.000;4.000;0;
+1636743405||rubem.local||Root / Partition||DISK OK - free space: / 91193 MB (36% inode=96%):||/=161646MB;213156;239800;0;266445
+1636743412||rubem.local||HTTP||connect to address 10.0.0.194 and port 80: Connection refused||
+1636743425||localhost||Root Partition||DISK OK - free space: / 91191 MiB (36.06% inode=96%):||/=161647MiB;213156;239800;0;266445
