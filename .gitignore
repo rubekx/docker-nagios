@@ -2,6 +2,3 @@
 nagios/nagiosvar
 nagios/nagiosgraphvar
 nagios/nagiosgraphetc
-nagios/nagiosvar/nagios.debug
-nagios/nagiosvar/perfdata.log
-nagios/nagiosvar/status.dat
