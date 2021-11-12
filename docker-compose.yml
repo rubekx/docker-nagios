@@ -1,10 +1,9 @@
 version: '3'
 services:
   nagios:    
-    env_file: 
-      - .env
+    env_file: .env
     image: jasonrivers/nagios:latest
-    container_name: ${MYSQL_CONTAINER_NAME}
+    container_name: ${APP_CONTAINER_NAME}
     volumes:
       - ./nagios/nagiosetc:/opt/nagios/etc
       - ./nagios/nagiosvar:/opt/nagios/var
@@ -13,9 +12,6 @@ services:
       - ./nagios/nagiosgraphetc:/opt/nagiosgraph/etc
     ports:
       - ${APP_PORT}:80
-    environment:
-      - NAGIOS_TIMEZONE=America/Fortaleza
-      - COMPOSE_PROJECT_NAME=nagios
     networks:      
       rede:
         ipv4_address: 172.33.0.2
