@@ -1,2 +1,672 @@
 1637070426||localhost||Current Load||OK - load average: 0.17, 0.16, 0.15||load1=0.170;5.000;10.000;0; load5=0.160;4.000;6.000;0; load15=0.150;3.000;4.000;0;
 1637070469||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637070726||localhost||Current Load||OK - load average: 0.12, 0.13, 0.14||load1=0.120;5.000;10.000;0; load5=0.130;4.000;6.000;0; load15=0.140;3.000;4.000;0;
+1637070747||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000468s;;;0.000000 size=695B;;;0
+1637070769||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637070790||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.076000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637070807||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000696s;;;0.000000 size=695B;;;0
+1637070833||localhost||Root Partition||DISK OK - free space: / 13819 MiB (26.09% inode=89%):||/=39145MiB;44659;50241;0;55824
+1637070867||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.000 second response time||time=0.000486s;;;0.000000 size=695B;;;0
+1637070876||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637071026||localhost||Current Load||OK - load average: 0.06, 0.06, 0.10||load1=0.060;5.000;10.000;0; load5=0.060;4.000;6.000;0; load15=0.100;3.000;4.000;0;
+1637071058||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000710s;;;0.000000 size=695B;;;0
+1637071069||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637071080||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071090||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.06 ms||rta=0.065000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637071101||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637071123||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071133||localhost||Root Partition||DISK OK - free space: / 13818 MiB (26.09% inode=89%):||/=39146MiB;44659;50241;0;55824
+1637071140||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071144||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071176||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637071183||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071187||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071200||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071204||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071230||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001282s;;;0.000000 size=335B;;;0
+1637071243||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071247||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071260||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071264||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071273||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.09 ms||rta=0.093000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637071303||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071307||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071316||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071324||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071326||localhost||Current Load||OK - load average: 0.15, 0.09, 0.09||load1=0.150;5.000;10.000;0; load5=0.090;4.000;6.000;0; load15=0.090;3.000;4.000;0;
+1637071358||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000662s;;;0.000000 size=695B;;;0
+1637071367||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071369||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637071376||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071390||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.072000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637071401||localhost||Total Processes||PROCS OK: 19 processes with STATE = RSZDT||procs=19;250;400;0;
+1637071433||localhost||Root Partition||DISK OK - free space: / 13818 MiB (26.09% inode=89%):||/=39147MiB;44659;50241;0;55824
+1637071436||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071476||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637071496||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071530||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.002 second response time||time=0.002292s;;;0.000000 size=335B;;;0
+1637071560||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071573||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.107000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637071603||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071624||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071626||localhost||Current Load||OK - load average: 0.02, 0.08, 0.08||load1=0.020;5.000;10.000;0; load5=0.080;4.000;6.000;0; load15=0.080;3.000;4.000;0;
+1637071658||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000995s;;;0.000000 size=695B;;;0
+1637071667||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071669||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637071690||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.09 ms||rta=0.089000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637071701||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637071733||localhost||Root Partition||DISK OK - free space: / 13818 MiB (26.08% inode=89%):||/=39147MiB;44659;50241;0;55824
+1637071776||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637071796||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071830||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.002 second response time||time=0.001915s;;;0.000000 size=335B;;;0
+1637071860||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071873||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.084000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637071903||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071924||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071926||localhost||Current Load||OK - load average: 0.15, 0.09, 0.08||load1=0.150;5.000;10.000;0; load5=0.090;4.000;6.000;0; load15=0.080;3.000;4.000;0;
+1637071958||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000747s;;;0.000000 size=695B;;;0
+1637071967||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637071969||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637071990||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.069000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637072001||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637072033||localhost||Root Partition||DISK OK - free space: / 13785 MiB (26.02% inode=89%):||/=39180MiB;44659;50241;0;55824
+1637072076||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637072096||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072130||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001457s;;;0.000000 size=335B;;;0
+1637072160||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072173||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.12 ms||rta=0.118000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637072203||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072224||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072226||localhost||Current Load||OK - load average: 0.06, 0.05, 0.06||load1=0.060;5.000;10.000;0; load5=0.050;4.000;6.000;0; load15=0.060;3.000;4.000;0;
+1637072258||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000764s;;;0.000000 size=695B;;;0
+1637072267||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072269||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637072290||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.076000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637072301||localhost||Total Processes||PROCS OK: 15 processes with STATE = RSZDT||procs=15;250;400;0;
+1637072333||localhost||Root Partition||DISK OK - free space: / 13785 MiB (26.02% inode=89%):||/=39180MiB;44659;50241;0;55824
+1637072376||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637072396||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072430||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001202s;;;0.000000 size=335B;;;0
+1637072460||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072473||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.110000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637072503||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072524||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072526||localhost||Current Load||OK - load average: 0.01, 0.06, 0.07||load1=0.010;5.000;10.000;0; load5=0.060;4.000;6.000;0; load15=0.070;3.000;4.000;0;
+1637072558||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.001048s;;;0.000000 size=695B;;;0
+1637072567||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072569||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637072590||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.084000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637072601||localhost||Total Processes||PROCS OK: 15 processes with STATE = RSZDT||procs=15;250;400;0;
+1637072633||localhost||Root Partition||DISK OK - free space: / 13785 MiB (26.02% inode=89%):||/=39180MiB;44659;50241;0;55824
+1637072676||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637072696||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072730||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.000890s;;;0.000000 size=335B;;;0
+1637072760||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072773||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.109000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637072803||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072824||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072826||localhost||Current Load||OK - load average: 0.00, 0.02, 0.05||load1=0.000;5.000;10.000;0; load5=0.020;4.000;6.000;0; load15=0.050;3.000;4.000;0;
+1637072858||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000519s;;;0.000000 size=695B;;;0
+1637072867||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637072869||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637072890||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.080000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637072901||localhost||Total Processes||PROCS OK: 15 processes with STATE = RSZDT||procs=15;250;400;0;
+1637072933||localhost||Root Partition||DISK OK - free space: / 13785 MiB (26.02% inode=89%):||/=39180MiB;44659;50241;0;55824
+1637072976||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637073201||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637073232||localhost||Current Load||OK - load average: 0.28, 0.17, 0.09||load1=0.280;5.000;10.000;0; load5=0.170;4.000;6.000;0; load15=0.090;3.000;4.000;0;
+1637073233||localhost||Root Partition||DISK OK - free space: / 13783 MiB (26.02% inode=89%):||/=39181MiB;44659;50241;0;55824
+1637073254||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.12 ms||rta=0.125000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637095923||localhost||Current Load||OK - load average: 0.08, 0.08, 0.08||load1=0.080;5.000;10.000;0; load5=0.080;4.000;6.000;0; load15=0.080;3.000;4.000;0;
+1637095938||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637095952||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637095966||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637095981||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637095995||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637095998||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096009||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000715s;;;0.000000 size=695B;;;0
+1637096023||server162.local||HTTP||HTTP OK: HTTP/1.1 200 OK - 5996 bytes in 0.015 second response time||time=0.014680s;;;0.000000 size=5996B;;;0
+1637096038||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001239s;;;0.000000 size=335B;;;0
+1637096041||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096052||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.080000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096058||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096066||server162.local||PING||PING OK - Packet loss = 0%, RTA = 0.46 ms||rta=0.455000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096081||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.113000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096095||localhost||Root Partition||DISK OK - free space: / 13627 MiB (25.72% inode=89%):||/=39337MiB;44659;50241;0;55824
+1637096101||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096109||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096118||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096123||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096138||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637096152||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096161||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096166||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096169||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096181||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096181||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096181||localhost||Total Processes||PROCS OK: 21 processes with STATE = RSZDT||procs=21;250;400;0;
+1637096212||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096223||localhost||Current Load||OK - load average: 0.16, 0.07, 0.07||load1=0.160;5.000;10.000;0; load5=0.070;4.000;6.000;0; load15=0.070;3.000;4.000;0;
+1637096229||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096241||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096266||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637096272||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096289||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096295||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096298||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096301||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096309||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000834s;;;0.000000 size=695B;;;0
+1637096323||server162.local||HTTP||HTTP OK: HTTP/1.1 200 OK - 6002 bytes in 0.023 second response time||time=0.022910s;;;0.000000 size=6002B;;;0
+1637096332||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096338||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001116s;;;0.000000 size=335B;;;0
+1637096352||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.074000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096361||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096366||server162.local||PING||PING OK - Packet loss = 0%, RTA = 0.52 ms||rta=0.520000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096381||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.13 ms||rta=0.126000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096395||localhost||Root Partition||DISK OK - free space: / 13620 MiB (25.71% inode=89%):||/=39345MiB;44659;50241;0;55824
+1637096418||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096423||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096438||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637096461||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096466||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096481||localhost||Total Processes||PROCS OK: 18 processes with STATE = RSZDT||procs=18;250;400;0;
+1637096481||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096523||localhost||Current Load||OK - load average: 0.36, 0.16, 0.10||load1=0.360;5.000;10.000;0; load5=0.160;4.000;6.000;0; load15=0.100;3.000;4.000;0;
+1637096566||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637096589||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096595||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096598||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096609||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000647s;;;0.000000 size=695B;;;0
+1637096623||server162.local||HTTP||HTTP OK: HTTP/1.1 200 OK - 5992 bytes in 0.020 second response time||time=0.019764s;;;0.000000 size=5992B;;;0
+1637096632||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096638||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001213s;;;0.000000 size=335B;;;0
+1637096652||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.075000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096661||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096666||server162.local||PING||PING OK - Packet loss = 0%, RTA = 0.45 ms||rta=0.446000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096681||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.13 ms||rta=0.128000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096695||localhost||Root Partition||DISK OK - free space: / 13620 MiB (25.71% inode=89%):||/=39345MiB;44659;50241;0;55824
+1637096718||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096723||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096738||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637096761||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096766||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096781||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096781||localhost||Total Processes||PROCS OK: 17 processes with STATE = RSZDT||procs=17;250;400;0;
+1637096823||localhost||Current Load||OK - load average: 0.06, 0.17, 0.13||load1=0.060;5.000;10.000;0; load5=0.170;4.000;6.000;0; load15=0.130;3.000;4.000;0;
+1637096866||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637096889||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096895||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096898||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096909||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000743s;;;0.000000 size=695B;;;0
+1637096923||server162.local||HTTP||HTTP OK: HTTP/1.1 200 OK - 5990 bytes in 0.020 second response time||time=0.019994s;;;0.000000 size=5990B;;;0
+1637096932||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096938||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.002 second response time||time=0.001728s;;;0.000000 size=335B;;;0
+1637096952||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.08 ms||rta=0.075000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096961||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637096966||server162.local||PING||PING OK - Packet loss = 0%, RTA = 0.53 ms||rta=0.530000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096981||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.09 ms||rta=0.094000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637096995||localhost||Root Partition||DISK OK - free space: / 13620 MiB (25.71% inode=89%):||/=39345MiB;44659;50241;0;55824
+1637097018||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097023||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097038||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637097061||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097066||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097081||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097081||localhost||Total Processes||PROCS OK: 18 processes with STATE = RSZDT||procs=18;250;400;0;
+1637097123||localhost||Current Load||OK - load average: 0.04, 0.08, 0.09||load1=0.040;5.000;10.000;0; load5=0.080;4.000;6.000;0; load15=0.090;3.000;4.000;0;
+1637097166||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637097189||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097195||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097198||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097209||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.001010s;;;0.000000 size=695B;;;0
+1637097223||server162.local||HTTP||HTTP OK: HTTP/1.1 200 OK - 5998 bytes in 0.020 second response time||time=0.020493s;;;0.000000 size=5998B;;;0
+1637097232||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097238||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.000951s;;;0.000000 size=335B;;;0
+1637097252||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.068000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097261||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097266||server162.local||PING||PING OK - Packet loss = 0%, RTA = 0.49 ms||rta=0.488000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097281||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.109000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097295||localhost||Root Partition||DISK OK - free space: / 13620 MiB (25.71% inode=89%):||/=39345MiB;44659;50241;0;55824
+1637097318||server162.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097323||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097338||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637097361||server162.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097366||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097381||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097381||localhost||Total Processes||PROCS OK: 17 processes with STATE = RSZDT||procs=17;250;400;0;
+1637097423||localhost||Current Load||OK - load average: 0.07, 0.08, 0.08||load1=0.070;5.000;10.000;0; load5=0.080;4.000;6.000;0; load15=0.080;3.000;4.000;0;
+1637097466||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637097489||server162.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097495||server179.local||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097498||server179.local||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097509||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000843s;;;0.000000 size=695B;;;0
+1637097523||server162.local||HTTP||HTTP OK: HTTP/1.1 200 OK - 5996 bytes in 0.024 second response time||time=0.024088s;;;0.000000 size=5996B;;;0
+1637097532||server162.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097538||server179.local||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001093s;;;0.000000 size=335B;;;0
+1637097552||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.074000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097561||server162.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097566||server162.local||PING||PING OK - Packet loss = 0%, RTA = 0.79 ms||rta=0.793000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097581||server179.local||PING||PING OK - Packet loss = 0%, RTA = 0.09 ms||rta=0.086000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097595||localhost||Root Partition||DISK OK - free space: / 13619 MiB (25.71% inode=89%):||/=39345MiB;44659;50241;0;55824
+1637097623||server179.local||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097638||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637097656||server-162||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097666||server179.local||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097681||server179.local||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097681||localhost||Total Processes||PROCS OK: 15 processes with STATE = RSZDT||procs=15;250;400;0;
+1637097699||server-162||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097716||server-162||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097723||localhost||Current Load||OK - load average: 0.01, 0.04, 0.07||load1=0.010;5.000;10.000;0; load5=0.040;4.000;6.000;0; load15=0.070;3.000;4.000;0;
+1637097742||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 6000 bytes in 0.021 second response time||time=0.020858s;;;0.000000 size=6000B;;;0
+1637097759||server-162||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097766||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637097776||server-162||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097778||server-179||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097785||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.51 ms||rta=0.510000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097809||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000721s;;;0.000000 size=695B;;;0
+1637097819||server-162||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097821||server-179||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097828||server-162||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097836||server-162||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097838||server-179||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097852||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.073000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097864||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001328s;;;0.000000 size=335B;;;0
+1637097871||server-162||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097879||server-162||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097881||server-179||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097888||server-162||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097895||localhost||Root Partition||DISK OK - free space: / 13619 MiB (25.71% inode=89%):||/=39345MiB;44659;50241;0;55824
+1637097898||server-179||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097907||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.074000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637097914||server-162||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097931||server-162||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097938||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637097941||server-179||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097948||server-162||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097950||server-179||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097958||server-179||Current Load||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097974||server-162||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097981||localhost||Total Processes||PROCS OK: 19 processes with STATE = RSZDT||procs=19;250;400;0;
+1637097991||server-162||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637097993||server-179||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098001||server-179||Current Users||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098008||server-162||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098010||server-179||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098023||localhost||Current Load||OK - load average: 0.06, 0.06, 0.07||load1=0.060;5.000;10.000;0; load5=0.060;4.000;6.000;0; load15=0.070;3.000;4.000;0;
+1637098034||server-162||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098036||server-179||Total Processes||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098042||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 5996 bytes in 0.017 second response time||time=0.016724s;;;0.000000 size=5996B;;;0
+1637098051||server-162||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098053||server-179||SWAP Uasge||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098066||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637098070||server-179||Root / Partition||(No output on stdout) stderr: execvp(/usr/lib/nagios/plugins/check_nrpe, ...) failed. errno is 2: No such file or directory||
+1637098085||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.49 ms||rta=0.487000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098094||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098096||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098109||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000977s;;;0.000000 size=695B;;;0
+1637098113||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098130||server-179||Root / Partition||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098136||server-162||Current Load||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098156||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098152||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.06 ms||rta=0.063000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098164||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001154s;;;0.000000 size=335B;;;0
+1637098173||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098179||server-162||Current Users||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098195||localhost||Root Partition||DISK OK - free space: / 13619 MiB (25.71% inode=89%):||/=39346MiB;44659;50241;0;55824
+1637098207||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.09 ms||rta=0.087000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098216||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098238||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637098258||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098281||localhost||Total Processes||PROCS OK: 19 processes with STATE = RSZDT||procs=19;250;400;0;
+1637098301||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098308||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098323||localhost||Current Load||OK - load average: 0.00, 0.02, 0.04||load1=0.000;5.000;10.000;0; load5=0.020;4.000;6.000;0; load15=0.040;3.000;4.000;0;
+1637098342||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 6000 bytes in 0.019 second response time||time=0.018679s;;;0.000000 size=6000B;;;0
+1637098351||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098366||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637098385||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.54 ms||rta=0.538000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098394||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098409||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000589s;;;0.000000 size=695B;;;0
+1637098430||server-179||Root / Partition||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098436||server-162||Current Load||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098452||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.070000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098464||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.000784s;;;0.000000 size=335B;;;0
+1637098473||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179. Check system logs on 200.137.132.179||
+1637098479||server-162||Current Users||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098495||localhost||Root Partition||DISK OK - free space: / 13619 MiB (25.71% inode=89%):||/=39346MiB;44659;50241;0;55824
+1637098507||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.108000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098516||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098538||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637098558||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098581||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637098601||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098608||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098623||localhost||Current Load||OK - load average: 0.15, 0.07, 0.05||load1=0.150;5.000;10.000;0; load5=0.070;4.000;6.000;0; load15=0.050;3.000;4.000;0;
+1637098651||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098666||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637098686||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 5994 bytes in 0.019 second response time||time=0.018887s;;;0.000000 size=5994B;;;0
+1637098688||server-179||Current Load||teste||
+1637098685||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.51 ms||rta=0.508000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098694||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098709||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000669s;;;0.000000 size=695B;;;0
+1637098730||server-179||Root / Partition||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098736||server-162||Current Load||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098752||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.09 ms||rta=0.088000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098764||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001422s;;;0.000000 size=335B;;;0
+1637098773||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098779||server-162||Current Users||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098795||localhost||Root Partition||DISK OK - free space: / 13619 MiB (25.71% inode=89%):||/=39346MiB;44659;50241;0;55824
+1637098807||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.12 ms||rta=0.120000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098816||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098838||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637098858||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098881||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637098901||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098908||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098918||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098923||localhost||Current Load||OK - load average: 0.00, 0.02, 0.02||load1=0.000;5.000;10.000;0; load5=0.020;4.000;6.000;0; load15=0.020;3.000;4.000;0;
+1637098951||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637098966||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637098978||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637098986||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 5996 bytes in 0.020 second response time||time=0.019751s;;;0.000000 size=5996B;;;0
+1637098985||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.60 ms||rta=0.604000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637098994||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099009||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000668s;;;0.000000 size=695B;;;0
+1637099030||server-179||Root / Partition||CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).||
+1637099036||server-162||Current Load||CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).||
+1637099038||server-179||Current Load||CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).||
+1637099052||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.067000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099064||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001082s;;;0.000000 size=335B;;;0
+1637099073||server-179||SWAP Uasge||CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).||
+1637099079||server-162||Current Users||CHECK_NRPE: Receive header underflow - only -1 bytes received (4 expected).||
+1637099095||localhost||Root Partition||DISK OK - free space: / 13619 MiB (25.71% inode=89%):||/=39346MiB;44659;50241;0;55824
+1637099107||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.12 ms||rta=0.115000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099116||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099138||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637099181||localhost||Total Processes||PROCS OK: 15 processes with STATE = RSZDT||procs=15;250;400;0;
+1637099201||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099208||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099223||localhost||Current Load||OK - load average: 0.00, 0.03, 0.01||load1=0.000;5.000;10.000;0; load5=0.030;4.000;6.000;0; load15=0.010;3.000;4.000;0;
+1637099251||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099266||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637099286||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 6000 bytes in 0.020 second response time||time=0.019744s;;;0.000000 size=6000B;;;0
+1637099285||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.54 ms||rta=0.539000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099294||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099309||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.001263s;;;0.000000 size=695B;;;0
+1637099330||server-179||Root / Partition||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099336||server-162||Current Load||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099338||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099352||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.10 ms||rta=0.103000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099364||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.003 second response time||time=0.003262s;;;0.000000 size=335B;;;0
+1637099373||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099379||server-162||Current Users||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099395||localhost||Root Partition||DISK OK - free space: / 13619 MiB (25.71% inode=89%):||/=39346MiB;44659;50241;0;55824
+1637099407||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.111000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099416||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099438||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637099481||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637099501||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099508||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099523||localhost||Current Load||OK - load average: 0.00, 0.00, 0.00||load1=0.000;5.000;10.000;0; load5=0.000;4.000;6.000;0; load15=0.000;3.000;4.000;0;
+1637099551||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099566||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637099586||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 5994 bytes in 0.015 second response time||time=0.015045s;;;0.000000 size=5994B;;;0
+1637099585||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.50 ms||rta=0.501000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099594||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099609||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000852s;;;0.000000 size=695B;;;0
+1637099630||server-179||Root / Partition||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099636||server-162||Current Load||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099638||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099652||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.09 ms||rta=0.091000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099664||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001323s;;;0.000000 size=335B;;;0
+1637099673||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099679||server-162||Current Users||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099707||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.12 ms||rta=0.118000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099716||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099738||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637099740||localhost||Root Partition||DISK OK - free space: / 13618 MiB (25.71% inode=89%):||/=39346MiB;44659;50241;0;55824
+1637099751||server-78||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099781||localhost||Total Processes||PROCS OK: 16 processes with STATE = RSZDT||procs=16;250;400;0;
+1637099783||server-78||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099801||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099808||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099811||server-78||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099823||localhost||Current Load||OK - load average: 0.03, 0.02, 0.00||load1=0.030;5.000;10.000;0; load5=0.020;4.000;6.000;0; load15=0.000;3.000;4.000;0;
+1637099826||server-78||Current Users||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099843||server-78||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099851||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099866||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637099869||server-78||HTTP||HTTP OK: HTTP/1.1 200 OK - 356 bytes in 0.001 second response time||time=0.001304s;;;0.000000 size=356B;;;0
+1637099871||server-78||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099886||server-78||Current Users||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099886||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 5996 bytes in 0.017 second response time||time=0.016942s;;;0.000000 size=5996B;;;0
+1637099885||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.62 ms||rta=0.620000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099894||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099903||server-78||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099905||server-107||Current Load||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637099909||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000659s;;;0.000000 size=695B;;;0
+1637099913||server-47||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637099912||server-78||PING||PING OK - Packet loss = 0%, RTA = 0.59 ms||rta=0.586000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099930||server-179||Root / Partition||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099931||server-78||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099936||server-162||Current Load||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099938||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637099946||server-78||Current Users||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099948||server-107||Current Users||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637099955||server-47||Current Users||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637099955||server-78||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099952||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.114000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637099963||server-78||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637099964||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001017s;;;0.000000 size=335B;;;0
+1637099965||server-107||Current Load||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637099973||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179. Check system logs on 200.137.132.179||
+1637099973||server-47||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637099979||server-162||Current Users||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637099991||server-107||HTTP||HTTP OK: HTTP/1.1 200 OK - 56600 bytes in 0.066 second response time||time=0.066172s;;;0.000000 size=56600B;;;0
+1637099998||server-47||HTTP||HTTP OK: HTTP/1.1 200 OK - 11001 bytes in 0.002 second response time||time=0.001862s;;;0.000000 size=11001B;;;0
+1637099998||server-78||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100006||server-78||Current Users||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100008||server-107||Current Users||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100007||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.11 ms||rta=0.108000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100015||server-78||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100015||server-47||Current Users||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100016||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637100025||server-107||Current Load||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100033||server-47||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100038||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637100034||server-107||PING||PING OK - Packet loss = 0%, RTA = 0.39 ms||rta=0.394000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100040||localhost||Root Partition||DISK OK - free space: / 13618 MiB (25.71% inode=89%):||/=39347MiB;44659;50241;0;55824
+1637100041||server-47||PING||PING OK - Packet loss = 0%, RTA = 0.63 ms||rta=0.629000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100058||server-78||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100068||server-107||Current Users||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100075||server-78||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100075||server-47||Current Users||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100077||server-107||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100084||server-47||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100085||server-107||Current Load||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100093||server-47||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100101||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637100108||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100118||server-78||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100120||server-107||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100123||localhost||Current Load||OK - load average: 0.02, 0.04, 0.00||load1=0.020;5.000;10.000;0; load5=0.040;4.000;6.000;0; load15=0.000;3.000;4.000;0;
+1637100124||localhost||Total Processes||PROCS OK: 20 processes with STATE = RSZDT||procs=20;250;400;0;
+1637100127||server-47||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100128||server-107||Current Users||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100128||server-113||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100132||server-164||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100135||server-78||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100135||server-47||Current Users||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100136||server-165||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100137||server-107||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100140||server-173||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100144||server-184||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100144||server-47||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100151||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100163||server-47||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100163||server-107||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100166||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637100167||server-113||Current Load||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100169||server-78||HTTP||HTTP OK: HTTP/1.1 200 OK - 356 bytes in 0.002 second response time||time=0.001665s;;;0.000000 size=356B;;;0
+1637100171||server-164||Current Load||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100175||server-165||Current Load||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100178||server-78||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100179||server-173||Current Load||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100180||server-107||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100183||server-184||Current Load||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100186||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 5998 bytes in 0.019 second response time||time=0.019058s;;;0.000000 size=5998B;;;0
+1637100187||server-47||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100188||server-113||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100185||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.53 ms||rta=0.532000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100192||server-164||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100194||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100196||server-165||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100197||server-107||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100200||server-173||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100204||server-184||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100204||server-47||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100209||localhost||HTTP||HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time||time=0.000706s;;;0.000000 size=695B;;;0
+1637100210||server-113||Current Users||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100214||server-164||Current Users||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100212||server-78||PING||PING OK - Packet loss = 0%, RTA = 0.52 ms||rta=0.524000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100218||server-165||Current Users||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100222||server-173||Current Users||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100223||server-47||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100223||server-107||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100226||server-184||Current Users||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100227||server-113||Current Load||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100230||server-179||Root / Partition||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637100231||server-78||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100231||server-164||Current Load||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100235||server-165||Current Load||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100236||server-162||Current Load||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100238||server-179||Current Load||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637100239||server-173||Current Load||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100240||server-107||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100243||server-184||Current Load||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100247||server-47||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100248||server-113||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100252||server-164||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100253||server-113||HTTP||HTTP OK: HTTP/1.0 303 See Other - 905 bytes in 0.019 second response time||time=0.019324s;;;0.000000 size=905B;;;0
+1637100256||server-165||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100252||localhost||PING||PING OK - Packet loss = 0%, RTA = 0.07 ms||rta=0.070000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100257||server-164||HTTP||HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.003 second response time||time=0.002634s;;;0.000000 size=10975B;;;0
+1637100257||server-107||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100260||server-173||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100261||server-165||HTTP||HTTP OK: HTTP/1.0 303 See Other - 923 bytes in 0.167 second response time||time=0.166799s;;;0.000000 size=923B;;;0
+1637100263||server-78||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100264||server-179||HTTP||HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.001 second response time||time=0.001453s;;;0.000000 size=335B;;;0
+1637100264||server-184||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100264||server-47||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100265||server-173||HTTP||HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.492 second response time||time=0.491591s;;;0.000000 size=10975B;;;0
+1637100269||server-184||HTTP||HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time||time=0.002472s;;;0.000000 size=176B;;;0
+1637100270||server-113||Current Users||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100273||server-179||SWAP Uasge||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637100274||server-164||Current Users||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100279||server-162||Current Users||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100282||server-173||Current Users||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100283||server-107||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100286||server-184||Current Users||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100287||server-113||Current Load||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100291||server-164||Current Load||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100291||server-107||HTTP||HTTP OK: HTTP/1.1 200 OK - 56600 bytes in 0.075 second response time||time=0.074807s;;;0.000000 size=56600B;;;0
+1637100295||server-165||Current Load||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100299||server-173||Current Load||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100300||server-107||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100296||server-113||PING||PING OK - Packet loss = 0%, RTA = 0.50 ms||rta=0.500000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100303||server-184||Current Load||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100300||server-164||PING||PING OK - Packet loss = 0%, RTA = 0.42 ms||rta=0.416000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100308||server-113||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100304||server-165||PING||PING OK - Packet loss = 0%, RTA = 0.50 ms||rta=0.497000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100307||server-179||PING||PING OK - Packet loss = 0%, RTA = 0.10 ms||rta=0.105000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100307||server-173||PING||PING OK - Packet loss = 0%, RTA = 0.58 ms||rta=0.584000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100312||server-164||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100311||server-184||PING||PING OK - Packet loss = 0%, RTA = 0.50 ms||rta=0.500000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100316||server-165||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100316||server-179||Total Processes||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637100320||server-173||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100320||server-047||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100324||server-078||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100324||server-184||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100328||server-165||Current Users||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100329||server-184||HTTP||HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time||time=0.001725s;;;0.000000 size=176B;;;0
+1637100330||server-113||Current Users||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100334||server-164||Current Users||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100338||localhost||Swap Usage||SWAP OK - 100% free (4091 MB out of 4091 MB)||swap=4091MB;0;0;0;4091
+1637100334||server-107||PING||PING OK - Packet loss = 0%, RTA = 0.35 ms||rta=0.347000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100339||server-113||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100340||localhost||Root Partition||DISK OK - free space: / 13618 MiB (25.71% inode=89%):||/=39347MiB;44659;50241;0;55824
+1637100342||server-173||Current Users||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100343||server-164||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100343||server-107||Total Processes||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100346||server-165||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100346||server-184||Current Users||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100347||server-113||Current Load||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100350||server-173||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100351||server-164||Current Load||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100354||server-184||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100355||server-165||Current Load||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100359||server-173||Current Load||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100363||server-047||Current Users||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100363||server-184||Current Load||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100367||server-078||Current Users||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100380||server-047||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100382||server-164||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100382||server-184||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100382||server-165||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100382||server-173||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100382||server-113||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100384||server-078||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100385||server-107||Current Load||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100388||server-165||Current Users||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100389||server-184||HTTP||HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time||time=0.001688s;;;0.000000 size=176B;;;0
+1637100390||server-113||Current Users||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100394||server-164||Current Users||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100399||server-113||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100401||server-179||Current Users||CHECK_NRPE: Error - Could not connect to 200.137.132.179: Connection reset by peer||
+1637100402||server-173||Current Users||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100403||server-164||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100406||server-047||HTTP||HTTP OK: HTTP/1.1 200 OK - 11001 bytes in 0.002 second response time||time=0.002178s;;;0.000000 size=11001B;;;0
+1637100406||server-165||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100406||server-184||Current Users||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100408||server-162||Root / Partition||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100410||server-078||HTTP||HTTP OK: HTTP/1.1 200 OK - 356 bytes in 0.002 second response time||time=0.002192s;;;0.000000 size=356B;;;0
+1637100410||server-173||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100414||server-184||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100423||localhost||Current Load||OK - load average: 0.03, 0.04, 0.00||load1=0.030;5.000;10.000;0; load5=0.040;4.000;6.000;0; load15=0.000;3.000;4.000;0;
+1637100423||server-047||Current Users||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100424||localhost||Total Processes||PROCS OK: 19 processes with STATE = RSZDT||procs=19;250;400;0;
+1637100427||server-078||Current Users||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100428||server-107||Current Users||(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused||
+1637100440||server-047||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100442||server-184||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100442||server-165||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100442||server-164||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100442||server-113||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100442||server-173||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100444||server-078||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100448||server-165||Current Users||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100449||server-184||HTTP||HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time||time=0.002115s;;;0.000000 size=176B;;;0
+1637100451||server-162||SWAP Uasge||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100449||server-047||PING||PING OK - Packet loss = 0%, RTA = 0.58 ms||rta=0.576000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100453||server-078||PING||PING OK - Packet loss = 0%, RTA = 0.53 ms||rta=0.527000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100459||server-113||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100463||server-164||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100466||localhost||Current Users||USERS OK - 0 users currently logged in||users=0;20;50;0
+1637100466||server-165||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100470||server-173||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100474||server-184||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100483||server-047||Current Users||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100486||server-162||HTTP||HTTP OK: HTTP/1.1 200 OK - 5998 bytes in 0.020 second response time||time=0.020212s;;;0.000000 size=5998B;;;0
+1637100487||server-078||Current Users||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100485||server-162||PING||PING OK - Packet loss = 0%, RTA = 0.51 ms||rta=0.508000ms;100.000000;500.000000;0.000000 pl=0%;20;60;0
+1637100492||server-047||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100494||server-162||Total Processes||CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1||
+1637100496||server-078||Root / Partition||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
+1637100500||server-047||Current Load||(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused||
+1637100502||server-184||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused||
+1637100502||server-113||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused||
+1637100502||server-173||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused||
+1637100502||server-164||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused||
+1637100502||server-165||SWAP Uasge||(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused||
+1637100504||server-078||Current Load||(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused||
