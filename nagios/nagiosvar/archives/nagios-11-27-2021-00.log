@@ -1,0 +1,713 @@
+[1637895600] LOG ROTATION: DAILY
+[1637895600] LOG VERSION: 2.0
+[1637895600] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.05 ms
+[1637895600] CURRENT HOST STATE: server-047;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1637895600] CURRENT HOST STATE: server-078;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1637895600] CURRENT HOST STATE: server-107;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1637895600] CURRENT HOST STATE: server-113;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1637895600] CURRENT HOST STATE: server-162;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1637895600] CURRENT HOST STATE: server-164;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.43 ms
+[1637895600] CURRENT HOST STATE: server-165;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.47 ms
+[1637895600] CURRENT HOST STATE: server-173;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.49 ms
+[1637895600] CURRENT HOST STATE: server-179;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1637895600] CURRENT HOST STATE: server-184;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.45 ms
+[1637895600] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.00, 0.03, 0.00
+[1637895600] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: localhost;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637895600] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1637895600] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 13164 MiB (24.85% inode=89%):
+[1637895600] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (4088 MB out of 4091 MB)
+[1637895600] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 19 processes with STATE = RSZDT
+[1637895600] CURRENT SERVICE STATE: server-047;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1637895600] CURRENT SERVICE STATE: server-047;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-047;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11001 bytes in 0.002 second response time
+[1637895600] CURRENT SERVICE STATE: server-047;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1637895600] CURRENT SERVICE STATE: server-047;Root / Partition;OK;HARD;1;DISK OK - free space: / 11441 MB (78% inode=90%):
+[1637895600] CURRENT SERVICE STATE: server-047;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (3788 MB out of 3788 MB)
+[1637895600] CURRENT SERVICE STATE: server-047;Total Processes;OK;HARD;1;PROCS OK: 189 processes
+[1637895600] CURRENT SERVICE STATE: server-078;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637895600] CURRENT SERVICE STATE: server-078;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637895600] CURRENT SERVICE STATE: server-078;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 356 bytes in 0.001 second response time
+[1637895600] CURRENT SERVICE STATE: server-078;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1637895600] CURRENT SERVICE STATE: server-078;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637895600] CURRENT SERVICE STATE: server-078;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637895600] CURRENT SERVICE STATE: server-078;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637895600] CURRENT SERVICE STATE: server-107;Current Load;OK;HARD;1;OK - load average: 0.17, 0.25, 0.26
+[1637895600] CURRENT SERVICE STATE: server-107;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-107;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 56600 bytes in 0.062 second response time
+[1637895600] CURRENT SERVICE STATE: server-107;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.31 ms
+[1637895600] CURRENT SERVICE STATE: server-107;Root / Partition;OK;HARD;1;DISK OK - free space: / 12241 MB (49% inode=86%):
+[1637895600] CURRENT SERVICE STATE: server-107;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (2036 MB out of 2047 MB)
+[1637895600] CURRENT SERVICE STATE: server-107;Total Processes;OK;HARD;1;PROCS OK: 154 processes
+[1637895600] CURRENT SERVICE STATE: server-113;Current Load;OK;HARD;1;OK - load average: 0.00, 0.02, 0.07
+[1637895600] CURRENT SERVICE STATE: server-113;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-113;HTTP;OK;HARD;1;HTTP OK: HTTP/1.0 303 See Other - 905 bytes in 0.019 second response time
+[1637895600] CURRENT SERVICE STATE: server-113;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1637895600] CURRENT SERVICE STATE: server-113;Root / Partition;OK;HARD;1;DISK OK - free space: / 23242 MB (93% inode=95%):
+[1637895600] CURRENT SERVICE STATE: server-113;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (3343 MB out of 3347 MB)
+[1637895600] CURRENT SERVICE STATE: server-113;Total Processes;OK;HARD;1;PROCS OK: 132 processes
+[1637895600] CURRENT SERVICE STATE: server-162;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1637895600] CURRENT SERVICE STATE: server-162;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-162;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5996 bytes in 0.028 second response time
+[1637895600] CURRENT SERVICE STATE: server-162;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.70 ms
+[1637895600] CURRENT SERVICE STATE: server-162;Root / Partition;OK;HARD;1;DISK OK - free space: / 20947 MB (80% inode=88%):
+[1637895600] CURRENT SERVICE STATE: server-162;SWAP Uasge;OK;HARD;1;SWAP OK - 92% free (1746 MB out of 1905 MB)
+[1637895600] CURRENT SERVICE STATE: server-162;Total Processes;OK;HARD;1;PROCS OK: 127 processes
+[1637895600] CURRENT SERVICE STATE: server-164;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1637895600] CURRENT SERVICE STATE: server-164;Current Users;OK;HARD;1;USERS OK - 1 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-164;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.003 second response time
+[1637895600] CURRENT SERVICE STATE: server-164;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.38 ms
+[1637895600] CURRENT SERVICE STATE: server-164;Root / Partition;OK;HARD;1;DISK OK - free space: / 9742 MB (88% inode=94%):
+[1637895600] CURRENT SERVICE STATE: server-164;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (3792 MB out of 3792 MB)
+[1637895600] CURRENT SERVICE STATE: server-164;Total Processes;OK;HARD;1;PROCS OK: 93 processes
+[1637895600] CURRENT SERVICE STATE: server-165;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1637895600] CURRENT SERVICE STATE: server-165;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-165;HTTP;OK;HARD;1;HTTP OK: HTTP/1.0 303 See Other - 923 bytes in 0.026 second response time
+[1637895600] CURRENT SERVICE STATE: server-165;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1637895600] CURRENT SERVICE STATE: server-165;Root / Partition;OK;HARD;1;DISK OK - free space: / 10358 MB (74% inode=95%):
+[1637895600] CURRENT SERVICE STATE: server-165;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (980 MB out of 980 MB)
+[1637895600] CURRENT SERVICE STATE: server-165;Total Processes;OK;HARD;1;PROCS OK: 111 processes
+[1637895600] CURRENT SERVICE STATE: server-173;Current Load;OK;HARD;1;OK - load average: 1.45, 1.25, 1.28
+[1637895600] CURRENT SERVICE STATE: server-173;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-173;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.618 second response time
+[1637895600] CURRENT SERVICE STATE: server-173;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.54 ms
+[1637895600] CURRENT SERVICE STATE: server-173;Root / Partition;OK;HARD;1;DISK OK - free space: / 9744 MB (88% inode=94%):
+[1637895600] CURRENT SERVICE STATE: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (454 MB out of 3792 MB)
+[1637895600] CURRENT SERVICE STATE: server-173;Total Processes;OK;HARD;1;PROCS OK: 94 processes
+[1637895600] CURRENT SERVICE STATE: server-179;Current Load;OK;HARD;1;OK - load average: 0.00, 0.02, 0.00
+[1637895600] CURRENT SERVICE STATE: server-179;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-179;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.002 second response time
+[1637895600] CURRENT SERVICE STATE: server-179;LVM / Partition;OK;HARD;1;OK
+[1637895600] CURRENT SERVICE STATE: server-179;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.06 ms
+[1637895600] CURRENT SERVICE STATE: server-179;Root / Partition;OK;HARD;1;DISK OK - free space: / 13164 MB (24% inode=89%):
+[1637895600] CURRENT SERVICE STATE: server-179;SDA1 / Partition;OK;HARD;1;DISK OK - free space: /boot 299 MB (68% inode=99%):
+[1637895600] CURRENT SERVICE STATE: server-179;SDA2 / Partition;OK;HARD;1;DISK OK - free space: /dev 1940 MB (100% inode=99%):
+[1637895600] CURRENT SERVICE STATE: server-179;SDA5 / Partition;OK;HARD;1;DISK OK - free space: /dev 1940 MB (100% inode=99%):
+[1637895600] CURRENT SERVICE STATE: server-179;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (4088 MB out of 4091 MB)
+[1637895600] CURRENT SERVICE STATE: server-179;Total Processes;WARNING;HARD;4;PROCS WARNING: 255 processes
+[1637895600] CURRENT SERVICE STATE: server-184;Current Load;OK;HARD;1;OK - load average: 0.06, 0.05, 0.00
+[1637895600] CURRENT SERVICE STATE: server-184;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637895600] CURRENT SERVICE STATE: server-184;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637895600] CURRENT SERVICE STATE: server-184;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.67 ms
+[1637895600] CURRENT SERVICE STATE: server-184;Root / Partition;OK;HARD;1;DISK OK - free space: / 11016 MB (83% inode=90%):
+[1637895600] CURRENT SERVICE STATE: server-184;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (3814 MB out of 3814 MB)
+[1637895600] CURRENT SERVICE STATE: server-184;Total Processes;OK;HARD;1;PROCS OK: 196 processes
+[1637895601] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637895620] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (322 MB out of 3792 MB)
+[1637895920] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (414 MB out of 3792 MB)
+[1637896520] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (368 MB out of 3792 MB)
+[1637896641] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637896658] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637896677] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637896726] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637896802] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637896820] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (382 MB out of 3792 MB)
+[1637896821] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637897420] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3530 MB out of 3792 MB)
+[1637897592] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637897721] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (434 MB out of 3792 MB)
+[1637897781] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (438 MB out of 3792 MB)
+[1637897841] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (395 MB out of 3792 MB)
+[1637897902] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (436 MB out of 3792 MB)
+[1637898505] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 59% free (2210 MB out of 3792 MB)
+[1637898805] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (425 MB out of 3792 MB)
+[1637898865] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (410 MB out of 3792 MB)
+[1637898926] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (399 MB out of 3792 MB)
+[1637898986] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (399 MB out of 3792 MB)
+[1637899120] Auto-save of retention data completed successfully.
+[1637899286] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3538 MB out of 3792 MB)
+[1637899500] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+[1637899587] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (440 MB out of 3792 MB)
+[1637899647] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (432 MB out of 3792 MB)
+[1637899708] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (409 MB out of 3792 MB)
+[1637899768] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (426 MB out of 3792 MB)
+[1637900068] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 93% free (3514 MB out of 3792 MB)
+[1637900241] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637900258] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637900277] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637900326] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637900369] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (431 MB out of 3792 MB)
+[1637900402] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637900421] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637900429] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (413 MB out of 3792 MB)
+[1637900489] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (427 MB out of 3792 MB)
+[1637900550] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (421 MB out of 3792 MB)
+[1637901151] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 45% free (1700 MB out of 3792 MB)
+[1637901192] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637901452] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (451 MB out of 3792 MB)
+[1637901512] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (408 MB out of 3792 MB)
+[1637901574] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (438 MB out of 3792 MB)
+[1637901634] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (417 MB out of 3792 MB)
+[1637901934] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3534 MB out of 3792 MB)
+[1637902234] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (417 MB out of 3792 MB)
+[1637902295] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (421 MB out of 3792 MB)
+[1637902355] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (405 MB out of 3792 MB)
+[1637902415] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 13% free (457 MB out of 3792 MB)
+[1637902720] Auto-save of retention data completed successfully.
+[1637903016] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 58% free (2194 MB out of 3792 MB)
+[1637903100] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637903316] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (438 MB out of 3792 MB)
+[1637903377] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (430 MB out of 3792 MB)
+[1637903437] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (407 MB out of 3792 MB)
+[1637903497] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (422 MB out of 3792 MB)
+[1637903797] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 68% free (2558 MB out of 3792 MB)
+[1637903841] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637903858] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637903877] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637903926] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637904002] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637904021] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637904098] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (423 MB out of 3792 MB)
+[1637904158] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (412 MB out of 3792 MB)
+[1637904219] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (393 MB out of 3792 MB)
+[1637904280] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (414 MB out of 3792 MB)
+[1637904580] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 93% free (3514 MB out of 3792 MB)
+[1637904792] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637904880] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 11% free (410 MB out of 3792 MB)
+[1637904941] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (424 MB out of 3792 MB)
+[1637905001] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (411 MB out of 3792 MB)
+[1637905061] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (429 MB out of 3792 MB)
+[1637905361] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 93% free (3514 MB out of 3792 MB)
+[1637905961] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (441 MB out of 3792 MB)
+[1637906022] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (420 MB out of 3792 MB)
+[1637906082] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (447 MB out of 3792 MB)
+[1637906142] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (431 MB out of 3792 MB)
+[1637906320] Auto-save of retention data completed successfully.
+[1637906443] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 7% free (249 MB out of 3792 MB)
+[1637906700] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637906743] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (383 MB out of 3792 MB)
+[1637907343] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3528 MB out of 3792 MB)
+[1637907441] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637907458] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637907477] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637907526] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637907602] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637907621] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637907643] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 11% free (381 MB out of 3792 MB)
+[1637907704] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (400 MB out of 3792 MB)
+[1637907766] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (433 MB out of 3792 MB)
+[1637907826] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (387 MB out of 3792 MB)
+[1637908393] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637908428] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 59% free (2200 MB out of 3792 MB)
+[1637908730] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 11% free (412 MB out of 3792 MB)
+[1637908790] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (441 MB out of 3792 MB)
+[1637908850] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (413 MB out of 3792 MB)
+[1637908911] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (427 MB out of 3792 MB)
+[1637909211] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3539 MB out of 3792 MB)
+[1637909512] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (431 MB out of 3792 MB)
+[1637909572] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (433 MB out of 3792 MB)
+[1637909632] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (430 MB out of 3792 MB)
+[1637909693] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (431 MB out of 3792 MB)
+[1637909920] Auto-save of retention data completed successfully.
+[1637910293] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 21% free (758 MB out of 3792 MB)
+[1637910300] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637910594] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 11% free (408 MB out of 3792 MB)
+[1637910654] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (394 MB out of 3792 MB)
+[1637910714] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (416 MB out of 3792 MB)
+[1637910774] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (415 MB out of 3792 MB)
+[1637911041] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637911058] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637911075] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 72% free (2716 MB out of 3792 MB)
+[1637911077] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637911126] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637911202] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637911221] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637911376] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 11% free (379 MB out of 3792 MB)
+[1637911436] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (381 MB out of 3792 MB)
+[1637911497] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (392 MB out of 3792 MB)
+[1637911557] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (417 MB out of 3792 MB)
+[1637911857] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 3% free (77 MB out of 3792 MB)
+[1637911993] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637912158] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (414 MB out of 3792 MB)
+[1637912458] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (357 MB out of 3792 MB)
+[1637913058] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (423 MB out of 3792 MB)
+[1637913520] Auto-save of retention data completed successfully.
+[1637913659] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 3% free (109 MB out of 3792 MB)
+[1637913900] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+[1637913959] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (405 MB out of 3792 MB)
+[1637914559] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3530 MB out of 3792 MB)
+[1637914641] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637914658] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637914677] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637914726] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637914802] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637914821] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637914860] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (375 MB out of 3792 MB)
+[1637914920] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (443 MB out of 3792 MB)
+[1637914981] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (395 MB out of 3792 MB)
+[1637915041] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (416 MB out of 3792 MB)
+[1637915341] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 93% free (3508 MB out of 3792 MB)
+[1637915593] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637915642] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (447 MB out of 3792 MB)
+[1637915702] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (418 MB out of 3792 MB)
+[1637915762] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (426 MB out of 3792 MB)
+[1637915823] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (412 MB out of 3792 MB)
+[1637916424] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 62% free (2343 MB out of 3792 MB)
+[1637916724] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (431 MB out of 3792 MB)
+[1637916785] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (420 MB out of 3792 MB)
+[1637916845] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (441 MB out of 3792 MB)
+[1637916905] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (395 MB out of 3792 MB)
+[1637917120] Auto-save of retention data completed successfully.
+[1637917206] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 93% free (3508 MB out of 3792 MB)
+[1637917500] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637917506] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (445 MB out of 3792 MB)
+[1637917566] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (425 MB out of 3792 MB)
+[1637917627] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (394 MB out of 3792 MB)
+[1637917687] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (420 MB out of 3792 MB)
+[1637918241] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637918258] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637918277] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637918288] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 68% free (2549 MB out of 3792 MB)
+[1637918326] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637918402] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637918421] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637918589] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 11% free (410 MB out of 3792 MB)
+[1637918650] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (446 MB out of 3792 MB)
+[1637918710] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (421 MB out of 3792 MB)
+[1637918770] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (378 MB out of 3792 MB)
+[1637919193] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637919370] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (419 MB out of 3792 MB)
+[1637919970] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 1% free (5 MB out of 3792 MB)
+[1637920270] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (388 MB out of 3792 MB)
+[1637920720] Auto-save of retention data completed successfully.
+[1637920871] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 3% free (89 MB out of 3792 MB)
+[1637921100] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 252 processes
+[1637921171] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (445 MB out of 3792 MB)
+[1637921772] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 0% free (0 MB out of 3792 MB)
+[1637921841] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637921858] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.006 second response time
+[1637921877] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637921926] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637922002] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637922021] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637922072] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (410 MB out of 3792 MB)
+[1637922672] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3562 MB out of 3792 MB)
+[1637922793] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637922972] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (441 MB out of 3792 MB)
+[1637923033] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 13% free (481 MB out of 3792 MB)
+[1637923093] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 12% free (443 MB out of 3792 MB)
+[1637923154] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (453 MB out of 3792 MB)
+[1637923454] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3537 MB out of 3792 MB)
+[1637923755] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (453 MB out of 3792 MB)
+[1637923815] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (449 MB out of 3792 MB)
+[1637923875] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 13% free (465 MB out of 3792 MB)
+[1637923936] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (453 MB out of 3792 MB)
+[1637924236] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3537 MB out of 3792 MB)
+[1637924320] Auto-save of retention data completed successfully.
+[1637924700] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637924836] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (418 MB out of 3792 MB)
+[1637924897] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (436 MB out of 3792 MB)
+[1637924957] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (410 MB out of 3792 MB)
+[1637925017] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 13% free (462 MB out of 3792 MB)
+[1637925318] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (341 MB out of 3792 MB)
+[1637925441] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637925458] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637925477] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637925526] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637925602] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637925618] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 13% free (464 MB out of 3792 MB)
+[1637925621] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637926218] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3553 MB out of 3792 MB)
+[1637926393] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637926518] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (441 MB out of 3792 MB)
+[1637926579] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 13% free (465 MB out of 3792 MB)
+[1637926639] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 13% free (476 MB out of 3792 MB)
+[1637926700] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 12% free (452 MB out of 3792 MB)
+[1637927000] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3537 MB out of 3792 MB)
+[1637927301] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 13% free (480 MB out of 3792 MB)
+[1637927362] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 12% free (432 MB out of 3792 MB)
+[1637927423] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 13% free (459 MB out of 3792 MB)
+[1637927483] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 13% free (460 MB out of 3792 MB)
+[1637927783] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 94% free (3537 MB out of 3792 MB)
+[1637927920] Auto-save of retention data completed successfully.
+[1637928300] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637928383] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 12% free (433 MB out of 3792 MB)
+[1637928443] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;2;SWAP WARNING - 11% free (414 MB out of 3792 MB)
+[1637928504] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 13% free (456 MB out of 3792 MB)
+[1637928565] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (408 MB out of 3792 MB)
+[1637929041] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637929058] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637929077] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637929126] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637929202] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637929221] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637929765] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 95% free (3569 MB out of 3792 MB)
+[1637929993] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637930066] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (343 MB out of 3792 MB)
+[1637930126] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (315 MB out of 3792 MB)
+[1637930187] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (356 MB out of 3792 MB)
+[1637930248] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (311 MB out of 3792 MB)
+[1637930548] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637931149] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (343 MB out of 3792 MB)
+[1637931209] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637931270] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (350 MB out of 3792 MB)
+[1637931330] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (331 MB out of 3792 MB)
+[1637931519] Auto-save of retention data completed successfully.
+[1637931630] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3449 MB out of 3792 MB)
+[1637931900] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637931930] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (346 MB out of 3792 MB)
+[1637931990] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (352 MB out of 3792 MB)
+[1637932051] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (339 MB out of 3792 MB)
+[1637932111] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (344 MB out of 3792 MB)
+[1637932411] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637932641] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637932658] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637932677] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637932712] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 15% free (537 MB out of 3792 MB)
+[1637932726] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637932772] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 8% free (267 MB out of 3792 MB)
+[1637932802] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637932821] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637932832] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (344 MB out of 3792 MB)
+[1637932893] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (320 MB out of 3792 MB)
+[1637933193] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637933593] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637933793] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (326 MB out of 3792 MB)
+[1637933854] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (328 MB out of 3792 MB)
+[1637933914] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (323 MB out of 3792 MB)
+[1637933975] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637934275] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637934576] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637934636] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637934697] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (343 MB out of 3792 MB)
+[1637934757] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (317 MB out of 3792 MB)
+[1637935120] Auto-save of retention data completed successfully.
+[1637935359] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 50% free (1859 MB out of 3792 MB)
+[1637935501] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637935659] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637935720] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (341 MB out of 3792 MB)
+[1637935780] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (324 MB out of 3792 MB)
+[1637935840] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (320 MB out of 3792 MB)
+[1637936242] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637936258] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637936277] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637936326] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637936402] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637936421] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637937040] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3449 MB out of 3792 MB)
+[1637937193] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637937340] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (340 MB out of 3792 MB)
+[1637937400] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (339 MB out of 3792 MB)
+[1637937461] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (319 MB out of 3792 MB)
+[1637937521] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (317 MB out of 3792 MB)
+[1637938122] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 11% free (385 MB out of 3792 MB)
+[1637938422] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (348 MB out of 3792 MB)
+[1637938720] Auto-save of retention data completed successfully.
+[1637938723] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637939023] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (325 MB out of 3792 MB)
+[1637939083] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 8% free (267 MB out of 3792 MB)
+[1637939143] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (307 MB out of 3792 MB)
+[1637939204] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (352 MB out of 3792 MB)
+[1637939400] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637939504] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637939842] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637939858] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637939877] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637939926] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637940002] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637940021] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637940105] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (339 MB out of 3792 MB)
+[1637940166] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (348 MB out of 3792 MB)
+[1637940227] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (356 MB out of 3792 MB)
+[1637940287] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (337 MB out of 3792 MB)
+[1637940587] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637940793] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637940887] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (353 MB out of 3792 MB)
+[1637940947] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (316 MB out of 3792 MB)
+[1637941007] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637941068] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637941668] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 60% free (2264 MB out of 3792 MB)
+[1637941969] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (349 MB out of 3792 MB)
+[1637942030] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (357 MB out of 3792 MB)
+[1637942090] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (353 MB out of 3792 MB)
+[1637942150] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637942320] Auto-save of retention data completed successfully.
+[1637942450] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3450 MB out of 3792 MB)
+[1637942750] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (346 MB out of 3792 MB)
+[1637942811] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (338 MB out of 3792 MB)
+[1637942872] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (312 MB out of 3792 MB)
+[1637942932] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (337 MB out of 3792 MB)
+[1637943000] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637943233] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637943442] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637943458] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637943477] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637943526] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637943534] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (325 MB out of 3792 MB)
+[1637943594] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637943603] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637943621] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637943655] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (341 MB out of 3792 MB)
+[1637943715] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (346 MB out of 3792 MB)
+[1637944015] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637944393] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637944615] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (307 MB out of 3792 MB)
+[1637944676] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (347 MB out of 3792 MB)
+[1637944736] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (344 MB out of 3792 MB)
+[1637944796] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (341 MB out of 3792 MB)
+[1637945920] Auto-save of retention data completed successfully.
+[1637945996] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637946296] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (339 MB out of 3792 MB)
+[1637946356] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (340 MB out of 3792 MB)
+[1637946417] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637946477] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (364 MB out of 3792 MB)
+[1637946600] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 258 processes
+[1637946777] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637947042] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637947058] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637947077] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637947126] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637947203] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637947221] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637947378] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (355 MB out of 3792 MB)
+[1637947438] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (368 MB out of 3792 MB)
+[1637947499] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (333 MB out of 3792 MB)
+[1637947559] SERVICE ALERT: server-173;SWAP Uasge;OK;SOFT;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637947993] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637948220] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (368 MB out of 3792 MB)
+[1637948280] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (359 MB out of 3792 MB)
+[1637948341] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (350 MB out of 3792 MB)
+[1637948401] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (318 MB out of 3792 MB)
+[1637948702] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637949002] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637949062] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637949122] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (337 MB out of 3792 MB)
+[1637949182] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (332 MB out of 3792 MB)
+[1637949520] Auto-save of retention data completed successfully.
+[1637949783] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 54% free (2043 MB out of 3792 MB)
+[1637950083] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (343 MB out of 3792 MB)
+[1637950144] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (309 MB out of 3792 MB)
+[1637950201] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637950204] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (321 MB out of 3792 MB)
+[1637950264] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637950564] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3450 MB out of 3792 MB)
+[1637950642] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637950658] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637950677] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637950726] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637950803] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637950821] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637950865] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (348 MB out of 3792 MB)
+[1637950926] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (359 MB out of 3792 MB)
+[1637950986] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (367 MB out of 3792 MB)
+[1637951047] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (353 MB out of 3792 MB)
+[1637951347] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3450 MB out of 3792 MB)
+[1637951593] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637951648] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (318 MB out of 3792 MB)
+[1637951708] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (347 MB out of 3792 MB)
+[1637951768] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;3;SWAP WARNING - 11% free (381 MB out of 3792 MB)
+[1637951829] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (325 MB out of 3792 MB)
+[1637952129] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637952730] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (346 MB out of 3792 MB)
+[1637952791] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 7% free (248 MB out of 3792 MB)
+[1637952851] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 8% free (292 MB out of 3792 MB)
+[1637952911] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (358 MB out of 3792 MB)
+[1637953120] Auto-save of retention data completed successfully.
+[1637953211] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3434 MB out of 3792 MB)
+[1637953511] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (313 MB out of 3792 MB)
+[1637953572] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (326 MB out of 3792 MB)
+[1637953632] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (346 MB out of 3792 MB)
+[1637953692] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (344 MB out of 3792 MB)
+[1637953993] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637954100] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637954242] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637954258] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637954277] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637954293] SERVICE ALERT: server-173;SWAP Uasge;WARNING;SOFT;1;SWAP WARNING - 16% free (603 MB out of 3792 MB)
+[1637954326] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637954354] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (308 MB out of 3792 MB)
+[1637954403] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637954414] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (334 MB out of 3792 MB)
+[1637954421] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637954474] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (358 MB out of 3792 MB)
+[1637954775] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637955193] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637955375] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (352 MB out of 3792 MB)
+[1637955436] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (324 MB out of 3792 MB)
+[1637955496] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (350 MB out of 3792 MB)
+[1637955556] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (311 MB out of 3792 MB)
+[1637955856] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637956158] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637956218] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (318 MB out of 3792 MB)
+[1637956279] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (324 MB out of 3792 MB)
+[1637956339] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (358 MB out of 3792 MB)
+[1637956720] Auto-save of retention data completed successfully.
+[1637956940] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 59% free (2211 MB out of 3792 MB)
+[1637957240] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637957301] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (335 MB out of 3792 MB)
+[1637957361] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 8% free (293 MB out of 3792 MB)
+[1637957421] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637957700] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637957721] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3444 MB out of 3792 MB)
+[1637957842] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637957858] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637957877] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637957926] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637958003] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.002 second response time
+[1637958021] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637958022] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (330 MB out of 3792 MB)
+[1637958082] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (311 MB out of 3792 MB)
+[1637958143] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (348 MB out of 3792 MB)
+[1637958204] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (351 MB out of 3792 MB)
+[1637958793] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637958805] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 14% free (495 MB out of 3792 MB)
+[1637959106] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (334 MB out of 3792 MB)
+[1637959708] SERVICE ALERT: server-173;SWAP Uasge;WARNING;HARD;4;SWAP WARNING - 15% free (552 MB out of 3792 MB)
+[1637960009] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (321 MB out of 3792 MB)
+[1637960320] Auto-save of retention data completed successfully.
+[1637960609] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 58% free (2184 MB out of 3792 MB)
+[1637960910] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (349 MB out of 3792 MB)
+[1637960971] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637961031] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (316 MB out of 3792 MB)
+[1637961092] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (326 MB out of 3792 MB)
+[1637961300] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+[1637961392] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 90% free (3395 MB out of 3792 MB)
+[1637961442] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637961458] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637961477] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637961526] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637961603] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637961621] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637961692] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (338 MB out of 3792 MB)
+[1637961753] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637961813] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (332 MB out of 3792 MB)
+[1637961874] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (328 MB out of 3792 MB)
+[1637962174] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637962393] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637962474] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637962534] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (324 MB out of 3792 MB)
+[1637962595] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637962656] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (357 MB out of 3792 MB)
+[1637962956] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637963557] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (334 MB out of 3792 MB)
+[1637963618] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (315 MB out of 3792 MB)
+[1637963678] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (334 MB out of 3792 MB)
+[1637963738] SERVICE ALERT: server-173;SWAP Uasge;OK;SOFT;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637963920] Auto-save of retention data completed successfully.
+[1637964399] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (358 MB out of 3792 MB)
+[1637964460] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (340 MB out of 3792 MB)
+[1637964520] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637964581] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (306 MB out of 3792 MB)
+[1637964881] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637964901] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637965042] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637965058] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637965077] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637965126] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637965182] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (355 MB out of 3792 MB)
+[1637965203] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637965221] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637965242] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (333 MB out of 3792 MB)
+[1637965302] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (372 MB out of 3792 MB)
+[1637965362] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (347 MB out of 3792 MB)
+[1637965663] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637965993] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637966263] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (347 MB out of 3792 MB)
+[1637966324] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (344 MB out of 3792 MB)
+[1637966384] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (334 MB out of 3792 MB)
+[1637966444] SERVICE ALERT: server-173;SWAP Uasge;OK;SOFT;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637967105] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (318 MB out of 3792 MB)
+[1637967166] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637967227] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 8% free (280 MB out of 3792 MB)
+[1637967287] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (325 MB out of 3792 MB)
+[1637967520] Auto-save of retention data completed successfully.
+[1637967587] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637967887] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (334 MB out of 3792 MB)
+[1637967947] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (332 MB out of 3792 MB)
+[1637968008] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 8% free (294 MB out of 3792 MB)
+[1637968069] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (316 MB out of 3792 MB)
+[1637968642] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637968658] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637968669] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 54% free (2027 MB out of 3792 MB)
+[1637968677] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637968726] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637968800] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637968803] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637968821] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637968969] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637969029] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (348 MB out of 3792 MB)
+[1637969090] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (347 MB out of 3792 MB)
+[1637969150] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (347 MB out of 3792 MB)
+[1637969450] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3450 MB out of 3792 MB)
+[1637969593] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637969750] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 8% free (300 MB out of 3792 MB)
+[1637969810] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (356 MB out of 3792 MB)
+[1637969871] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (343 MB out of 3792 MB)
+[1637969931] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (343 MB out of 3792 MB)
+[1637970231] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637970532] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (326 MB out of 3792 MB)
+[1637970592] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (350 MB out of 3792 MB)
+[1637970653] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (340 MB out of 3792 MB)
+[1637970713] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (342 MB out of 3792 MB)
+[1637971014] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637971120] Auto-save of retention data completed successfully.
+[1637971614] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637971675] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (319 MB out of 3792 MB)
+[1637971736] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (330 MB out of 3792 MB)
+[1637971796] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (344 MB out of 3792 MB)
+[1637972096] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3428 MB out of 3792 MB)
+[1637972242] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637972258] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637972277] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637972326] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637972396] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (329 MB out of 3792 MB)
+[1637972400] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 258 processes
+[1637972403] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637972421] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637972457] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (326 MB out of 3792 MB)
+[1637972517] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (349 MB out of 3792 MB)
+[1637972578] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (355 MB out of 3792 MB)
+[1637972878] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637973193] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637973478] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637973539] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (370 MB out of 3792 MB)
+[1637973599] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (316 MB out of 3792 MB)
+[1637973659] SERVICE ALERT: server-173;SWAP Uasge;OK;SOFT;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637974319] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (336 MB out of 3792 MB)
+[1637974380] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (345 MB out of 3792 MB)
+[1637974440] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (346 MB out of 3792 MB)
+[1637974500] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 8% free (302 MB out of 3792 MB)
+[1637974720] Auto-save of retention data completed successfully.
+[1637974800] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637975101] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (308 MB out of 3792 MB)
+[1637975161] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (339 MB out of 3792 MB)
+[1637975222] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (350 MB out of 3792 MB)
+[1637975284] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (361 MB out of 3792 MB)
+[1637975842] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637975858] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637975877] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637975887] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 39% free (1458 MB out of 3792 MB)
+[1637975926] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637976000] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637976003] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637976021] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637976190] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 8% free (287 MB out of 3792 MB)
+[1637976251] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 8% free (282 MB out of 3792 MB)
+[1637976311] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (335 MB out of 3792 MB)
+[1637976372] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (319 MB out of 3792 MB)
+[1637976672] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3449 MB out of 3792 MB)
+[1637976793] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637976972] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (352 MB out of 3792 MB)
+[1637977032] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (347 MB out of 3792 MB)
+[1637977093] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (311 MB out of 3792 MB)
+[1637977153] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (331 MB out of 3792 MB)
+[1637977453] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 91% free (3427 MB out of 3792 MB)
+[1637977754] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 9% free (331 MB out of 3792 MB)
+[1637977815] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 10% free (376 MB out of 3792 MB)
+[1637977876] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 10% free (358 MB out of 3792 MB)
+[1637977937] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 10% free (342 MB out of 3792 MB)
+[1637978320] Auto-save of retention data completed successfully.
+[1637978538] SERVICE ALERT: server-173;SWAP Uasge;OK;HARD;4;SWAP OK - 60% free (2245 MB out of 3792 MB)
+[1637978838] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;1;SWAP CRITICAL - 10% free (352 MB out of 3792 MB)
+[1637978900] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;2;SWAP CRITICAL - 9% free (314 MB out of 3792 MB)
+[1637978960] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;SOFT;3;SWAP CRITICAL - 9% free (314 MB out of 3792 MB)
+[1637979021] SERVICE ALERT: server-173;SWAP Uasge;CRITICAL;HARD;4;SWAP CRITICAL - 9% free (304 MB out of 3792 MB)
+[1637979442] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637979458] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637979477] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637979526] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637979601] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 259 processes
+[1637979603] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637979621] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637980393] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637981920] Auto-save of retention data completed successfully.

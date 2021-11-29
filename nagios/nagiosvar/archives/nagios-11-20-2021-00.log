@@ -1,0 +1,1077 @@
+[1637290800] LOG ROTATION: DAILY
+[1637290800] LOG VERSION: 2.0
+[1637290800] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1637290800] CURRENT HOST STATE: server-047;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1637290800] CURRENT HOST STATE: server-078;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.59 ms
+[1637290800] CURRENT HOST STATE: server-107;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.46 ms
+[1637290800] CURRENT HOST STATE: server-113;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1637290800] CURRENT HOST STATE: server-162;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1637290800] CURRENT HOST STATE: server-164;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 1.10 ms
+[1637290800] CURRENT HOST STATE: server-165;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.65 ms
+[1637290800] CURRENT HOST STATE: server-173;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.50 ms
+[1637290800] CURRENT HOST STATE: server-179;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1637290800] CURRENT HOST STATE: server-184;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.97 ms
+[1637290800] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.00, 0.07, 0.08
+[1637290800] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637290800] CURRENT SERVICE STATE: localhost;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637290800] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.07 ms
+[1637290800] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 13505 MiB (25.49% inode=89%):
+[1637290800] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (4091 MB out of 4091 MB)
+[1637290800] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 19 processes with STATE = RSZDT
+[1637290800] CURRENT SERVICE STATE: server-047;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-047;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-047;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11001 bytes in 0.003 second response time
+[1637290800] CURRENT SERVICE STATE: server-047;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1637290800] CURRENT SERVICE STATE: server-047;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-047;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-047;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-078;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-078;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-078;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 356 bytes in 0.001 second response time
+[1637290800] CURRENT SERVICE STATE: server-078;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.80 ms
+[1637290800] CURRENT SERVICE STATE: server-078;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-078;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-078;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-107;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-107;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-107;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 56600 bytes in 0.069 second response time
+[1637290800] CURRENT SERVICE STATE: server-107;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1637290800] CURRENT SERVICE STATE: server-107;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-107;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-107;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.107 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-113;Current Load;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637290800] CURRENT SERVICE STATE: server-113;Current Users;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637290800] CURRENT SERVICE STATE: server-113;HTTP;OK;HARD;1;HTTP OK: HTTP/1.0 303 See Other - 905 bytes in 0.026 second response time
+[1637290800] CURRENT SERVICE STATE: server-113;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1637290800] CURRENT SERVICE STATE: server-113;Root / Partition;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637290800] CURRENT SERVICE STATE: server-113;SWAP Uasge;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637290800] CURRENT SERVICE STATE: server-113;Total Processes;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637290800] CURRENT SERVICE STATE: server-162;Current Load;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637290800] CURRENT SERVICE STATE: server-162;Current Users;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637290800] CURRENT SERVICE STATE: server-162;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5994 bytes in 0.025 second response time
+[1637290800] CURRENT SERVICE STATE: server-162;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.66 ms
+[1637290800] CURRENT SERVICE STATE: server-162;Root / Partition;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637290800] CURRENT SERVICE STATE: server-162;SWAP Uasge;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637290800] CURRENT SERVICE STATE: server-162;Total Processes;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637290800] CURRENT SERVICE STATE: server-164;Current Load;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637290800] CURRENT SERVICE STATE: server-164;Current Users;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637290800] CURRENT SERVICE STATE: server-164;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.002 second response time
+[1637290800] CURRENT SERVICE STATE: server-164;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1637290800] CURRENT SERVICE STATE: server-164;Root / Partition;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637290800] CURRENT SERVICE STATE: server-164;SWAP Uasge;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637290800] CURRENT SERVICE STATE: server-164;Total Processes;CRITICAL;HARD;4;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637290800] CURRENT SERVICE STATE: server-165;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-165;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-165;HTTP;OK;HARD;1;HTTP OK: HTTP/1.0 303 See Other - 923 bytes in 0.035 second response time
+[1637290800] CURRENT SERVICE STATE: server-165;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.52 ms
+[1637290800] CURRENT SERVICE STATE: server-165;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-165;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-165;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-173;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-173;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-173;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.781 second response time
+[1637290800] CURRENT SERVICE STATE: server-173;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1637290800] CURRENT SERVICE STATE: server-173;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-173;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-173;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-179;Current Load;OK;HARD;1;OK - load average: 0.02, 0.06, 0.07
+[1637290800] CURRENT SERVICE STATE: server-179;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637290800] CURRENT SERVICE STATE: server-179;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.002 second response time
+[1637290800] CURRENT SERVICE STATE: server-179;LVM / Partition;OK;HARD;1;OK
+[1637290800] CURRENT SERVICE STATE: server-179;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.14 ms
+[1637290800] CURRENT SERVICE STATE: server-179;Root / Partition;OK;HARD;1;DISK OK - free space: / 13505 MB (25% inode=89%):
+[1637290800] CURRENT SERVICE STATE: server-179;SDA1 / Partition;OK;HARD;1;DISK OK - free space: /boot 299 MB (68% inode=99%):
+[1637290800] CURRENT SERVICE STATE: server-179;SDA2 / Partition;OK;HARD;1;DISK OK - free space: /dev 1940 MB (100% inode=99%):
+[1637290800] CURRENT SERVICE STATE: server-179;SDA5 / Partition;OK;HARD;1;DISK OK - free space: /dev 1940 MB (100% inode=99%):
+[1637290800] CURRENT SERVICE STATE: server-179;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (4091 MB out of 4091 MB)
+[1637290800] CURRENT SERVICE STATE: server-179;Total Processes;WARNING;HARD;4;PROCS WARNING: 255 processes
+[1637290800] CURRENT SERVICE STATE: server-184;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-184;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-184;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.006 second response time
+[1637290800] CURRENT SERVICE STATE: server-184;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1637290800] CURRENT SERVICE STATE: server-184;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-184;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637290800] CURRENT SERVICE STATE: server-184;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637290950] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637291111] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637291112] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637291116] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637291120] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637291157] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637291199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637291211] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637291246] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637291251] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.004 second response time
+[1637291251] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637291306] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637291311] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637291362] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637291385] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637291411] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637291418] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637291418] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637291418] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637291418] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637291419] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637291424] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637291460] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637291463] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637291497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637291565] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637291565] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637291571] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637291661] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637291662] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637291662] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637291662] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637291718] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637291799] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637291838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637291838] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637291891] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637292451] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637292494] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637292711] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637293781] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637293991] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637294320] Auto-save of retention data completed successfully.
+[1637294550] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637294711] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637294712] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637294716] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637294720] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637294757] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637294799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637294811] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637294846] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637294851] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637294851] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637294906] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637294913] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637294962] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637294985] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637295011] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637295018] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637295018] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637295018] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637295018] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637295019] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637295024] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637295060] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637295063] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637295097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637295165] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637295165] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637295171] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637295261] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637295262] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637295262] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637295262] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637295318] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637295399] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637295438] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637295438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637295491] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637296051] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637296094] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637296311] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637297381] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637297591] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637297920] Auto-save of retention data completed successfully.
+[1637298150] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637298312] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637298312] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637298316] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637298321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637298357] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637298399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637298411] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637298446] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637298451] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637298451] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637298506] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637298513] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637298565] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637298585] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637298612] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637298618] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637298618] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637298618] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637298618] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637298619] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637298624] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637298660] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637298663] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637298697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637298765] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637298765] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637298771] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637298865] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637298865] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637298865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637298865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637298918] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637298999] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637299038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637299038] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637299091] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637299651] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637299694] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637299911] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637300981] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637301191] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637301520] Auto-save of retention data completed successfully.
+[1637301753] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637301912] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637301912] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637301916] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637301921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637301957] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637301999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637302011] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637302046] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637302052] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637302052] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637302106] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637302113] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637302165] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637302185] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637302212] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637302218] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637302218] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637302219] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637302219] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637302220] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637302224] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637302260] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637302263] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637302297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637302365] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637302365] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637302371] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637302465] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637302465] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637302465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637302465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637302518] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637302599] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637302638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637302638] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637302691] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637303252] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637303294] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637303511] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637304581] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637304791] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637305120] Auto-save of retention data completed successfully.
+[1637305514] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637305514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637305516] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637305521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637305557] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637305599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637305611] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637305646] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637305652] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637305652] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637305652] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 259 processes
+[1637305706] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637305713] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637305765] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637305785] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637305814] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637305818] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637305818] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637305820] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637305824] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637305860] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637305863] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637305897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637305965] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637305965] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637305971] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637306065] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637306065] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637306065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637306065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637306118] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637306118] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637306118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637306199] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637306238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637306238] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637306291] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637306852] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637306894] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637307111] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637308181] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637308391] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637308720] Auto-save of retention data completed successfully.
+[1637309114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637309115] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637309116] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637309121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637309157] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637309199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637309211] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637309246] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637309252] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637309252] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637309252] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 259 processes
+[1637309306] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637309313] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637309365] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637309385] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637309414] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637309418] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637309418] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637309420] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637309424] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637309460] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637309463] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637309497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637309565] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637309565] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637309571] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637309665] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637309665] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637309665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637309665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637309718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637309718] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637309718] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637309799] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637309838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637309838] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637309891] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637310452] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637310494] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637310711] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637311781] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637311991] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637312320] Auto-save of retention data completed successfully.
+[1637312714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637312716] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637312721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637312757] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637312799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637312811] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637312846] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637312852] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 260 processes
+[1637312852] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637312852] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637312906] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637312913] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637312965] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637312985] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637313014] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637313014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637313018] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637313018] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637313020] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637313024] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637313060] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637313063] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637313097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637313165] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637313165] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637313171] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637313265] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637313265] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637313265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637313265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637313318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637313318] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637313318] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637313399] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637313438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637313438] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637313491] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637314054] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637314094] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637314311] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637315381] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637315591] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637315920] Auto-save of retention data completed successfully.
+[1637316314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637316316] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637316321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637316357] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637316399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637316411] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637316446] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637316454] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 261 processes
+[1637316454] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637316454] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637316506] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637316513] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637316565] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637316585] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637316614] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637316614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637316618] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637316618] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637316620] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637316624] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637316660] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637316663] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637316697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637316765] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637316765] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637316771] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637316865] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637316865] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637316865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637316865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637316918] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637316918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637316918] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637316999] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637317038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637317038] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637317091] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637317654] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637317694] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637317911] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637318981] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637319191] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637319520] Auto-save of retention data completed successfully.
+[1637319914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637319916] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637319921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637319957] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637319999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637320011] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637320046] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637320054] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 258 processes
+[1637320054] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637320054] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.004 second response time
+[1637320106] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637320113] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637320165] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637320185] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637320214] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637320214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637320218] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637320218] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637320220] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637320224] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637320260] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637320263] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637320297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637320365] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637320365] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637320371] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637320465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637320465] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637320465] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637320465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637320518] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637320518] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637320518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637320599] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637320638] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637320638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637320691] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637321254] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637321294] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637321511] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637322581] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637322791] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637323120] Auto-save of retention data completed successfully.
+[1637323514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637323516] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637323521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637323557] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637323599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637323611] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637323646] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637323654] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 258 processes
+[1637323654] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.005 second response time
+[1637323654] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637323706] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637323714] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637323765] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637323785] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637323814] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637323814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637323818] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637323818] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637323820] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637323824] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637323860] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637323863] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637323897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637323965] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637323965] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637323971] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637324065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637324065] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637324065] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637324065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637324118] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637324118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637324118] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637324199] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637324238] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637324238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637324291] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637324854] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637324894] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637325111] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637326181] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637326391] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637326720] Auto-save of retention data completed successfully.
+[1637327114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637327116] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637327121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637327157] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637327199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637327211] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637327246] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637327254] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637327254] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637327254] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637327306] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637327365] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637327385] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637327414] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637327414] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637327418] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637327419] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637327420] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637327424] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637327460] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637327463] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637327497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637327565] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637327565] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637327571] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637327613] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637327665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637327665] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637327665] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637327665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637327718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637327719] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637327719] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637327799] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637327838] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637327838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637327891] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637328454] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637328494] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637328711] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637329781] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637329991] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637330320] Auto-save of retention data completed successfully.
+[1637330714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637330716] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637330721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637330757] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637330799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637330811] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637330846] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637330854] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637330854] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637330855] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 263 processes
+[1637330906] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637330965] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637330985] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637331014] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637331014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637331018] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637331020] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637331025] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637331060] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637331063] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637331097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637331165] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637331165] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637331171] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637331213] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637331265] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637331265] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637331265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637331265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637331318] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637331318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637331399] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637331438] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637331438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637331492] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637331618] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637331618] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637332054] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637332094] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637332311] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637333381] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637333591] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637333920] Auto-save of retention data completed successfully.
+[1637334314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637334316] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637334321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637334357] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637334399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637334411] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637334446] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637334455] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637334455] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637334506] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637334565] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637334585] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637334614] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637334614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637334618] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637334620] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637334625] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637334660] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637334663] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637334697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637334754] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 259 processes
+[1637334765] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637334765] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637334771] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637334814] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637334865] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637334865] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637334865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637334865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637334918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637334918] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637334999] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637335038] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637335038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637335218] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637335218] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637335391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637335654] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637335694] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637335911] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637336981] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637337191] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637337520] Auto-save of retention data completed successfully.
+[1637337914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637337916] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637337921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637337957] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637337999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637338011] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637338046] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637338106] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637338165] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637338185] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637338214] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637338214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637338218] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637338220] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637338225] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637338260] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637338263] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637338297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637338354] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637338354] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637338354] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 263 processes
+[1637338365] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637338365] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637338371] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637338414] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637338465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.164: 1
+[1637338465] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637338465] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637338465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637338518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637338518] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637338599] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637338638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637338638] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637338818] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637338818] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.113: 1
+[1637338991] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637339254] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637339294] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637339511] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637340582] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637340791] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637341120] Auto-save of retention data completed successfully.
+[1637341514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637341516] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637341521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637341557] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.165 port 5666: Connection refused
+[1637341599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637341611] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637341646] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637341706] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637341765] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 200.137.132.165: Connection reset by peer
+[1637341785] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637341814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637341814] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;UNKNOWN;notify-service-by-email;NRPE: Unable to read output
+[1637341814] SERVICE ALERT: server-165;Root / Partition;UNKNOWN;HARD;4;NRPE: Unable to read output
+[1637341814] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Current Load;1637341814
+[1637341814] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;UNKNOWN;notify-service-by-email;NRPE: Unable to read output
+[1637341814] SERVICE ALERT: server-165;Current Load;UNKNOWN;HARD;4;NRPE: Unable to read output
+[1637341817] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;UNKNOWN;notify-service-by-email;NRPE: Unable to read output
+[1637341817] SERVICE ALERT: server-165;Total Processes;UNKNOWN;HARD;4;NRPE: Unable to read output
+[1637341818] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637341820] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637341825] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637341846] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Current Users;1637341845
+[1637341846] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;UNKNOWN;notify-service-by-email;NRPE: Unable to read output
+[1637341846] SERVICE ALERT: server-165;Current Users;UNKNOWN;HARD;4;NRPE: Unable to read output
+[1637341860] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637341862] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;SWAP Uasge;1637341861
+[1637341862] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;UNKNOWN;notify-service-by-email;NRPE: Unable to read output
+[1637341862] SERVICE ALERT: server-165;SWAP Uasge;UNKNOWN;HARD;4;NRPE: Unable to read output
+[1637341863] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637341897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637341954] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.005 second response time
+[1637341954] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 270 processes
+[1637341965] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637341965] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637341971] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637342009] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Current Load;1637342008
+[1637342009] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Load;OK;notify-service-by-email;OK - load average: 0.12, 0.20, 0.16
+[1637342009] SERVICE ALERT: server-165;Current Load;OK;HARD;4;OK - load average: 0.12, 0.20, 0.16
+[1637342014] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637342017] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Current Users;1637342017
+[1637342017] SERVICE NOTIFICATION: nagiosadmin;server-165;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1637342017] SERVICE ALERT: server-165;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1637342029] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Root / Partition;1637342028
+[1637342029] SERVICE NOTIFICATION: nagiosadmin;server-165;Root / Partition;OK;notify-service-by-email;DISK OK - free space: / 10358 MB (74% inode=95%):
+[1637342029] SERVICE ALERT: server-165;Root / Partition;OK;HARD;4;DISK OK - free space: / 10358 MB (74% inode=95%):
+[1637342036] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;SWAP Uasge;1637342035
+[1637342036] SERVICE NOTIFICATION: nagiosadmin;server-165;SWAP Uasge;OK;notify-service-by-email;SWAP OK - 100% free (980 MB out of 980 MB)
+[1637342036] SERVICE ALERT: server-165;SWAP Uasge;OK;HARD;4;SWAP OK - 100% free (980 MB out of 980 MB)
+[1637342042] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Total Processes;1637342042
+[1637342042] SERVICE NOTIFICATION: nagiosadmin;server-165;Total Processes;OK;notify-service-by-email;PROCS OK: 121 processes
+[1637342042] SERVICE ALERT: server-165;Total Processes;OK;HARD;4;PROCS OK: 121 processes
+[1637342049] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Total Processes;1637342048
+[1637342065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637342065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637342065] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.184 port 5666: Connection refused
+[1637342065] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637342118] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637342118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637342199] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637342238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637342238] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637342418] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637342418] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637342591] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637342854] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637342895] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637343111] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637343128] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-173;Current Load;1637343127
+[1637343136] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-173;Current Users;1637343135
+[1637343153] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-173;Current Users;1637343152
+[1637343281] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-173;Current Load;1637343280
+[1637343287] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-173;Current Users;1637343287
+[1637344110] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-184;Current Load;1637344109
+[1637344110] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Load;OK;notify-service-by-email;OK - load average: 0.38, 0.31, 0.15
+[1637344110] SERVICE ALERT: server-184;Current Load;OK;HARD;4;OK - load average: 0.38, 0.31, 0.15
+[1637344117] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-184;Current Users;1637344117
+[1637344117] SERVICE NOTIFICATION: nagiosadmin;server-184;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1637344117] SERVICE ALERT: server-184;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1637344135] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-184;Root / Partition;1637344132
+[1637344136] SERVICE NOTIFICATION: nagiosadmin;server-184;Root / Partition;OK;notify-service-by-email;DISK OK - free space: / 11016 MB (83% inode=90%):
+[1637344136] SERVICE ALERT: server-184;Root / Partition;OK;HARD;4;DISK OK - free space: / 11016 MB (83% inode=90%):
+[1637344141] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-184;Root / Partition;1637344140
+[1637344147] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-184;SWAP Uasge;1637344147
+[1637344148] SERVICE NOTIFICATION: nagiosadmin;server-184;SWAP Uasge;OK;notify-service-by-email;SWAP OK - 100% free (3814 MB out of 3814 MB)
+[1637344148] SERVICE ALERT: server-184;SWAP Uasge;OK;HARD;4;SWAP OK - 100% free (3814 MB out of 3814 MB)
+[1637344159] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-184;Total Processes;1637344159
+[1637344178] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-184;Total Processes;1637344177
+[1637344391] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637344481] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: (ssl_err != 5) Error - Could not complete SSL handshake with 200.137.132.162: 1
+[1637344720] Auto-save of retention data completed successfully.
+[1637344994] EXTERNAL COMMAND: ENABLE_SVC_CHECK;server-107;Current Load
+[1637344995] SERVICE NOTIFICATION: nagiosadmin;server-107;Current Load;OK;notify-service-by-email;OK - load average: 1.65, 0.89, 0.48
+[1637344995] SERVICE ALERT: server-107;Current Load;OK;HARD;4;OK - load average: 1.65, 0.89, 0.48
+[1637344998] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-107;Current Load;1637344996
+[1637345017] EXTERNAL COMMAND: ENABLE_SVC_CHECK;server-107;Current Users
+[1637345017] SERVICE NOTIFICATION: nagiosadmin;server-107;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1637345017] SERVICE ALERT: server-107;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1637345021] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-107;Current Users;1637345019
+[1637345031] EXTERNAL COMMAND: ENABLE_SVC_CHECK;server-107;Root / Partition
+[1637345031] SERVICE NOTIFICATION: nagiosadmin;server-107;Root / Partition;OK;notify-service-by-email;DISK OK - free space: / 12241 MB (49% inode=86%):
+[1637345031] SERVICE ALERT: server-107;Root / Partition;OK;HARD;4;DISK OK - free space: / 12241 MB (49% inode=86%):
+[1637345033] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-107;Root / Partition;1637345032
+[1637345043] EXTERNAL COMMAND: ENABLE_SVC_CHECK;server-107;SWAP Uasge
+[1637345043] SERVICE NOTIFICATION: nagiosadmin;server-107;SWAP Uasge;OK;notify-service-by-email;SWAP OK - 100% free (2039 MB out of 2047 MB)
+[1637345043] SERVICE ALERT: server-107;SWAP Uasge;OK;HARD;4;SWAP OK - 100% free (2039 MB out of 2047 MB)
+[1637345047] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-107;SWAP Uasge;1637345046
+[1637345058] EXTERNAL COMMAND: DISABLE_SVC_CHECK;server-107;SWAP Uasge
+[1637345060] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-107;SWAP Uasge;1637345059
+[1637345070] EXTERNAL COMMAND: ENABLE_SVC_CHECK;server-107;SWAP Uasge
+[1637345078] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 195 processes
+[1637345078] SERVICE ALERT: server-184;Total Processes;WARNING;HARD;4;PROCS WARNING: 195 processes
+[1637345079] EXTERNAL COMMAND: ENABLE_SVC_CHECK;server-107;Total Processes
+[1637345079] SERVICE NOTIFICATION: nagiosadmin;server-107;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 176 processes
+[1637345079] SERVICE ALERT: server-107;Total Processes;WARNING;HARD;4;PROCS WARNING: 176 processes
+[1637345086] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-107;Total Processes;1637345085
+[1637345114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637345121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637345199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637345306] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.47 port 5666: Connection refused
+[1637345346] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-162;Current Load;1637345345
+[1637345346] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Load;OK;notify-service-by-email;OK - load average: 0.17, 0.13, 0.04
+[1637345346] SERVICE ALERT: server-162;Current Load;OK;HARD;4;OK - load average: 0.17, 0.13, 0.04
+[1637345367] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-162;Current Users;1637345366
+[1637345367] SERVICE NOTIFICATION: nagiosadmin;server-162;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1637345367] SERVICE ALERT: server-162;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1637345385] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637345387] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637345390] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-162;Root / Partition;1637345389
+[1637345390] SERVICE NOTIFICATION: nagiosadmin;server-162;Root / Partition;OK;notify-service-by-email;DISK OK - free space: / 20964 MB (80% inode=88%):
+[1637345390] SERVICE ALERT: server-162;Root / Partition;OK;HARD;4;DISK OK - free space: / 20964 MB (80% inode=88%):
+[1637345397] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-162;SWAP Uasge;1637345396
+[1637345397] SERVICE NOTIFICATION: nagiosadmin;server-162;SWAP Uasge;OK;notify-service-by-email;SWAP OK - 92% free (1749 MB out of 1905 MB)
+[1637345397] SERVICE ALERT: server-162;SWAP Uasge;OK;HARD;4;SWAP OK - 92% free (1749 MB out of 1905 MB)
+[1637345403] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-162;SWAP Uasge;1637345402
+[1637345412] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-162;Total Processes;1637345411
+[1637345412] SERVICE NOTIFICATION: nagiosadmin;server-162;Total Processes;OK;notify-service-by-email;PROCS OK: 138 processes
+[1637345412] SERVICE ALERT: server-162;Total Processes;OK;HARD;4;PROCS OK: 138 processes
+[1637345414] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637345421] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637345421] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-162;Total Processes;1637345421
+[1637345497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637345554] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637345554] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 274 processes
+[1637345565] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637345565] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 200.137.132.47: Connection reset by peer
+[1637345571] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637345614] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637345665] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637345665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637345665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637345681] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637345718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637345718] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 200.137.132.47: Connection reset by peer
+[1637345799] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 200.137.132.47: Connection reset by peer
+[1637345838] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;CRITICAL;notify-service-by-email;CHECK_NRPE: Error - Could not connect to 200.137.132.47: Connection reset by peer
+[1637345838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637346018] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637346018] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637346191] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637346738] SERVICE NOTIFICATION: nagiosadmin;server-047;Root / Partition;OK;notify-service-by-email;DISK OK - free space: / 11441 MB (78% inode=90%):
+[1637346738] SERVICE ALERT: server-047;Root / Partition;OK;HARD;4;DISK OK - free space: / 11441 MB (78% inode=90%):
+[1637346764] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;Current Load;1637346763
+[1637346764] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Load;OK;notify-service-by-email;OK - load average: 0.01, 0.10, 0.09
+[1637346764] SERVICE ALERT: server-047;Current Load;OK;HARD;4;OK - load average: 0.01, 0.10, 0.09
+[1637346773] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;Current Load;1637346772
+[1637346781] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;Current Users;1637346780
+[1637346781] SERVICE NOTIFICATION: nagiosadmin;server-047;Current Users;OK;notify-service-by-email;USERS OK - 1 users currently logged in
+[1637346781] SERVICE ALERT: server-047;Current Users;OK;HARD;4;USERS OK - 1 users currently logged in
+[1637346787] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;SWAP Uasge;1637346787
+[1637346787] SERVICE NOTIFICATION: nagiosadmin;server-047;SWAP Uasge;OK;notify-service-by-email;SWAP OK - 100% free (3788 MB out of 3788 MB)
+[1637346787] SERVICE ALERT: server-047;SWAP Uasge;OK;HARD;4;SWAP OK - 100% free (3788 MB out of 3788 MB)
+[1637346796] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;Total Processes;1637346795
+[1637346806] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;Total Processes;1637346805
+[1637347106] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 190 processes
+[1637347106] SERVICE ALERT: server-047;Total Processes;WARNING;HARD;4;PROCS WARNING: 190 processes
+[1637348288] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;Total Processes;1637348288
+[1637348320] Auto-save of retention data completed successfully.
+[1637348379] SERVICE NOTIFICATION: nagiosadmin;server-184;Total Processes;OK;notify-service-by-email;PROCS OK: 199 processes
+[1637348379] SERVICE ALERT: server-184;Total Processes;OK;HARD;4;PROCS OK: 199 processes
+[1637348676] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;Total Processes;1637348675
+[1637348676] SERVICE NOTIFICATION: nagiosadmin;server-047;Total Processes;OK;notify-service-by-email;PROCS OK: 194 processes
+[1637348676] SERVICE ALERT: server-047;Total Processes;OK;HARD;4;PROCS OK: 194 processes
+[1637348685] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-047;Total Processes;1637348684
+[1637348686] SERVICE NOTIFICATION: nagiosadmin;server-107;Total Processes;OK;notify-service-by-email;PROCS OK: 170 processes
+[1637348686] SERVICE ALERT: server-107;Total Processes;OK;HARD;4;PROCS OK: 170 processes
+[1637348693] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-107;Total Processes;1637348692
+[1637348699] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-179;Total Processes;1637348698
+[1637348714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637348721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637348799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637348958] EXTERNAL COMMAND: SCHEDULE_FORCED_SVC_CHECK;server-165;PING;1637348957
+[1637348985] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637348987] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637349014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637349097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637349154] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637349165] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637349171] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637349209] EXTERNAL COMMAND: ENABLE_SVC_NOTIFICATIONS;localhost;HTTP
+[1637349214] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637349265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637349265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637349265] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637349281] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637349299] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 261 processes
+[1637349300] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637349318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637349320] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637349438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637349618] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637349618] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637349791] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637351920] Auto-save of retention data completed successfully.
+[1637352314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637352321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637352399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637352585] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637352587] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637352614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637352697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637352754] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637352765] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637352771] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637352814] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637352865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637352865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637352865] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637352881] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637352899] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 262 processes
+[1637352900] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637352918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637352920] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637353038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637353218] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637353218] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637353391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637355520] Auto-save of retention data completed successfully.
+[1637355914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637355921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637355999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637356185] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637356187] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637356214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637356297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637356354] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637356365] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637356371] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637356414] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637356465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637356465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637356465] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637356481] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637356499] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 261 processes
+[1637356500] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637356518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637356520] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637356638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637356818] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637356818] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637356991] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637359119] Auto-save of retention data completed successfully.
+[1637359514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637359521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637359599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637359785] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637359787] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637359814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637359897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637359954] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637359965] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637359971] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637360014] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637360065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637360065] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637360065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637360081] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637360100] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 261 processes
+[1637360100] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637360118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637360120] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637360238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637360418] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637360418] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637360591] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637362719] Auto-save of retention data completed successfully.
+[1637363114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637363121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637363199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637363385] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637363387] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637363414] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637363497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637363554] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637363565] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637363571] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637363614] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637363665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637363665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637363665] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637363681] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637363700] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637363718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637363720] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637363838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637363999] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637364018] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637364018] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637364191] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637366320] Auto-save of retention data completed successfully.
+[1637366714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637366721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637366799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637366985] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637366987] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637367014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637367097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637367154] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637367165] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637367171] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637367214] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637367265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637367265] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637367265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637367281] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637367300] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637367318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637367320] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637367438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637367599] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 258 processes
+[1637367618] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637367618] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637367791] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637369920] Auto-save of retention data completed successfully.
+[1637370314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637370321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637370399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637370585] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637370587] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637370614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637370697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637370754] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637370765] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637370772] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637370814] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637370865] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637370865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637370865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637370881] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637370900] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637370918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637370920] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637371038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637371199] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637371218] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637371218] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637371391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637373520] Auto-save of retention data completed successfully.
+[1637373914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637373921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637373999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637374185] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637374187] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637374214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637374297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637374354] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637374366] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637374374] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637374414] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637374465] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637374465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637374465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637374481] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637374500] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637374518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637374520] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637374638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637374800] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637374818] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637374818] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637374991] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637377120] Auto-save of retention data completed successfully.

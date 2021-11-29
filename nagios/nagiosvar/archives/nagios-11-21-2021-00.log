@@ -1,0 +1,674 @@
+[1637377200] LOG ROTATION: DAILY
+[1637377200] LOG VERSION: 2.0
+[1637377200] CURRENT HOST STATE: localhost;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1637377200] CURRENT HOST STATE: server-047;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.53 ms
+[1637377200] CURRENT HOST STATE: server-078;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1637377200] CURRENT HOST STATE: server-107;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.44 ms
+[1637377200] CURRENT HOST STATE: server-113;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.76 ms
+[1637377200] CURRENT HOST STATE: server-162;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.82 ms
+[1637377200] CURRENT HOST STATE: server-164;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.35 ms
+[1637377200] CURRENT HOST STATE: server-165;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1637377200] CURRENT HOST STATE: server-173;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.80 ms
+[1637377200] CURRENT HOST STATE: server-179;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.09 ms
+[1637377200] CURRENT HOST STATE: server-184;UP;HARD;1;PING OK - Packet loss = 0%, RTA = 0.60 ms
+[1637377200] CURRENT SERVICE STATE: localhost;Current Load;OK;HARD;1;OK - load average: 0.03, 0.03, 0.01
+[1637377200] CURRENT SERVICE STATE: localhost;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637377200] CURRENT SERVICE STATE: localhost;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637377200] CURRENT SERVICE STATE: localhost;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.08 ms
+[1637377200] CURRENT SERVICE STATE: localhost;Root Partition;OK;HARD;1;DISK OK - free space: / 13464 MiB (25.42% inode=89%):
+[1637377200] CURRENT SERVICE STATE: localhost;Swap Usage;OK;HARD;1;SWAP OK - 100% free (4091 MB out of 4091 MB)
+[1637377200] CURRENT SERVICE STATE: localhost;Total Processes;OK;HARD;1;PROCS OK: 17 processes with STATE = RSZDT
+[1637377200] CURRENT SERVICE STATE: server-047;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1637377200] CURRENT SERVICE STATE: server-047;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637377200] CURRENT SERVICE STATE: server-047;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 11001 bytes in 0.003 second response time
+[1637377200] CURRENT SERVICE STATE: server-047;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.75 ms
+[1637377200] CURRENT SERVICE STATE: server-047;Root / Partition;OK;HARD;1;DISK OK - free space: / 11441 MB (78% inode=90%):
+[1637377200] CURRENT SERVICE STATE: server-047;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (3788 MB out of 3788 MB)
+[1637377200] CURRENT SERVICE STATE: server-047;Total Processes;OK;HARD;1;PROCS OK: 189 processes
+[1637377200] CURRENT SERVICE STATE: server-078;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-078;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-078;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 356 bytes in 0.001 second response time
+[1637377200] CURRENT SERVICE STATE: server-078;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.69 ms
+[1637377200] CURRENT SERVICE STATE: server-078;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-078;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-078;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-107;Current Load;OK;HARD;1;OK - load average: 0.35, 0.24, 0.19
+[1637377200] CURRENT SERVICE STATE: server-107;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637377200] CURRENT SERVICE STATE: server-107;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 56600 bytes in 0.080 second response time
+[1637377200] CURRENT SERVICE STATE: server-107;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.37 ms
+[1637377200] CURRENT SERVICE STATE: server-107;Root / Partition;OK;HARD;1;DISK OK - free space: / 12241 MB (49% inode=86%):
+[1637377200] CURRENT SERVICE STATE: server-107;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (2039 MB out of 2047 MB)
+[1637377200] CURRENT SERVICE STATE: server-107;Total Processes;OK;HARD;1;PROCS OK: 148 processes
+[1637377200] CURRENT SERVICE STATE: server-113;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-113;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-113;HTTP;OK;HARD;1;HTTP OK: HTTP/1.0 303 See Other - 905 bytes in 0.023 second response time
+[1637377200] CURRENT SERVICE STATE: server-113;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.58 ms
+[1637377200] CURRENT SERVICE STATE: server-113;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-113;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-113;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-162;Current Load;OK;HARD;1;OK - load average: 0.00, 0.01, 0.00
+[1637377200] CURRENT SERVICE STATE: server-162;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637377200] CURRENT SERVICE STATE: server-162;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 5992 bytes in 0.027 second response time
+[1637377200] CURRENT SERVICE STATE: server-162;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.48 ms
+[1637377200] CURRENT SERVICE STATE: server-162;Root / Partition;OK;HARD;1;DISK OK - free space: / 20962 MB (80% inode=88%):
+[1637377200] CURRENT SERVICE STATE: server-162;SWAP Uasge;OK;HARD;1;SWAP OK - 93% free (1754 MB out of 1905 MB)
+[1637377200] CURRENT SERVICE STATE: server-162;Total Processes;OK;HARD;1;PROCS OK: 127 processes
+[1637377200] CURRENT SERVICE STATE: server-164;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-164;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-164;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.002 second response time
+[1637377200] CURRENT SERVICE STATE: server-164;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.41 ms
+[1637377200] CURRENT SERVICE STATE: server-164;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-164;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-164;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-165;Current Load;OK;HARD;1;OK - load average: 0.00, 0.00, 0.00
+[1637377200] CURRENT SERVICE STATE: server-165;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637377200] CURRENT SERVICE STATE: server-165;HTTP;OK;HARD;1;HTTP OK: HTTP/1.0 303 See Other - 923 bytes in 0.038 second response time
+[1637377200] CURRENT SERVICE STATE: server-165;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.55 ms
+[1637377200] CURRENT SERVICE STATE: server-165;Root / Partition;OK;HARD;1;DISK OK - free space: / 10358 MB (74% inode=95%):
+[1637377200] CURRENT SERVICE STATE: server-165;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (980 MB out of 980 MB)
+[1637377200] CURRENT SERVICE STATE: server-165;Total Processes;OK;HARD;1;PROCS OK: 111 processes
+[1637377200] CURRENT SERVICE STATE: server-173;Current Load;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-173;Current Users;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-173;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 200 OK - 10975 bytes in 0.744 second response time
+[1637377200] CURRENT SERVICE STATE: server-173;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.56 ms
+[1637377200] CURRENT SERVICE STATE: server-173;Root / Partition;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-173;SWAP Uasge;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-173;Total Processes;CRITICAL;HARD;4;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637377200] CURRENT SERVICE STATE: server-179;Current Load;OK;HARD;1;OK - load average: 0.01, 0.02, 0.00
+[1637377200] CURRENT SERVICE STATE: server-179;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637377200] CURRENT SERVICE STATE: server-179;HTTP;OK;HARD;1;HTTP OK: HTTP/1.1 301 Moved Permanently - 335 bytes in 0.002 second response time
+[1637377200] CURRENT SERVICE STATE: server-179;LVM / Partition;OK;HARD;1;OK
+[1637377200] CURRENT SERVICE STATE: server-179;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.10 ms
+[1637377200] CURRENT SERVICE STATE: server-179;Root / Partition;OK;HARD;1;DISK OK - free space: / 13464 MB (25% inode=89%):
+[1637377200] CURRENT SERVICE STATE: server-179;SDA1 / Partition;OK;HARD;1;DISK OK - free space: /boot 299 MB (68% inode=99%):
+[1637377200] CURRENT SERVICE STATE: server-179;SDA2 / Partition;OK;HARD;1;DISK OK - free space: /dev 1940 MB (100% inode=99%):
+[1637377200] CURRENT SERVICE STATE: server-179;SDA5 / Partition;OK;HARD;1;DISK OK - free space: /dev 1940 MB (100% inode=99%):
+[1637377200] CURRENT SERVICE STATE: server-179;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (4091 MB out of 4091 MB)
+[1637377200] CURRENT SERVICE STATE: server-179;Total Processes;WARNING;HARD;4;PROCS WARNING: 257 processes
+[1637377200] CURRENT SERVICE STATE: server-184;Current Load;OK;HARD;1;OK - load average: 0.05, 0.04, 0.00
+[1637377200] CURRENT SERVICE STATE: server-184;Current Users;OK;HARD;1;USERS OK - 0 users currently logged in
+[1637377200] CURRENT SERVICE STATE: server-184;HTTP;WARNING;HARD;4;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637377200] CURRENT SERVICE STATE: server-184;PING;OK;HARD;1;PING OK - Packet loss = 0%, RTA = 0.57 ms
+[1637377200] CURRENT SERVICE STATE: server-184;Root / Partition;OK;HARD;1;DISK OK - free space: / 11016 MB (83% inode=90%):
+[1637377200] CURRENT SERVICE STATE: server-184;SWAP Uasge;OK;HARD;1;SWAP OK - 100% free (3814 MB out of 3814 MB)
+[1637377200] CURRENT SERVICE STATE: server-184;Total Processes;OK;HARD;1;PROCS OK: 196 processes
+[1637377514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637377599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637377785] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377787] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637377814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637377897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637377954] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637377966] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637377974] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637378014] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637378065] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637378065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637378065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637378081] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637378100] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637378118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637378120] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637378238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637378418] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637378418] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637378591] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637378699] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637380720] Auto-save of retention data completed successfully.
+[1637381114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637381121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637381199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637381386] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637381387] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637381414] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637381497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637381554] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637381566] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637381574] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637381615] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637381665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637381665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637381665] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637381681] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637381700] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637381718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637381720] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637381838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637382018] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637382018] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637382191] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637382299] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637384320] Auto-save of retention data completed successfully.
+[1637384714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637384721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637384799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637384986] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637384987] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637385014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637385097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637385154] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637385166] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637385174] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637385215] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637385265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637385265] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637385265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637385281] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637385300] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637385318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637385320] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637385438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637385618] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637385618] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637385791] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637385899] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637387920] Auto-save of retention data completed successfully.
+[1637388314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637388321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637388399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637388586] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637388587] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637388614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637388697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637388754] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637388766] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637388775] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637388815] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637388865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637388865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637388866] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637388881] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637388900] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637388918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637388920] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637389038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637389218] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637389218] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637389391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637389499] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 252 processes
+[1637391520] Auto-save of retention data completed successfully.
+[1637391914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637391921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637391999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637392186] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637392187] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637392214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637392297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637392354] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637392366] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637392375] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637392415] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637392465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637392465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637392482] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637392500] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637392518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637392520] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637392638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637392765] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637392818] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637392818] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637392991] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637393099] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+[1637393845] SERVICE ALERT: server-173;PING;WARNING;SOFT;1;PING WARNING - DUPLICATES FOUND! Packet loss = 0%, RTA = 0.61 ms
+[1637393909] SERVICE ALERT: server-173;PING;OK;SOFT;2;PING OK - Packet loss = 0%, RTA = 0.74 ms
+[1637395119] Auto-save of retention data completed successfully.
+[1637395514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637395521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637395599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637395786] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637395787] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637395814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637395897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637395954] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637395966] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637395975] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637396015] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637396065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637396065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637396100] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637396118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637396120] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637396238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637396365] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637396381] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637396418] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637396418] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637396591] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637396699] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+[1637398720] Auto-save of retention data completed successfully.
+[1637399114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637399121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637399199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637399386] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637399388] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637399414] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637399497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637399554] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637399568] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637399575] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637399615] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637399665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637399665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637399700] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637399718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637399720] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637399838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637399965] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637399981] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637400018] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637400018] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637400191] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637400299] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+[1637402320] Auto-save of retention data completed successfully.
+[1637402714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637402721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637402799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637402986] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637402988] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637403014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637403097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637403154] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637403168] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637403175] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637403215] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637403265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637403265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637403300] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637403318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637403320] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637403438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637403565] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637403581] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637403618] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637403618] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637403791] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637403899] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637405919] Auto-save of retention data completed successfully.
+[1637406314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637406321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637406399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637406587] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637406588] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637406614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637406697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637406754] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637406768] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637406775] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637406815] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637406865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637406865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637406900] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637406918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637406920] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637407038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637407165] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637407181] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637407218] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637407218] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637407391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637407500] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637409520] Auto-save of retention data completed successfully.
+[1637409914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637409921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637409999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637410188] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637410214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637410297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637410354] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637410368] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637410375] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637410416] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637410465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637410465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637410486] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637410500] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637410518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637410520] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637410638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637410765] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637410781] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637410818] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637410818] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637410991] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637411399] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 257 processes
+[1637413120] Auto-save of retention data completed successfully.
+[1637413514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637413521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637413599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637413788] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637413814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637413897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637413954] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637413968] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637413975] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637414065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637414065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637414086] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637414100] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637414118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637414120] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637414238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637414315] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637414365] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637414381] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637414418] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637414418] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637414591] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637414999] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 252 processes
+[1637416720] Auto-save of retention data completed successfully.
+[1637417114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637417121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637417199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637417388] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637417414] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637417497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637417554] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637417568] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637417575] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637417665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637417665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637417686] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637417700] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637417718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637417720] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637417838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637417915] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637417965] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637417981] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637418018] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637418018] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637418191] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637418599] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637420320] Auto-save of retention data completed successfully.
+[1637420714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637420721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637420799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637420988] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637421014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637421097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637421155] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637421168] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637421175] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637421265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637421265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637421286] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637421300] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637421318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637421320] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637421438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637421515] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637421565] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637421581] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637421619] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637421619] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637421791] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637422200] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637423920] Auto-save of retention data completed successfully.
+[1637424314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637424321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637424399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637424588] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637424614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637424697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637424755] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637424768] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637424775] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637424865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637424865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637424886] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637424900] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637424918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637424920] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637425038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637425115] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637425165] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637425181] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637425391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637425518] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637425518] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637426099] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637427520] Auto-save of retention data completed successfully.
+[1637427914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637427921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637427999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637428188] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637428214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637428297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637428355] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637428368] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637428375] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637428465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637428465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637428486] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637428500] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637428518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637428520] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637428638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637428715] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637428765] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637428781] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637428991] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637429118] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637429118] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637429699] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637431120] Auto-save of retention data completed successfully.
+[1637431514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637431521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637431599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637431788] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637431814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637431897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637431955] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637431968] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637431975] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637432065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637432065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637432086] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637432100] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637432118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637432120] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637432238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637432315] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637432365] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637432381] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637432591] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637432718] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637432718] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637433299] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 253 processes
+[1637434720] Auto-save of retention data completed successfully.
+[1637435114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637435121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637435199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637435388] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637435414] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637435497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637435555] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637435568] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637435575] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637435665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637435665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637435686] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637435700] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637435718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637435720] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637435838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637435915] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637435965] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637435981] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637436191] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637436318] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637436318] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637436900] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637438320] Auto-save of retention data completed successfully.
+[1637438714] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637438721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637438799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637438988] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637439014] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637439097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637439155] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637439168] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637439175] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637439265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637439265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637439286] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637439300] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637439318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637439320] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637439438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637439515] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637439565] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637439581] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637439791] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637439918] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637439918] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637440799] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637441920] Auto-save of retention data completed successfully.
+[1637442314] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637442321] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637442399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637442588] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637442614] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637442697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637442755] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637442769] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637442775] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637442865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637442865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637442886] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637442900] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637442918] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637442920] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637443038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637443115] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637443165] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637443181] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637443391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637443518] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637443518] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637444399] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637445519] Auto-save of retention data completed successfully.
+[1637445914] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637445921] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637445999] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637446188] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637446214] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637446297] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637446355] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637446369] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637446375] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637446465] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637446465] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637446486] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637446500] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637446518] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637446520] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637446638] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637446715] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637446765] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637446781] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637446991] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637447118] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637447118] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637447999] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 254 processes
+[1637449120] Auto-save of retention data completed successfully.
+[1637449514] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637449521] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637449599] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637449789] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637449814] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637449897] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637449955] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637449969] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637449975] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637450065] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637450065] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637450086] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637450100] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637450118] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637450120] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637450238] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637450315] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637450365] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637450381] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637450591] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637450718] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637450718] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637451600] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 256 processes
+[1637452720] Auto-save of retention data completed successfully.
+[1637453114] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637453121] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637453199] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637453389] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637453415] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637453497] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637453555] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.002 second response time
+[1637453569] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637453575] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637453665] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637453665] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637453686] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637453700] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637453718] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637453721] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637453838] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637453915] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637453965] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637453981] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637454191] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637454318] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637454318] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637455499] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637456320] Auto-save of retention data completed successfully.
+[1637456716] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637456721] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637456799] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637456989] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637457016] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637457097] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637457155] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637457169] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637457175] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637457265] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637457265] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637457286] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637457300] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.002 second response time
+[1637457318] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637457321] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637457438] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637457515] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637457565] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637457581] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637457604] SERVICE ALERT: server-107;HTTP;CRITICAL;SOFT;1;CRITICAL - Socket timeout
+[1637457673] SERVICE ALERT: server-107;HTTP;OK;SOFT;2;HTTP OK: HTTP/1.1 200 OK - 56600 bytes in 8.201 second response time
+[1637457791] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637457918] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637457919] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637459099] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 252 processes
+[1637459920] Auto-save of retention data completed successfully.
+[1637460316] SERVICE NOTIFICATION: nagiosadmin;server-113;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637460325] SERVICE NOTIFICATION: nagiosadmin;server-173;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637460399] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637460589] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637460616] SERVICE NOTIFICATION: nagiosadmin;server-164;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637460697] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637460755] SERVICE NOTIFICATION: nagiosadmin;server-184;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.0 404 Not Found - 176 bytes in 0.003 second response time
+[1637460769] SERVICE NOTIFICATION: nagiosadmin;server-078;Total Processes;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637460775] SERVICE NOTIFICATION: nagiosadmin;server-164;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637460865] SERVICE NOTIFICATION: nagiosadmin;server-164;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637460865] SERVICE NOTIFICATION: nagiosadmin;server-113;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637460886] SERVICE NOTIFICATION: nagiosadmin;server-113;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637460900] SERVICE NOTIFICATION: nagiosadmin;localhost;HTTP;WARNING;notify-service-by-email;HTTP WARNING: HTTP/1.1 401 Unauthorized - 695 bytes in 0.001 second response time
+[1637460919] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Users;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637460921] SERVICE NOTIFICATION: nagiosadmin;server-164;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.164 port 5666: Connection refused
+[1637461038] SERVICE NOTIFICATION: nagiosadmin;server-078;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637461115] SERVICE NOTIFICATION: nagiosadmin;server-078;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637461165] SERVICE NOTIFICATION: nagiosadmin;server-173;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637461181] SERVICE NOTIFICATION: nagiosadmin;server-173;Current Load;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637461391] SERVICE NOTIFICATION: nagiosadmin;server-078;SWAP Uasge;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.78 port 5666: Connection refused
+[1637461518] SERVICE NOTIFICATION: nagiosadmin;server-173;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.173 port 5666: Connection refused
+[1637461519] SERVICE NOTIFICATION: nagiosadmin;server-113;Root / Partition;CRITICAL;notify-service-by-email;(No output on stdout) stderr: connect to address 200.137.132.113 port 5666: Connection refused
+[1637462699] SERVICE NOTIFICATION: nagiosadmin;server-179;Total Processes;WARNING;notify-service-by-email;PROCS WARNING: 255 processes
+[1637463521] Auto-save of retention data completed successfully.
